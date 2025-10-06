@@ -1,0 +1,1 @@
+"""RenewedCare Backend Application"""
