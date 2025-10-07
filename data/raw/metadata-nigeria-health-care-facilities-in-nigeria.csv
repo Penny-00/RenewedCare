@@ -1,0 +1,68 @@
+Field,Label,Value
+id,Dataset ID,bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2
+title,Title of Dataset,Nigeria: Health Care Facilities in Nigeria
+name,Dataset URL,nigeria-health-care-facilities-in-nigeria
+notes,Description,"Nigeria country-wide primary, secondary, and tertiary health care facility points and names and functional status"
+dataset_source,Source,GRID3 Nigeria and partners
+organization,Contributor,HDX
+dataset_date,Reference Period,[2018-12-18T00:00:00 TO 2024-04-26T23:59:59]
+last_modified,Updated,2024-06-05T14:56:22
+data_update_frequency,Expected Update Frequency,Every year
+groups,Location,Nigeria
+license_title,License,Creative Commons Attribution International (CC BY)
+methodology,Methodology,Direct Observational Data/Anecdotal Data
+methodology_other,Define Methodology,
+caveats,Caveats/Comments,
+tags,Tags,"facilities-infrastructure, health facilities"
+resource_1_created,Created,2024-06-05T14:54:40.510511
+resource_1_description,Description,
+resource_1_format,File Format,SHP
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2/resource/2101856b-a471-4805-8d74-c703d99e9c47/download/grid3_nga_-_health_facilities_-1.zip
+resource_1_id,Resource ID,2101856b-a471-4805-8d74-c703d99e9c47
+resource_1_last_modified,Updated,2024-06-05T14:54:41
+resource_1_metadata_modified,Metadata Updated,2025-03-10T23:39:28.247190
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,GRID3_NGA_-_Health_Facilities
+resource_1_mimetype,MIME Type,application/x-zip-compressed
+resource_1_size,Size,4.1M
+resource_2_created,Created,2024-06-05T14:54:54.808456
+resource_2_description,Description,
+resource_2_format,File Format,CSV
+resource_2_download_url,Download URL,https://data.humdata.org/dataset/bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2/resource/1ad3ca9f-d8f0-4c13-8e57-246c2f834c4e/download/grid3_nga_-_health_facilities_-1.csv
+resource_2_id,Resource ID,1ad3ca9f-d8f0-4c13-8e57-246c2f834c4e
+resource_2_last_modified,Updated,2024-06-05T14:54:56
+resource_2_metadata_modified,Metadata Updated,2025-03-10T23:39:26.157732
+resource_2_microdata,Microdata,False
+resource_2_dataset_id,Dataset ID,bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2
+resource_2_resource_type,Resource Type,file.upload
+resource_2_name,Resource Name,GRID3_NGA_-_Health_Facilities
+resource_2_mimetype,MIME Type,text/csv
+resource_2_size,Size,13.9M
+resource_3_created,Created,2024-06-05T14:55:24.617947
+resource_3_description,Description,
+resource_3_format,File Format,GeoJSON
+resource_3_download_url,Download URL,https://data.humdata.org/dataset/bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2/resource/1c9faa0b-49fc-4971-9872-f64d580805bc/download/grid3_nga_-_health_facilities_-1.geojson
+resource_3_id,Resource ID,1c9faa0b-49fc-4971-9872-f64d580805bc
+resource_3_last_modified,Updated,2024-06-05T14:55:25
+resource_3_metadata_modified,Metadata Updated,2025-03-10T23:39:30.872047
+resource_3_microdata,Microdata,False
+resource_3_dataset_id,Dataset ID,bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2
+resource_3_resource_type,Resource Type,file.upload
+resource_3_name,Resource Name,GRID3_NGA_-_Health_Facilities
+resource_3_mimetype,MIME Type,application/octet-stream
+resource_3_size,Size,32.0M
+resource_4_created,Created,2024-06-05T14:56:20.949614
+resource_4_description,Description,
+resource_4_format,File Format,KML
+resource_4_download_url,Download URL,https://data.humdata.org/dataset/bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2/resource/9802f88b-3714-4622-bcb3-22caf1014117/download/grid3_nga_-_health_facilities_-1.kml
+resource_4_id,Resource ID,9802f88b-3714-4622-bcb3-22caf1014117
+resource_4_last_modified,Updated,2024-06-05T14:56:22
+resource_4_metadata_modified,Metadata Updated,2025-03-10T23:37:11.990478
+resource_4_microdata,Microdata,False
+resource_4_dataset_id,Dataset ID,bfd0888d-ca7f-40ec-b1e7-97eb3fe15dc2
+resource_4_resource_type,Resource Type,file.upload
+resource_4_name,Resource Name,GRID3_NGA_-_Health_Facilities
+resource_4_mimetype,MIME Type,application/vnd.google-earth.kml+xml
+resource_4_size,Size,63.2M
