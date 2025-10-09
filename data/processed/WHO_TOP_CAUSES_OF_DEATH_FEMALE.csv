@@ -1,0 +1,2014 @@
+country_code,year,diseases,sex,death_rate
+AFG,2021,syphilis,FMLE,1.4
+AFG,2021,genital herpes,FMLE,0.0
+AFG,2021,tuberculosis,FMLE,33.05
+AFG,2021,hiv/aids,FMLE,1.17
+AFG,2021,acute hepatitis b,FMLE,3.5
+AFG,2021,trichomoniasis,FMLE,0.0
+AFG,2021,chlamydia,FMLE,0.0
+AFG,2021,acute hepatitis e,FMLE,0.05
+AFG,2021,malaria,FMLE,0.27
+AFG,2021,acute hepatitis c,FMLE,0.06
+AFG,2021,acute hepatitis a,FMLE,1.96
+AGO,2021,acute hepatitis c,FMLE,0.07
+AGO,2021,acute hepatitis a,FMLE,0.32
+AGO,2021,chlamydia,FMLE,0.05
+AGO,2021,malaria,FMLE,52.96
+AGO,2021,hiv/aids,FMLE,43.0
+AGO,2021,acute hepatitis b,FMLE,0.94
+AGO,2021,trichomoniasis,FMLE,0.0
+AGO,2021,acute hepatitis e,FMLE,0.03
+AGO,2021,syphilis,FMLE,3.62
+AGO,2021,tuberculosis,FMLE,52.59
+AGO,2021,genital herpes,FMLE,0.0
+ALB,2021,malaria,FMLE,0.0
+ALB,2021,acute hepatitis c,FMLE,0.0
+ALB,2021,acute hepatitis a,FMLE,0.0
+ALB,2021,syphilis,FMLE,0.02
+ALB,2021,genital herpes,FMLE,0.0
+ALB,2021,tuberculosis,FMLE,0.21
+ALB,2021,hiv/aids,FMLE,0.28
+ALB,2021,acute hepatitis b,FMLE,0.02
+ALB,2021,trichomoniasis,FMLE,0.0
+ALB,2021,chlamydia,FMLE,0.01
+ALB,2021,acute hepatitis e,FMLE,0.0
+ARE,2021,malaria,FMLE,0.0
+ARE,2021,chlamydia,FMLE,0.0
+ARE,2021,trichomoniasis,FMLE,0.0
+ARE,2021,acute hepatitis e,FMLE,0.0
+ARE,2021,hiv/aids,FMLE,0.19
+ARE,2021,acute hepatitis b,FMLE,0.04
+ARE,2021,tuberculosis,FMLE,0.67
+ARE,2021,genital herpes,FMLE,0.0
+ARE,2021,syphilis,FMLE,0.09
+ARE,2021,acute hepatitis a,FMLE,0.01
+ARE,2021,acute hepatitis c,FMLE,0.01
+ARG,2021,trichomoniasis,FMLE,0.0
+ARG,2021,acute hepatitis e,FMLE,0.01
+ARG,2021,chlamydia,FMLE,0.0
+ARG,2021,malaria,FMLE,0.0
+ARG,2021,acute hepatitis c,FMLE,0.11
+ARG,2021,acute hepatitis a,FMLE,0.29
+ARG,2021,syphilis,FMLE,0.05
+ARG,2021,tuberculosis,FMLE,1.03
+ARG,2021,genital herpes,FMLE,0.0
+ARG,2021,hiv/aids,FMLE,1.68
+ARG,2021,acute hepatitis b,FMLE,0.03
+ARM,2021,tuberculosis,FMLE,0.84
+ARM,2021,genital herpes,FMLE,0.0
+ARM,2021,syphilis,FMLE,0.0
+ARM,2021,acute hepatitis a,FMLE,0.09
+ARM,2021,acute hepatitis c,FMLE,0.39
+ARM,2021,malaria,FMLE,0.0
+ARM,2021,chlamydia,FMLE,0.0
+ARM,2021,trichomoniasis,FMLE,0.0
+ARM,2021,acute hepatitis e,FMLE,0.0
+ARM,2021,hiv/aids,FMLE,0.3
+ARM,2021,acute hepatitis b,FMLE,0.13
+ATG,2021,malaria,FMLE,0.0
+ATG,2021,acute hepatitis c,FMLE,0.0
+ATG,2021,acute hepatitis a,FMLE,0.02
+ATG,2021,syphilis,FMLE,0.0
+ATG,2021,genital herpes,FMLE,0.0
+ATG,2021,tuberculosis,FMLE,1.77
+ATG,2021,hiv/aids,FMLE,3.53
+ATG,2021,acute hepatitis b,FMLE,0.0
+ATG,2021,trichomoniasis,FMLE,0.0
+ATG,2021,chlamydia,FMLE,0.0
+ATG,2021,acute hepatitis e,FMLE,0.0
+AUS,2021,acute hepatitis c,FMLE,0.2
+AUS,2021,chlamydia,FMLE,0.0
+AUS,2021,malaria,FMLE,0.0
+AUS,2021,trichomoniasis,FMLE,0.0
+AUS,2021,acute hepatitis e,FMLE,0.0
+AUS,2021,hiv/aids,FMLE,0.02
+AUS,2021,acute hepatitis b,FMLE,0.09
+AUS,2021,tuberculosis,FMLE,0.15
+AUS,2021,syphilis,FMLE,0.02
+AUS,2021,genital herpes,FMLE,0.0
+AUS,2021,acute hepatitis a,FMLE,0.02
+AUT,2021,acute hepatitis c,FMLE,0.7
+AUT,2021,acute hepatitis a,FMLE,0.11
+AUT,2021,syphilis,FMLE,0.0
+AUT,2021,genital herpes,FMLE,0.0
+AUT,2021,tuberculosis,FMLE,0.26
+AUT,2021,hiv/aids,FMLE,0.18
+AUT,2021,acute hepatitis b,FMLE,0.01
+AUT,2021,trichomoniasis,FMLE,0.0
+AUT,2021,acute hepatitis e,FMLE,0.04
+AUT,2021,chlamydia,FMLE,0.0
+AUT,2021,malaria,FMLE,0.0
+AZE,2021,hiv/aids,FMLE,0.5
+AZE,2021,acute hepatitis b,FMLE,0.05
+AZE,2021,tuberculosis,FMLE,2.23
+AZE,2021,genital herpes,FMLE,0.0
+AZE,2021,syphilis,FMLE,0.12
+AZE,2021,acute hepatitis a,FMLE,0.01
+AZE,2021,acute hepatitis c,FMLE,0.0
+AZE,2021,chlamydia,FMLE,0.03
+AZE,2021,malaria,FMLE,0.0
+AZE,2021,trichomoniasis,FMLE,0.0
+AZE,2021,acute hepatitis e,FMLE,0.01
+BDI,2021,acute hepatitis a,FMLE,0.22
+BDI,2021,acute hepatitis c,FMLE,0.07
+BDI,2021,malaria,FMLE,53.28
+BDI,2021,chlamydia,FMLE,0.05
+BDI,2021,acute hepatitis e,FMLE,0.01
+BDI,2021,trichomoniasis,FMLE,0.0
+BDI,2021,tuberculosis,FMLE,19.9
+BDI,2021,hiv/aids,FMLE,10.23
+BDI,2021,acute hepatitis b,FMLE,0.11
+BDI,2021,syphilis,FMLE,1.09
+BDI,2021,genital herpes,FMLE,0.0
+BEL,2021,malaria,FMLE,0.0
+BEL,2021,acute hepatitis c,FMLE,0.23
+BEL,2021,hiv/aids,FMLE,0.17
+BEL,2021,acute hepatitis b,FMLE,0.12
+BEL,2021,chlamydia,FMLE,0.0
+BEL,2021,trichomoniasis,FMLE,0.0
+BEL,2021,acute hepatitis e,FMLE,0.02
+BEL,2021,syphilis,FMLE,0.01
+BEL,2021,genital herpes,FMLE,0.0
+BEL,2021,tuberculosis,FMLE,0.29
+BEL,2021,acute hepatitis a,FMLE,0.12
+BEN,2021,acute hepatitis c,FMLE,0.06
+BEN,2021,malaria,FMLE,83.32
+BEN,2021,syphilis,FMLE,2.14
+BEN,2021,acute hepatitis a,FMLE,0.17
+BEN,2021,hiv/aids,FMLE,13.71
+BEN,2021,acute hepatitis b,FMLE,0.36
+BEN,2021,tuberculosis,FMLE,9.73
+BEN,2021,genital herpes,FMLE,0.0
+BEN,2021,chlamydia,FMLE,0.01
+BEN,2021,acute hepatitis e,FMLE,0.02
+BEN,2021,trichomoniasis,FMLE,0.0
+BFA,2021,syphilis,FMLE,1.53
+BFA,2021,genital herpes,FMLE,0.0
+BFA,2021,tuberculosis,FMLE,6.09
+BFA,2021,hiv/aids,FMLE,11.42
+BFA,2021,acute hepatitis b,FMLE,1.01
+BFA,2021,trichomoniasis,FMLE,0.0
+BFA,2021,chlamydia,FMLE,0.02
+BFA,2021,acute hepatitis e,FMLE,0.02
+BFA,2021,malaria,FMLE,71.12
+BFA,2021,acute hepatitis c,FMLE,0.1
+BFA,2021,acute hepatitis a,FMLE,0.27
+BGD,2021,acute hepatitis a,FMLE,0.88
+BGD,2021,acute hepatitis c,FMLE,0.17
+BGD,2021,malaria,FMLE,0.01
+BGD,2021,chlamydia,FMLE,0.03
+BGD,2021,acute hepatitis e,FMLE,0.04
+BGD,2021,trichomoniasis,FMLE,0.0
+BGD,2021,hiv/aids,FMLE,0.27
+BGD,2021,tuberculosis,FMLE,24.25
+BGD,2021,acute hepatitis b,FMLE,0.45
+BGD,2021,syphilis,FMLE,0.85
+BGD,2021,genital herpes,FMLE,0.0
+BGR,2021,malaria,FMLE,0.0
+BGR,2021,acute hepatitis c,FMLE,0.18
+BGR,2021,acute hepatitis a,FMLE,0.07
+BGR,2021,tuberculosis,FMLE,0.48
+BGR,2021,syphilis,FMLE,0.0
+BGR,2021,genital herpes,FMLE,0.0
+BGR,2021,hiv/aids,FMLE,0.06
+BGR,2021,acute hepatitis b,FMLE,0.29
+BGR,2021,trichomoniasis,FMLE,0.0
+BGR,2021,chlamydia,FMLE,0.0
+BGR,2021,acute hepatitis e,FMLE,0.01
+BHR,2021,hiv/aids,FMLE,0.04
+BHR,2021,acute hepatitis b,FMLE,0.16
+BHR,2021,tuberculosis,FMLE,1.15
+BHR,2021,syphilis,FMLE,0.14
+BHR,2021,genital herpes,FMLE,0.0
+BHR,2021,acute hepatitis a,FMLE,0.02
+BHR,2021,acute hepatitis c,FMLE,0.0
+BHR,2021,chlamydia,FMLE,0.01
+BHR,2021,malaria,FMLE,0.0
+BHR,2021,trichomoniasis,FMLE,0.0
+BHR,2021,acute hepatitis e,FMLE,0.01
+BHS,2021,tuberculosis,FMLE,0.67
+BHS,2021,genital herpes,FMLE,0.0
+BHS,2021,syphilis,FMLE,0.03
+BHS,2021,acute hepatitis a,FMLE,0.01
+BHS,2021,acute hepatitis c,FMLE,0.0
+BHS,2021,malaria,FMLE,0.0
+BHS,2021,chlamydia,FMLE,0.04
+BHS,2021,trichomoniasis,FMLE,0.0
+BHS,2021,acute hepatitis e,FMLE,0.0
+BHS,2021,hiv/aids,FMLE,19.58
+BHS,2021,acute hepatitis b,FMLE,0.03
+BIH,2021,chlamydia,FMLE,0.0
+BIH,2021,trichomoniasis,FMLE,0.0
+BIH,2021,acute hepatitis e,FMLE,0.0
+BIH,2021,acute hepatitis c,FMLE,0.0
+BIH,2021,malaria,FMLE,0.0
+BIH,2021,syphilis,FMLE,0.03
+BIH,2021,acute hepatitis a,FMLE,0.0
+BIH,2021,hiv/aids,FMLE,0.01
+BIH,2021,acute hepatitis b,FMLE,0.05
+BIH,2021,tuberculosis,FMLE,2.44
+BIH,2021,genital herpes,FMLE,0.0
+BLR,2021,acute hepatitis c,FMLE,0.0
+BLR,2021,acute hepatitis a,FMLE,0.0
+BLR,2021,syphilis,FMLE,0.02
+BLR,2021,tuberculosis,FMLE,1.29
+BLR,2021,genital herpes,FMLE,0.0
+BLR,2021,hiv/aids,FMLE,2.61
+BLR,2021,acute hepatitis b,FMLE,0.02
+BLR,2021,trichomoniasis,FMLE,0.0
+BLR,2021,acute hepatitis e,FMLE,0.0
+BLR,2021,chlamydia,FMLE,0.02
+BLR,2021,malaria,FMLE,0.0
+BLZ,2021,acute hepatitis a,FMLE,0.01
+BLZ,2021,syphilis,FMLE,0.02
+BLZ,2021,tuberculosis,FMLE,1.62
+BLZ,2021,genital herpes,FMLE,0.0
+BLZ,2021,hiv/aids,FMLE,19.35
+BLZ,2021,acute hepatitis b,FMLE,0.02
+BLZ,2021,trichomoniasis,FMLE,0.0
+BLZ,2021,acute hepatitis e,FMLE,0.01
+BLZ,2021,chlamydia,FMLE,0.02
+BLZ,2021,malaria,FMLE,0.0
+BLZ,2021,acute hepatitis c,FMLE,0.0
+BOL,2021,acute hepatitis a,FMLE,0.04
+BOL,2021,malaria,FMLE,0.03
+BOL,2021,acute hepatitis c,FMLE,0.01
+BOL,2021,hiv/aids,FMLE,4.07
+BOL,2021,acute hepatitis b,FMLE,0.02
+BOL,2021,chlamydia,FMLE,0.02
+BOL,2021,trichomoniasis,FMLE,0.0
+BOL,2021,acute hepatitis e,FMLE,0.0
+BOL,2021,syphilis,FMLE,1.48
+BOL,2021,genital herpes,FMLE,0.0
+BOL,2021,tuberculosis,FMLE,11.03
+BRA,2021,acute hepatitis a,FMLE,0.31
+BRA,2021,acute hepatitis c,FMLE,0.37
+BRA,2021,malaria,FMLE,0.02
+BRA,2021,chlamydia,FMLE,0.0
+BRA,2021,acute hepatitis e,FMLE,0.01
+BRA,2021,trichomoniasis,FMLE,0.0
+BRA,2021,tuberculosis,FMLE,2.31
+BRA,2021,hiv/aids,FMLE,3.61
+BRA,2021,acute hepatitis b,FMLE,0.22
+BRA,2021,syphilis,FMLE,0.1
+BRA,2021,genital herpes,FMLE,0.0
+BRB,2021,acute hepatitis c,FMLE,0.01
+BRB,2021,chlamydia,FMLE,0.02
+BRB,2021,malaria,FMLE,0.0
+BRB,2021,trichomoniasis,FMLE,0.0
+BRB,2021,acute hepatitis e,FMLE,0.01
+BRB,2021,hiv/aids,FMLE,11.33
+BRB,2021,acute hepatitis b,FMLE,0.03
+BRB,2021,tuberculosis,FMLE,0.47
+BRB,2021,syphilis,FMLE,0.03
+BRB,2021,genital herpes,FMLE,0.0
+BRB,2021,acute hepatitis a,FMLE,0.03
+BRN,2021,trichomoniasis,FMLE,0.0
+BRN,2021,acute hepatitis e,FMLE,0.01
+BRN,2021,hiv/aids,FMLE,0.0
+BRN,2021,acute hepatitis b,FMLE,0.97
+BRN,2021,acute hepatitis c,FMLE,0.71
+BRN,2021,chlamydia,FMLE,0.0
+BRN,2021,malaria,FMLE,0.0
+BRN,2021,acute hepatitis a,FMLE,0.22
+BRN,2021,tuberculosis,FMLE,5.45
+BRN,2021,genital herpes,FMLE,0.0
+BRN,2021,syphilis,FMLE,0.15
+BTN,2021,tuberculosis,FMLE,26.28
+BTN,2021,trichomoniasis,FMLE,0.0
+BTN,2021,hiv/aids,FMLE,3.14
+BTN,2021,acute hepatitis b,FMLE,0.48
+BTN,2021,acute hepatitis a,FMLE,0.33
+BTN,2021,syphilis,FMLE,0.81
+BTN,2021,genital herpes,FMLE,0.0
+BTN,2021,acute hepatitis c,FMLE,0.21
+BTN,2021,chlamydia,FMLE,0.04
+BTN,2021,acute hepatitis e,FMLE,0.05
+BTN,2021,malaria,FMLE,0.0
+BWA,2021,tuberculosis,FMLE,55.06
+BWA,2021,genital herpes,FMLE,0.0
+BWA,2021,syphilis,FMLE,1.51
+BWA,2021,acute hepatitis a,FMLE,0.06
+BWA,2021,acute hepatitis c,FMLE,0.02
+BWA,2021,malaria,FMLE,0.16
+BWA,2021,chlamydia,FMLE,0.05
+BWA,2021,trichomoniasis,FMLE,0.0
+BWA,2021,acute hepatitis e,FMLE,0.01
+BWA,2021,hiv/aids,FMLE,139.8
+BWA,2021,acute hepatitis b,FMLE,0.19
+CAF,2021,acute hepatitis c,FMLE,0.14
+CAF,2021,malaria,FMLE,103.2
+CAF,2021,syphilis,FMLE,3.99
+CAF,2021,acute hepatitis a,FMLE,0.81
+CAF,2021,hiv/aids,FMLE,95.39
+CAF,2021,acute hepatitis b,FMLE,1.01
+CAF,2021,tuberculosis,FMLE,148.95
+CAF,2021,genital herpes,FMLE,0.0
+CAF,2021,chlamydia,FMLE,0.05
+CAF,2021,trichomoniasis,FMLE,0.0
+CAF,2021,acute hepatitis e,FMLE,0.04
+CAN,2021,acute hepatitis c,FMLE,0.36
+CAN,2021,syphilis,FMLE,0.01
+CAN,2021,genital herpes,FMLE,0.0
+CAN,2021,acute hepatitis a,FMLE,0.05
+CAN,2021,hiv/aids,FMLE,0.14
+CAN,2021,acute hepatitis b,FMLE,0.11
+CAN,2021,tuberculosis,FMLE,0.24
+CAN,2021,malaria,FMLE,0.0
+CAN,2021,chlamydia,FMLE,0.0
+CAN,2021,trichomoniasis,FMLE,0.0
+CAN,2021,acute hepatitis e,FMLE,0.0
+CHE,2021,chlamydia,FMLE,0.0
+CHE,2021,acute hepatitis e,FMLE,0.02
+CHE,2021,trichomoniasis,FMLE,0.0
+CHE,2021,tuberculosis,FMLE,0.15
+CHE,2021,hiv/aids,FMLE,0.22
+CHE,2021,acute hepatitis b,FMLE,0.01
+CHE,2021,syphilis,FMLE,0.02
+CHE,2021,genital herpes,FMLE,0.0
+CHE,2021,acute hepatitis a,FMLE,0.09
+CHE,2021,acute hepatitis c,FMLE,0.0
+CHE,2021,malaria,FMLE,0.0
+CHL,2021,syphilis,FMLE,0.02
+CHL,2021,acute hepatitis a,FMLE,0.02
+CHL,2021,hiv/aids,FMLE,0.85
+CHL,2021,acute hepatitis b,FMLE,0.08
+CHL,2021,tuberculosis,FMLE,1.08
+CHL,2021,genital herpes,FMLE,0.0
+CHL,2021,chlamydia,FMLE,0.0
+CHL,2021,trichomoniasis,FMLE,0.0
+CHL,2021,acute hepatitis e,FMLE,0.02
+CHL,2021,acute hepatitis c,FMLE,0.05
+CHL,2021,malaria,FMLE,0.0
+CHN,2021,acute hepatitis c,FMLE,0.0
+CHN,2021,acute hepatitis a,FMLE,0.0
+CHN,2021,chlamydia,FMLE,0.01
+CHN,2021,acute hepatitis e,FMLE,0.0
+CHN,2021,malaria,FMLE,0.0
+CHN,2021,tuberculosis,FMLE,1.48
+CHN,2021,hiv/aids,FMLE,1.47
+CHN,2021,acute hepatitis b,FMLE,0.09
+CHN,2021,trichomoniasis,FMLE,0.0
+CHN,2021,syphilis,FMLE,0.12
+CHN,2021,genital herpes,FMLE,0.0
+CIV,2021,chlamydia,FMLE,0.01
+CIV,2021,trichomoniasis,FMLE,0.0
+CIV,2021,acute hepatitis e,FMLE,0.01
+CIV,2021,hiv/aids,FMLE,36.63
+CIV,2021,acute hepatitis b,FMLE,0.22
+CIV,2021,tuberculosis,FMLE,23.39
+CIV,2021,genital herpes,FMLE,0.0
+CIV,2021,syphilis,FMLE,3.46
+CIV,2021,acute hepatitis a,FMLE,0.09
+CIV,2021,acute hepatitis c,FMLE,0.04
+CIV,2021,malaria,FMLE,42.61
+CMR,2021,tuberculosis,FMLE,43.95
+CMR,2021,hiv/aids,FMLE,45.11
+CMR,2021,acute hepatitis b,FMLE,0.12
+CMR,2021,chlamydia,FMLE,0.02
+CMR,2021,trichomoniasis,FMLE,0.0
+CMR,2021,acute hepatitis e,FMLE,0.01
+CMR,2021,malaria,FMLE,45.94
+CMR,2021,acute hepatitis c,FMLE,0.02
+CMR,2021,acute hepatitis a,FMLE,0.07
+CMR,2021,syphilis,FMLE,4.96
+CMR,2021,genital herpes,FMLE,0.0
+COD,2021,trichomoniasis,FMLE,0.0
+COD,2021,acute hepatitis e,FMLE,0.02
+COD,2021,hiv/aids,FMLE,14.83
+COD,2021,acute hepatitis b,FMLE,0.16
+COD,2021,tuberculosis,FMLE,48.33
+COD,2021,genital herpes,FMLE,0.0
+COD,2021,syphilis,FMLE,5.66
+COD,2021,acute hepatitis a,FMLE,0.15
+COD,2021,acute hepatitis c,FMLE,0.03
+COD,2021,malaria,FMLE,71.99
+COD,2021,chlamydia,FMLE,0.03
+COG,2021,acute hepatitis a,FMLE,0.15
+COG,2021,acute hepatitis c,FMLE,0.03
+COG,2021,malaria,FMLE,35.73
+COG,2021,chlamydia,FMLE,0.03
+COG,2021,acute hepatitis e,FMLE,0.01
+COG,2021,trichomoniasis,FMLE,0.0
+COG,2021,hiv/aids,FMLE,155.37
+COG,2021,acute hepatitis b,FMLE,0.62
+COG,2021,tuberculosis,FMLE,99.51
+COG,2021,genital herpes,FMLE,0.0
+COG,2021,syphilis,FMLE,1.86
+COL,2021,acute hepatitis c,FMLE,0.07
+COL,2021,syphilis,FMLE,0.06
+COL,2021,acute hepatitis a,FMLE,0.09
+COL,2021,hiv/aids,FMLE,2.18
+COL,2021,acute hepatitis b,FMLE,0.07
+COL,2021,tuberculosis,FMLE,2.96
+COL,2021,genital herpes,FMLE,0.0
+COL,2021,chlamydia,FMLE,0.0
+COL,2021,malaria,FMLE,0.02
+COL,2021,trichomoniasis,FMLE,0.0
+COL,2021,acute hepatitis e,FMLE,0.0
+COM,2021,acute hepatitis c,FMLE,0.09
+COM,2021,malaria,FMLE,3.27
+COM,2021,chlamydia,FMLE,0.07
+COM,2021,acute hepatitis e,FMLE,0.01
+COM,2021,trichomoniasis,FMLE,0.0
+COM,2021,hiv/aids,FMLE,0.2
+COM,2021,tuberculosis,FMLE,8.29
+COM,2021,acute hepatitis b,FMLE,0.42
+COM,2021,syphilis,FMLE,2.78
+COM,2021,genital herpes,FMLE,0.0
+COM,2021,acute hepatitis a,FMLE,0.32
+CPV,2021,tuberculosis,FMLE,2.44
+CPV,2021,syphilis,FMLE,0.35
+CPV,2021,genital herpes,FMLE,0.0
+CPV,2021,acute hepatitis a,FMLE,0.03
+CPV,2021,acute hepatitis c,FMLE,0.02
+CPV,2021,chlamydia,FMLE,0.0
+CPV,2021,malaria,FMLE,0.0
+CPV,2021,trichomoniasis,FMLE,0.0
+CPV,2021,acute hepatitis e,FMLE,0.01
+CPV,2021,hiv/aids,FMLE,6.71
+CPV,2021,acute hepatitis b,FMLE,0.22
+CRI,2021,chlamydia,FMLE,0.0
+CRI,2021,acute hepatitis e,FMLE,0.0
+CRI,2021,malaria,FMLE,0.0
+CRI,2021,acute hepatitis c,FMLE,0.04
+CRI,2021,acute hepatitis a,FMLE,0.05
+CRI,2021,syphilis,FMLE,0.02
+CRI,2021,genital herpes,FMLE,0.0
+CRI,2021,tuberculosis,FMLE,0.7
+CRI,2021,hiv/aids,FMLE,1.14
+CRI,2021,acute hepatitis b,FMLE,0.08
+CRI,2021,trichomoniasis,FMLE,0.0
+CUB,2021,syphilis,FMLE,0.0
+CUB,2021,genital herpes,FMLE,0.0
+CUB,2021,tuberculosis,FMLE,0.19
+CUB,2021,hiv/aids,FMLE,1.28
+CUB,2021,acute hepatitis b,FMLE,0.37
+CUB,2021,trichomoniasis,FMLE,0.0
+CUB,2021,chlamydia,FMLE,0.0
+CUB,2021,acute hepatitis e,FMLE,0.01
+CUB,2021,malaria,FMLE,0.0
+CUB,2021,acute hepatitis c,FMLE,0.43
+CUB,2021,acute hepatitis a,FMLE,0.02
+CYP,2021,hiv/aids,FMLE,0.0
+CYP,2021,acute hepatitis b,FMLE,0.0
+CYP,2021,chlamydia,FMLE,0.0
+CYP,2021,trichomoniasis,FMLE,0.0
+CYP,2021,acute hepatitis e,FMLE,0.0
+CYP,2021,malaria,FMLE,0.0
+CYP,2021,acute hepatitis c,FMLE,0.0
+CYP,2021,acute hepatitis a,FMLE,0.08
+CYP,2021,syphilis,FMLE,0.07
+CYP,2021,genital herpes,FMLE,0.0
+CYP,2021,tuberculosis,FMLE,0.87
+CZE,2021,chlamydia,FMLE,0.0
+CZE,2021,acute hepatitis e,FMLE,0.0
+CZE,2021,malaria,FMLE,0.0
+CZE,2021,acute hepatitis c,FMLE,0.14
+CZE,2021,acute hepatitis a,FMLE,0.95
+CZE,2021,syphilis,FMLE,0.0
+CZE,2021,genital herpes,FMLE,0.0
+CZE,2021,tuberculosis,FMLE,0.15
+CZE,2021,hiv/aids,FMLE,0.06
+CZE,2021,acute hepatitis b,FMLE,0.06
+CZE,2021,trichomoniasis,FMLE,0.0
+DEU,2021,acute hepatitis c,FMLE,0.33
+DEU,2021,malaria,FMLE,0.0
+DEU,2021,syphilis,FMLE,0.01
+DEU,2021,acute hepatitis a,FMLE,0.16
+DEU,2021,hiv/aids,FMLE,0.11
+DEU,2021,acute hepatitis b,FMLE,0.07
+DEU,2021,tuberculosis,FMLE,0.27
+DEU,2021,genital herpes,FMLE,0.0
+DEU,2021,chlamydia,FMLE,0.0
+DEU,2021,acute hepatitis e,FMLE,0.11
+DEU,2021,trichomoniasis,FMLE,0.0
+DJI,2021,chlamydia,FMLE,0.11
+DJI,2021,trichomoniasis,FMLE,0.0
+DJI,2021,acute hepatitis e,FMLE,0.02
+DJI,2021,hiv/aids,FMLE,49.65
+DJI,2021,acute hepatitis b,FMLE,0.57
+DJI,2021,tuberculosis,FMLE,19.68
+DJI,2021,genital herpes,FMLE,0.0
+DJI,2021,syphilis,FMLE,3.25
+DJI,2021,acute hepatitis a,FMLE,0.39
+DJI,2021,acute hepatitis c,FMLE,0.13
+DJI,2021,malaria,FMLE,10.82
+DNK,2021,syphilis,FMLE,0.0
+DNK,2021,tuberculosis,FMLE,0.04
+DNK,2021,genital herpes,FMLE,0.0
+DNK,2021,hiv/aids,FMLE,0.0
+DNK,2021,acute hepatitis b,FMLE,0.0
+DNK,2021,trichomoniasis,FMLE,0.0
+DNK,2021,acute hepatitis e,FMLE,0.0
+DNK,2021,chlamydia,FMLE,0.0
+DNK,2021,malaria,FMLE,0.0
+DNK,2021,acute hepatitis c,FMLE,0.19
+DNK,2021,acute hepatitis a,FMLE,0.27
+DOM,2021,acute hepatitis a,FMLE,0.01
+DOM,2021,syphilis,FMLE,1.71
+DOM,2021,genital herpes,FMLE,0.0
+DOM,2021,tuberculosis,FMLE,2.97
+DOM,2021,hiv/aids,FMLE,15.4
+DOM,2021,acute hepatitis b,FMLE,0.02
+DOM,2021,trichomoniasis,FMLE,0.0
+DOM,2021,acute hepatitis e,FMLE,0.0
+DOM,2021,chlamydia,FMLE,0.05
+DOM,2021,malaria,FMLE,0.01
+DOM,2021,acute hepatitis c,FMLE,0.01
+DZA,2021,malaria,FMLE,0.0
+DZA,2021,acute hepatitis c,FMLE,0.0
+DZA,2021,acute hepatitis a,FMLE,0.04
+DZA,2021,syphilis,FMLE,0.29
+DZA,2021,genital herpes,FMLE,0.0
+DZA,2021,tuberculosis,FMLE,6.3
+DZA,2021,hiv/aids,FMLE,0.66
+DZA,2021,acute hepatitis b,FMLE,0.3
+DZA,2021,trichomoniasis,FMLE,0.0
+DZA,2021,chlamydia,FMLE,0.0
+DZA,2021,acute hepatitis e,FMLE,0.01
+ECU,2021,syphilis,FMLE,0.49
+ECU,2021,tuberculosis,FMLE,2.64
+ECU,2021,genital herpes,FMLE,0.0
+ECU,2021,acute hepatitis a,FMLE,0.49
+ECU,2021,chlamydia,FMLE,0.0
+ECU,2021,malaria,FMLE,0.0
+ECU,2021,acute hepatitis c,FMLE,0.01
+ECU,2021,hiv/aids,FMLE,1.81
+ECU,2021,acute hepatitis b,FMLE,0.02
+ECU,2021,trichomoniasis,FMLE,0.0
+ECU,2021,acute hepatitis e,FMLE,0.0
+EGY,2021,chlamydia,FMLE,0.01
+EGY,2021,trichomoniasis,FMLE,0.0
+EGY,2021,acute hepatitis e,FMLE,0.01
+EGY,2021,hiv/aids,FMLE,0.26
+EGY,2021,acute hepatitis b,FMLE,0.67
+EGY,2021,acute hepatitis c,FMLE,0.01
+EGY,2021,malaria,FMLE,0.0
+EGY,2021,acute hepatitis a,FMLE,0.06
+EGY,2021,tuberculosis,FMLE,0.39
+EGY,2021,syphilis,FMLE,0.43
+EGY,2021,genital herpes,FMLE,0.0
+ERI,2021,acute hepatitis c,FMLE,0.17
+ERI,2021,chlamydia,FMLE,0.09
+ERI,2021,malaria,FMLE,5.72
+ERI,2021,trichomoniasis,FMLE,0.0
+ERI,2021,acute hepatitis e,FMLE,0.02
+ERI,2021,hiv/aids,FMLE,8.72
+ERI,2021,acute hepatitis b,FMLE,0.57
+ERI,2021,tuberculosis,FMLE,12.11
+ERI,2021,syphilis,FMLE,1.74
+ERI,2021,genital herpes,FMLE,0.0
+ERI,2021,acute hepatitis a,FMLE,0.64
+ESP,2021,syphilis,FMLE,0.0
+ESP,2021,genital herpes,FMLE,0.0
+ESP,2021,tuberculosis,FMLE,0.27
+ESP,2021,hiv/aids,FMLE,0.3
+ESP,2021,acute hepatitis b,FMLE,0.09
+ESP,2021,trichomoniasis,FMLE,0.0
+ESP,2021,chlamydia,FMLE,0.0
+ESP,2021,acute hepatitis e,FMLE,0.17
+ESP,2021,malaria,FMLE,0.0
+ESP,2021,acute hepatitis c,FMLE,0.5
+ESP,2021,acute hepatitis a,FMLE,0.03
+EST,2021,tuberculosis,FMLE,0.58
+EST,2021,hiv/aids,FMLE,1.91
+EST,2021,acute hepatitis b,FMLE,0.14
+EST,2021,trichomoniasis,FMLE,0.0
+EST,2021,acute hepatitis e,FMLE,0.01
+EST,2021,chlamydia,FMLE,0.0
+EST,2021,malaria,FMLE,0.0
+EST,2021,acute hepatitis c,FMLE,0.29
+EST,2021,acute hepatitis a,FMLE,0.18
+EST,2021,syphilis,FMLE,0.15
+EST,2021,genital herpes,FMLE,0.0
+ETH,2021,syphilis,FMLE,1.78
+ETH,2021,tuberculosis,FMLE,15.14
+ETH,2021,genital herpes,FMLE,0.0
+ETH,2021,acute hepatitis c,FMLE,0.19
+ETH,2021,acute hepatitis a,FMLE,0.63
+ETH,2021,chlamydia,FMLE,0.07
+ETH,2021,acute hepatitis e,FMLE,0.02
+ETH,2021,malaria,FMLE,5.56
+ETH,2021,hiv/aids,FMLE,10.55
+ETH,2021,acute hepatitis b,FMLE,0.48
+ETH,2021,trichomoniasis,FMLE,0.0
+FIN,2021,tuberculosis,FMLE,0.74
+FIN,2021,genital herpes,FMLE,0.0
+FIN,2021,syphilis,FMLE,0.04
+FIN,2021,trichomoniasis,FMLE,0.0
+FIN,2021,acute hepatitis e,FMLE,0.01
+FIN,2021,hiv/aids,FMLE,0.04
+FIN,2021,acute hepatitis b,FMLE,0.03
+FIN,2021,acute hepatitis c,FMLE,0.0
+FIN,2021,chlamydia,FMLE,0.0
+FIN,2021,malaria,FMLE,0.0
+FIN,2021,acute hepatitis a,FMLE,0.03
+FJI,2021,acute hepatitis c,FMLE,0.01
+FJI,2021,acute hepatitis a,FMLE,0.02
+FJI,2021,syphilis,FMLE,1.94
+FJI,2021,tuberculosis,FMLE,4.49
+FJI,2021,genital herpes,FMLE,0.0
+FJI,2021,hiv/aids,FMLE,3.92
+FJI,2021,acute hepatitis b,FMLE,0.06
+FJI,2021,trichomoniasis,FMLE,0.0
+FJI,2021,acute hepatitis e,FMLE,0.01
+FJI,2021,chlamydia,FMLE,0.02
+FJI,2021,malaria,FMLE,0.0
+FRA,2021,trichomoniasis,FMLE,0.0
+FRA,2021,acute hepatitis e,FMLE,0.03
+FRA,2021,hiv/aids,FMLE,0.19
+FRA,2021,acute hepatitis b,FMLE,0.17
+FRA,2021,tuberculosis,FMLE,0.41
+FRA,2021,genital herpes,FMLE,0.0
+FRA,2021,syphilis,FMLE,0.0
+FRA,2021,acute hepatitis a,FMLE,0.13
+FRA,2021,acute hepatitis c,FMLE,0.24
+FRA,2021,malaria,FMLE,0.0
+FRA,2021,chlamydia,FMLE,0.0
+FSM,2021,syphilis,FMLE,1.34
+FSM,2021,genital herpes,FMLE,0.0
+FSM,2021,acute hepatitis a,FMLE,0.02
+FSM,2021,acute hepatitis c,FMLE,0.0
+FSM,2021,malaria,FMLE,0.0
+FSM,2021,chlamydia,FMLE,0.0
+FSM,2021,trichomoniasis,FMLE,0.0
+FSM,2021,acute hepatitis e,FMLE,0.0
+FSM,2021,hiv/aids,FMLE,0.0
+FSM,2021,acute hepatitis b,FMLE,0.02
+FSM,2021,tuberculosis,FMLE,6.61
+GAB,2021,acute hepatitis a,FMLE,0.03
+GAB,2021,syphilis,FMLE,2.35
+GAB,2021,genital herpes,FMLE,0.0
+GAB,2021,tuberculosis,FMLE,118.32
+GAB,2021,hiv/aids,FMLE,92.07
+GAB,2021,acute hepatitis b,FMLE,0.1
+GAB,2021,trichomoniasis,FMLE,0.0
+GAB,2021,chlamydia,FMLE,0.02
+GAB,2021,acute hepatitis e,FMLE,0.01
+GAB,2021,malaria,FMLE,18.78
+GAB,2021,acute hepatitis c,FMLE,0.01
+GBR,2021,tuberculosis,FMLE,0.25
+GBR,2021,hiv/aids,FMLE,0.11
+GBR,2021,acute hepatitis b,FMLE,0.04
+GBR,2021,trichomoniasis,FMLE,0.0
+GBR,2021,chlamydia,FMLE,0.0
+GBR,2021,acute hepatitis e,FMLE,0.01
+GBR,2021,malaria,FMLE,0.0
+GBR,2021,acute hepatitis c,FMLE,0.12
+GBR,2021,acute hepatitis a,FMLE,0.01
+GBR,2021,syphilis,FMLE,0.08
+GBR,2021,genital herpes,FMLE,0.0
+GEO,2021,malaria,FMLE,0.0
+GEO,2021,chlamydia,FMLE,0.0
+GEO,2021,trichomoniasis,FMLE,0.0
+GEO,2021,acute hepatitis e,FMLE,0.01
+GEO,2021,acute hepatitis c,FMLE,3.37
+GEO,2021,syphilis,FMLE,0.0
+GEO,2021,genital herpes,FMLE,0.0
+GEO,2021,acute hepatitis a,FMLE,0.0
+GEO,2021,hiv/aids,FMLE,0.94
+GEO,2021,acute hepatitis b,FMLE,0.68
+GEO,2021,tuberculosis,FMLE,0.92
+GHA,2021,hiv/aids,FMLE,34.64
+GHA,2021,acute hepatitis b,FMLE,0.18
+GHA,2021,trichomoniasis,FMLE,0.0
+GHA,2021,acute hepatitis e,FMLE,0.06
+GHA,2021,chlamydia,FMLE,0.01
+GHA,2021,malaria,FMLE,34.64
+GHA,2021,acute hepatitis c,FMLE,0.05
+GHA,2021,acute hepatitis a,FMLE,0.26
+GHA,2021,syphilis,FMLE,2.57
+GHA,2021,tuberculosis,FMLE,37.15
+GHA,2021,genital herpes,FMLE,0.0
+GIN,2021,syphilis,FMLE,3.85
+GIN,2021,genital herpes,FMLE,0.0
+GIN,2021,trichomoniasis,FMLE,0.0
+GIN,2021,tuberculosis,FMLE,21.45
+GIN,2021,hiv/aids,FMLE,26.4
+GIN,2021,acute hepatitis b,FMLE,1.04
+GIN,2021,malaria,FMLE,75.24
+GIN,2021,chlamydia,FMLE,0.02
+GIN,2021,acute hepatitis e,FMLE,0.03
+GIN,2021,acute hepatitis a,FMLE,0.39
+GIN,2021,acute hepatitis c,FMLE,0.11
+GMB,2021,hiv/aids,FMLE,51.57
+GMB,2021,acute hepatitis b,FMLE,0.04
+GMB,2021,tuberculosis,FMLE,31.59
+GMB,2021,genital herpes,FMLE,0.0
+GMB,2021,syphilis,FMLE,2.66
+GMB,2021,acute hepatitis a,FMLE,0.05
+GMB,2021,acute hepatitis c,FMLE,0.02
+GMB,2021,malaria,FMLE,24.58
+GMB,2021,chlamydia,FMLE,0.01
+GMB,2021,trichomoniasis,FMLE,0.0
+GMB,2021,acute hepatitis e,FMLE,0.01
+GNB,2021,trichomoniasis,FMLE,0.0
+GNB,2021,chlamydia,FMLE,0.02
+GNB,2021,acute hepatitis e,FMLE,0.02
+GNB,2021,malaria,FMLE,42.62
+GNB,2021,acute hepatitis c,FMLE,0.1
+GNB,2021,acute hepatitis a,FMLE,0.41
+GNB,2021,syphilis,FMLE,3.21
+GNB,2021,genital herpes,FMLE,0.0
+GNB,2021,tuberculosis,FMLE,134.14
+GNB,2021,hiv/aids,FMLE,56.58
+GNB,2021,acute hepatitis b,FMLE,0.83
+GNQ,2021,trichomoniasis,FMLE,0.0
+GNQ,2021,acute hepatitis e,FMLE,0.01
+GNQ,2021,hiv/aids,FMLE,137.72
+GNQ,2021,acute hepatitis b,FMLE,0.04
+GNQ,2021,tuberculosis,FMLE,86.62
+GNQ,2021,genital herpes,FMLE,0.0
+GNQ,2021,syphilis,FMLE,5.41
+GNQ,2021,acute hepatitis a,FMLE,0.02
+GNQ,2021,acute hepatitis c,FMLE,0.01
+GNQ,2021,malaria,FMLE,46.66
+GNQ,2021,chlamydia,FMLE,0.04
+GRC,2021,chlamydia,FMLE,0.0
+GRC,2021,acute hepatitis e,FMLE,0.05
+GRC,2021,trichomoniasis,FMLE,0.0
+GRC,2021,hiv/aids,FMLE,0.08
+GRC,2021,tuberculosis,FMLE,0.23
+GRC,2021,acute hepatitis b,FMLE,0.21
+GRC,2021,syphilis,FMLE,0.0
+GRC,2021,genital herpes,FMLE,0.0
+GRC,2021,acute hepatitis a,FMLE,1.4
+GRC,2021,acute hepatitis c,FMLE,0.2
+GRC,2021,malaria,FMLE,0.0
+GRD,2021,syphilis,FMLE,0.0
+GRD,2021,genital herpes,FMLE,0.0
+GRD,2021,tuberculosis,FMLE,1.22
+GRD,2021,hiv/aids,FMLE,1.55
+GRD,2021,acute hepatitis b,FMLE,0.0
+GRD,2021,trichomoniasis,FMLE,0.0
+GRD,2021,chlamydia,FMLE,0.0
+GRD,2021,acute hepatitis e,FMLE,0.0
+GRD,2021,malaria,FMLE,0.0
+GRD,2021,acute hepatitis c,FMLE,0.0
+GRD,2021,acute hepatitis a,FMLE,0.0
+GTM,2021,tuberculosis,FMLE,2.25
+GTM,2021,syphilis,FMLE,0.03
+GTM,2021,genital herpes,FMLE,0.0
+GTM,2021,hiv/aids,FMLE,2.88
+GTM,2021,acute hepatitis b,FMLE,0.01
+GTM,2021,trichomoniasis,FMLE,0.0
+GTM,2021,chlamydia,FMLE,0.02
+GTM,2021,acute hepatitis e,FMLE,0.0
+GTM,2021,malaria,FMLE,0.0
+GTM,2021,acute hepatitis c,FMLE,0.0
+GTM,2021,acute hepatitis a,FMLE,0.04
+GUY,2021,trichomoniasis,FMLE,0.0
+GUY,2021,hiv/aids,FMLE,15.62
+GUY,2021,acute hepatitis b,FMLE,0.37
+GUY,2021,tuberculosis,FMLE,5.66
+GUY,2021,malaria,FMLE,1.56
+GUY,2021,chlamydia,FMLE,0.0
+GUY,2021,acute hepatitis e,FMLE,0.07
+GUY,2021,acute hepatitis c,FMLE,0.0
+GUY,2021,syphilis,FMLE,0.01
+GUY,2021,genital herpes,FMLE,0.0
+GUY,2021,acute hepatitis a,FMLE,0.04
+HND,2021,hiv/aids,FMLE,5.84
+HND,2021,acute hepatitis b,FMLE,0.03
+HND,2021,tuberculosis,FMLE,5.04
+HND,2021,syphilis,FMLE,0.2
+HND,2021,genital herpes,FMLE,0.0
+HND,2021,acute hepatitis a,FMLE,0.06
+HND,2021,acute hepatitis c,FMLE,0.01
+HND,2021,chlamydia,FMLE,0.03
+HND,2021,malaria,FMLE,0.0
+HND,2021,trichomoniasis,FMLE,0.0
+HND,2021,acute hepatitis e,FMLE,0.0
+HRV,2021,trichomoniasis,FMLE,0.0
+HRV,2021,acute hepatitis e,FMLE,0.0
+HRV,2021,chlamydia,FMLE,0.0
+HRV,2021,acute hepatitis c,FMLE,0.39
+HRV,2021,malaria,FMLE,0.0
+HRV,2021,acute hepatitis a,FMLE,0.01
+HRV,2021,syphilis,FMLE,0.0
+HRV,2021,tuberculosis,FMLE,0.43
+HRV,2021,genital herpes,FMLE,0.0
+HRV,2021,hiv/aids,FMLE,0.0
+HRV,2021,acute hepatitis b,FMLE,0.1
+HTI,2021,malaria,FMLE,0.51
+HTI,2021,chlamydia,FMLE,0.09
+HTI,2021,acute hepatitis e,FMLE,0.01
+HTI,2021,trichomoniasis,FMLE,0.0
+HTI,2021,hiv/aids,FMLE,14.21
+HTI,2021,acute hepatitis b,FMLE,0.12
+HTI,2021,tuberculosis,FMLE,14.63
+HTI,2021,genital herpes,FMLE,0.0
+HTI,2021,syphilis,FMLE,2.42
+HTI,2021,acute hepatitis a,FMLE,0.34
+HTI,2021,acute hepatitis c,FMLE,0.02
+HUN,2021,hiv/aids,FMLE,0.04
+HUN,2021,acute hepatitis b,FMLE,0.39
+HUN,2021,trichomoniasis,FMLE,0.0
+HUN,2021,acute hepatitis e,FMLE,0.01
+HUN,2021,syphilis,FMLE,0.0
+HUN,2021,tuberculosis,FMLE,0.23
+HUN,2021,genital herpes,FMLE,0.0
+HUN,2021,acute hepatitis c,FMLE,0.67
+HUN,2021,acute hepatitis a,FMLE,0.03
+HUN,2021,chlamydia,FMLE,0.0
+HUN,2021,malaria,FMLE,0.0
+IDN,2021,acute hepatitis c,FMLE,0.13
+IDN,2021,malaria,FMLE,0.57
+IDN,2021,acute hepatitis a,FMLE,0.52
+IDN,2021,tuberculosis,FMLE,36.28
+IDN,2021,hiv/aids,FMLE,7.5
+IDN,2021,acute hepatitis b,FMLE,0.33
+IDN,2021,syphilis,FMLE,0.68
+IDN,2021,genital herpes,FMLE,0.0
+IDN,2021,chlamydia,FMLE,0.01
+IDN,2021,acute hepatitis e,FMLE,0.1
+IDN,2021,trichomoniasis,FMLE,0.0
+IND,2021,syphilis,FMLE,0.69
+IND,2021,tuberculosis,FMLE,21.18
+IND,2021,genital herpes,FMLE,0.0
+IND,2021,hiv/aids,FMLE,1.98
+IND,2021,acute hepatitis b,FMLE,0.64
+IND,2021,trichomoniasis,FMLE,0.0
+IND,2021,acute hepatitis e,FMLE,0.06
+IND,2021,chlamydia,FMLE,0.06
+IND,2021,malaria,FMLE,0.63
+IND,2021,acute hepatitis c,FMLE,0.21
+IND,2021,acute hepatitis a,FMLE,0.78
+IRL,2021,acute hepatitis a,FMLE,0.08
+IRL,2021,acute hepatitis c,FMLE,0.03
+IRL,2021,tuberculosis,FMLE,0.33
+IRL,2021,syphilis,FMLE,0.0
+IRL,2021,genital herpes,FMLE,0.0
+IRL,2021,trichomoniasis,FMLE,0.0
+IRL,2021,hiv/aids,FMLE,0.08
+IRL,2021,acute hepatitis b,FMLE,0.01
+IRL,2021,malaria,FMLE,0.0
+IRL,2021,chlamydia,FMLE,0.0
+IRL,2021,acute hepatitis e,FMLE,0.09
+IRN,2021,chlamydia,FMLE,0.0
+IRN,2021,malaria,FMLE,0.0
+IRN,2021,hiv/aids,FMLE,1.38
+IRN,2021,acute hepatitis b,FMLE,0.23
+IRN,2021,trichomoniasis,FMLE,0.0
+IRN,2021,acute hepatitis e,FMLE,0.0
+IRN,2021,syphilis,FMLE,0.16
+IRN,2021,tuberculosis,FMLE,1.02
+IRN,2021,genital herpes,FMLE,0.0
+IRN,2021,acute hepatitis c,FMLE,0.0
+IRN,2021,acute hepatitis a,FMLE,0.02
+IRQ,2021,trichomoniasis,FMLE,0.0
+IRQ,2021,chlamydia,FMLE,0.0
+IRQ,2021,acute hepatitis e,FMLE,0.01
+IRQ,2021,malaria,FMLE,0.0
+IRQ,2021,acute hepatitis c,FMLE,0.0
+IRQ,2021,acute hepatitis a,FMLE,0.1
+IRQ,2021,syphilis,FMLE,0.68
+IRQ,2021,genital herpes,FMLE,0.0
+IRQ,2021,tuberculosis,FMLE,2.08
+IRQ,2021,hiv/aids,FMLE,0.28
+IRQ,2021,acute hepatitis b,FMLE,0.15
+ISL,2021,acute hepatitis a,FMLE,0.04
+ISL,2021,malaria,FMLE,0.0
+ISL,2021,acute hepatitis c,FMLE,0.0
+ISL,2021,hiv/aids,FMLE,0.0
+ISL,2021,acute hepatitis b,FMLE,0.0
+ISL,2021,chlamydia,FMLE,0.0
+ISL,2021,trichomoniasis,FMLE,0.0
+ISL,2021,acute hepatitis e,FMLE,0.0
+ISL,2021,syphilis,FMLE,0.0
+ISL,2021,genital herpes,FMLE,0.0
+ISL,2021,tuberculosis,FMLE,0.29
+ISR,2021,chlamydia,FMLE,0.0
+ISR,2021,acute hepatitis e,FMLE,0.03
+ISR,2021,trichomoniasis,FMLE,0.0
+ISR,2021,hiv/aids,FMLE,0.1
+ISR,2021,acute hepatitis b,FMLE,0.15
+ISR,2021,tuberculosis,FMLE,0.1
+ISR,2021,syphilis,FMLE,0.0
+ISR,2021,genital herpes,FMLE,0.0
+ISR,2021,acute hepatitis a,FMLE,0.21
+ISR,2021,acute hepatitis c,FMLE,0.38
+ISR,2021,malaria,FMLE,0.0
+ITA,2021,hiv/aids,FMLE,0.32
+ITA,2021,acute hepatitis b,FMLE,0.37
+ITA,2021,trichomoniasis,FMLE,0.0
+ITA,2021,acute hepatitis e,FMLE,0.01
+ITA,2021,chlamydia,FMLE,0.0
+ITA,2021,malaria,FMLE,0.0
+ITA,2021,acute hepatitis c,FMLE,2.79
+ITA,2021,acute hepatitis a,FMLE,0.33
+ITA,2021,syphilis,FMLE,0.0
+ITA,2021,tuberculosis,FMLE,0.35
+ITA,2021,genital herpes,FMLE,0.0
+JAM,2021,syphilis,FMLE,0.05
+JAM,2021,genital herpes,FMLE,0.0
+JAM,2021,tuberculosis,FMLE,0.17
+JAM,2021,trichomoniasis,FMLE,0.0
+JAM,2021,hiv/aids,FMLE,31.1
+JAM,2021,acute hepatitis b,FMLE,0.04
+JAM,2021,chlamydia,FMLE,0.03
+JAM,2021,acute hepatitis e,FMLE,0.0
+JAM,2021,malaria,FMLE,0.0
+JAM,2021,acute hepatitis c,FMLE,0.0
+JAM,2021,acute hepatitis a,FMLE,0.03
+JOR,2021,acute hepatitis a,FMLE,0.02
+JOR,2021,syphilis,FMLE,0.85
+JOR,2021,genital herpes,FMLE,0.0
+JOR,2021,tuberculosis,FMLE,0.1
+JOR,2021,hiv/aids,FMLE,0.06
+JOR,2021,acute hepatitis b,FMLE,0.05
+JOR,2021,trichomoniasis,FMLE,0.0
+JOR,2021,acute hepatitis e,FMLE,0.0
+JOR,2021,chlamydia,FMLE,0.0
+JOR,2021,malaria,FMLE,0.0
+JOR,2021,acute hepatitis c,FMLE,0.01
+JPN,2021,acute hepatitis a,FMLE,0.03
+JPN,2021,tuberculosis,FMLE,2.07
+JPN,2021,syphilis,FMLE,0.01
+JPN,2021,genital herpes,FMLE,0.0
+JPN,2021,chlamydia,FMLE,0.0
+JPN,2021,trichomoniasis,FMLE,0.0
+JPN,2021,acute hepatitis e,FMLE,0.01
+JPN,2021,hiv/aids,FMLE,0.0
+JPN,2021,acute hepatitis b,FMLE,0.41
+JPN,2021,acute hepatitis c,FMLE,1.61
+JPN,2021,malaria,FMLE,0.0
+KAZ,2021,tuberculosis,FMLE,1.01
+KAZ,2021,syphilis,FMLE,0.01
+KAZ,2021,genital herpes,FMLE,0.0
+KAZ,2021,acute hepatitis a,FMLE,0.0
+KAZ,2021,acute hepatitis c,FMLE,0.0
+KAZ,2021,malaria,FMLE,0.0
+KAZ,2021,chlamydia,FMLE,0.01
+KAZ,2021,trichomoniasis,FMLE,0.0
+KAZ,2021,acute hepatitis e,FMLE,0.0
+KAZ,2021,hiv/aids,FMLE,0.64
+KAZ,2021,acute hepatitis b,FMLE,0.05
+KEN,2021,tuberculosis,FMLE,21.02
+KEN,2021,genital herpes,FMLE,0.0
+KEN,2021,syphilis,FMLE,1.9
+KEN,2021,trichomoniasis,FMLE,0.0
+KEN,2021,acute hepatitis e,FMLE,0.02
+KEN,2021,hiv/aids,FMLE,40.33
+KEN,2021,acute hepatitis b,FMLE,0.39
+KEN,2021,acute hepatitis c,FMLE,0.1
+KEN,2021,malaria,FMLE,20.96
+KEN,2021,chlamydia,FMLE,0.03
+KEN,2021,acute hepatitis a,FMLE,0.36
+KGZ,2021,hiv/aids,FMLE,1.99
+KGZ,2021,acute hepatitis b,FMLE,0.06
+KGZ,2021,tuberculosis,FMLE,4.09
+KGZ,2021,genital herpes,FMLE,0.0
+KGZ,2021,syphilis,FMLE,0.01
+KGZ,2021,acute hepatitis a,FMLE,0.03
+KGZ,2021,acute hepatitis c,FMLE,0.0
+KGZ,2021,malaria,FMLE,0.0
+KGZ,2021,chlamydia,FMLE,0.01
+KGZ,2021,acute hepatitis e,FMLE,0.0
+KGZ,2021,trichomoniasis,FMLE,0.0
+KHM,2021,acute hepatitis c,FMLE,0.2
+KHM,2021,acute hepatitis a,FMLE,0.56
+KHM,2021,tuberculosis,FMLE,16.78
+KHM,2021,syphilis,FMLE,0.13
+KHM,2021,genital herpes,FMLE,0.0
+KHM,2021,hiv/aids,FMLE,7.48
+KHM,2021,acute hepatitis b,FMLE,0.53
+KHM,2021,trichomoniasis,FMLE,0.0
+KHM,2021,chlamydia,FMLE,0.01
+KHM,2021,acute hepatitis e,FMLE,0.06
+KHM,2021,malaria,FMLE,0.06
+KIR,2021,acute hepatitis c,FMLE,0.06
+KIR,2021,acute hepatitis a,FMLE,0.44
+KIR,2021,syphilis,FMLE,2.7
+KIR,2021,genital herpes,FMLE,0.0
+KIR,2021,tuberculosis,FMLE,30.37
+KIR,2021,hiv/aids,FMLE,0.0
+KIR,2021,acute hepatitis b,FMLE,0.66
+KIR,2021,trichomoniasis,FMLE,0.0
+KIR,2021,chlamydia,FMLE,0.02
+KIR,2021,acute hepatitis e,FMLE,0.02
+KIR,2021,malaria,FMLE,0.0
+KOR,2021,chlamydia,FMLE,0.0
+KOR,2021,trichomoniasis,FMLE,0.0
+KOR,2021,acute hepatitis e,FMLE,0.01
+KOR,2021,hiv/aids,FMLE,0.01
+KOR,2021,acute hepatitis b,FMLE,0.69
+KOR,2021,tuberculosis,FMLE,2.83
+KOR,2021,syphilis,FMLE,0.06
+KOR,2021,genital herpes,FMLE,0.0
+KOR,2021,acute hepatitis a,FMLE,0.1
+KOR,2021,acute hepatitis c,FMLE,0.19
+KOR,2021,malaria,FMLE,0.0
+KWT,2021,syphilis,FMLE,0.0
+KWT,2021,acute hepatitis a,FMLE,0.0
+KWT,2021,acute hepatitis c,FMLE,0.0
+KWT,2021,malaria,FMLE,0.0
+KWT,2021,chlamydia,FMLE,0.0
+KWT,2021,trichomoniasis,FMLE,0.0
+KWT,2021,acute hepatitis e,FMLE,0.0
+KWT,2021,hiv/aids,FMLE,0.06
+KWT,2021,acute hepatitis b,FMLE,0.0
+KWT,2021,tuberculosis,FMLE,0.53
+KWT,2021,genital herpes,FMLE,0.0
+LAO,2021,syphilis,FMLE,0.68
+LAO,2021,genital herpes,FMLE,0.0
+LAO,2021,acute hepatitis a,FMLE,0.12
+LAO,2021,hiv/aids,FMLE,3.96
+LAO,2021,acute hepatitis b,FMLE,0.1
+LAO,2021,tuberculosis,FMLE,25.76
+LAO,2021,chlamydia,FMLE,0.01
+LAO,2021,malaria,FMLE,0.08
+LAO,2021,trichomoniasis,FMLE,0.0
+LAO,2021,acute hepatitis e,FMLE,0.01
+LAO,2021,acute hepatitis c,FMLE,0.02
+LBN,2021,acute hepatitis a,FMLE,0.02
+LBN,2021,syphilis,FMLE,0.27
+LBN,2021,malaria,FMLE,0.0
+LBN,2021,acute hepatitis c,FMLE,0.01
+LBN,2021,trichomoniasis,FMLE,0.0
+LBN,2021,acute hepatitis e,FMLE,0.01
+LBN,2021,chlamydia,FMLE,0.01
+LBN,2021,tuberculosis,FMLE,0.71
+LBN,2021,genital herpes,FMLE,0.0
+LBN,2021,hiv/aids,FMLE,0.23
+LBN,2021,acute hepatitis b,FMLE,0.05
+LBR,2021,chlamydia,FMLE,0.02
+LBR,2021,trichomoniasis,FMLE,0.0
+LBR,2021,acute hepatitis e,FMLE,0.02
+LBR,2021,hiv/aids,FMLE,17.96
+LBR,2021,acute hepatitis b,FMLE,0.59
+LBR,2021,tuberculosis,FMLE,73.13
+LBR,2021,genital herpes,FMLE,0.0
+LBR,2021,syphilis,FMLE,4.51
+LBR,2021,acute hepatitis a,FMLE,0.25
+LBR,2021,acute hepatitis c,FMLE,0.06
+LBR,2021,malaria,FMLE,77.26
+LBY,2021,chlamydia,FMLE,0.0
+LBY,2021,trichomoniasis,FMLE,0.0
+LBY,2021,acute hepatitis e,FMLE,0.01
+LBY,2021,acute hepatitis c,FMLE,0.0
+LBY,2021,malaria,FMLE,0.0
+LBY,2021,syphilis,FMLE,0.1
+LBY,2021,acute hepatitis a,FMLE,0.03
+LBY,2021,hiv/aids,FMLE,1.01
+LBY,2021,acute hepatitis b,FMLE,0.34
+LBY,2021,tuberculosis,FMLE,13.19
+LBY,2021,genital herpes,FMLE,0.0
+LCA,2021,acute hepatitis c,FMLE,0.0
+LCA,2021,malaria,FMLE,0.0
+LCA,2021,chlamydia,FMLE,0.07
+LCA,2021,trichomoniasis,FMLE,0.0
+LCA,2021,acute hepatitis e,FMLE,0.0
+LCA,2021,hiv/aids,FMLE,0.0
+LCA,2021,acute hepatitis b,FMLE,0.03
+LCA,2021,tuberculosis,FMLE,0.72
+LCA,2021,genital herpes,FMLE,0.0
+LCA,2021,syphilis,FMLE,0.12
+LCA,2021,acute hepatitis a,FMLE,0.0
+LKA,2021,acute hepatitis a,FMLE,0.01
+LKA,2021,syphilis,FMLE,0.08
+LKA,2021,tuberculosis,FMLE,2.14
+LKA,2021,genital herpes,FMLE,0.0
+LKA,2021,hiv/aids,FMLE,0.36
+LKA,2021,acute hepatitis b,FMLE,0.03
+LKA,2021,trichomoniasis,FMLE,0.0
+LKA,2021,acute hepatitis e,FMLE,0.0
+LKA,2021,chlamydia,FMLE,0.02
+LKA,2021,malaria,FMLE,0.0
+LKA,2021,acute hepatitis c,FMLE,0.0
+LSO,2021,acute hepatitis c,FMLE,0.09
+LSO,2021,malaria,FMLE,0.0
+LSO,2021,syphilis,FMLE,2.36
+LSO,2021,acute hepatitis a,FMLE,0.47
+LSO,2021,hiv/aids,FMLE,191.29
+LSO,2021,acute hepatitis b,FMLE,1.0
+LSO,2021,tuberculosis,FMLE,134.75
+LSO,2021,genital herpes,FMLE,0.0
+LSO,2021,chlamydia,FMLE,0.09
+LSO,2021,trichomoniasis,FMLE,0.0
+LSO,2021,acute hepatitis e,FMLE,0.04
+LTU,2021,acute hepatitis c,FMLE,0.41
+LTU,2021,malaria,FMLE,0.0
+LTU,2021,acute hepatitis a,FMLE,0.29
+LTU,2021,tuberculosis,FMLE,1.71
+LTU,2021,syphilis,FMLE,0.0
+LTU,2021,genital herpes,FMLE,0.0
+LTU,2021,chlamydia,FMLE,0.0
+LTU,2021,trichomoniasis,FMLE,0.0
+LTU,2021,acute hepatitis e,FMLE,0.0
+LTU,2021,hiv/aids,FMLE,0.41
+LTU,2021,acute hepatitis b,FMLE,0.07
+LUX,2021,hiv/aids,FMLE,0.34
+LUX,2021,acute hepatitis b,FMLE,0.0
+LUX,2021,tuberculosis,FMLE,0.18
+LUX,2021,syphilis,FMLE,0.0
+LUX,2021,genital herpes,FMLE,0.0
+LUX,2021,acute hepatitis a,FMLE,0.01
+LUX,2021,acute hepatitis c,FMLE,0.48
+LUX,2021,chlamydia,FMLE,0.0
+LUX,2021,malaria,FMLE,0.0
+LUX,2021,trichomoniasis,FMLE,0.0
+LUX,2021,acute hepatitis e,FMLE,0.0
+LVA,2021,chlamydia,FMLE,0.0
+LVA,2021,acute hepatitis e,FMLE,0.0
+LVA,2021,malaria,FMLE,0.0
+LVA,2021,acute hepatitis c,FMLE,1.5
+LVA,2021,acute hepatitis a,FMLE,0.62
+LVA,2021,syphilis,FMLE,0.0
+LVA,2021,genital herpes,FMLE,0.0
+LVA,2021,tuberculosis,FMLE,1.1
+LVA,2021,trichomoniasis,FMLE,0.0
+LVA,2021,hiv/aids,FMLE,1.79
+LVA,2021,acute hepatitis b,FMLE,0.0
+MAR,2021,chlamydia,FMLE,0.01
+MAR,2021,trichomoniasis,FMLE,0.0
+MAR,2021,acute hepatitis e,FMLE,0.01
+MAR,2021,hiv/aids,FMLE,0.85
+MAR,2021,acute hepatitis b,FMLE,0.32
+MAR,2021,tuberculosis,FMLE,9.06
+MAR,2021,genital herpes,FMLE,0.0
+MAR,2021,syphilis,FMLE,0.62
+MAR,2021,acute hepatitis a,FMLE,0.07
+MAR,2021,acute hepatitis c,FMLE,0.01
+MAR,2021,malaria,FMLE,0.0
+MDA,2021,trichomoniasis,FMLE,0.0
+MDA,2021,acute hepatitis e,FMLE,0.0
+MDA,2021,chlamydia,FMLE,0.0
+MDA,2021,malaria,FMLE,0.0
+MDA,2021,acute hepatitis c,FMLE,0.0
+MDA,2021,acute hepatitis a,FMLE,0.13
+MDA,2021,syphilis,FMLE,0.0
+MDA,2021,tuberculosis,FMLE,2.35
+MDA,2021,genital herpes,FMLE,0.0
+MDA,2021,hiv/aids,FMLE,4.03
+MDA,2021,acute hepatitis b,FMLE,0.07
+MDG,2021,tuberculosis,FMLE,44.11
+MDG,2021,hiv/aids,FMLE,14.55
+MDG,2021,acute hepatitis b,FMLE,0.22
+MDG,2021,trichomoniasis,FMLE,0.0
+MDG,2021,chlamydia,FMLE,0.08
+MDG,2021,acute hepatitis e,FMLE,0.01
+MDG,2021,malaria,FMLE,41.48
+MDG,2021,acute hepatitis c,FMLE,0.04
+MDG,2021,acute hepatitis a,FMLE,0.25
+MDG,2021,syphilis,FMLE,4.22
+MDG,2021,genital herpes,FMLE,0.0
+MDV,2021,hiv/aids,FMLE,0.06
+MDV,2021,acute hepatitis b,FMLE,0.07
+MDV,2021,chlamydia,FMLE,0.04
+MDV,2021,trichomoniasis,FMLE,0.0
+MDV,2021,acute hepatitis e,FMLE,0.01
+MDV,2021,malaria,FMLE,0.0
+MDV,2021,acute hepatitis c,FMLE,0.01
+MDV,2021,acute hepatitis a,FMLE,0.01
+MDV,2021,syphilis,FMLE,0.07
+MDV,2021,genital herpes,FMLE,0.0
+MDV,2021,tuberculosis,FMLE,1.18
+MEX,2021,acute hepatitis c,FMLE,0.35
+MEX,2021,malaria,FMLE,0.0
+MEX,2021,chlamydia,FMLE,0.0
+MEX,2021,acute hepatitis e,FMLE,0.01
+MEX,2021,trichomoniasis,FMLE,0.0
+MEX,2021,hiv/aids,FMLE,1.18
+MEX,2021,acute hepatitis b,FMLE,0.14
+MEX,2021,tuberculosis,FMLE,0.97
+MEX,2021,syphilis,FMLE,0.01
+MEX,2021,genital herpes,FMLE,0.0
+MEX,2021,acute hepatitis a,FMLE,0.34
+MKD,2021,hiv/aids,FMLE,0.0
+MKD,2021,acute hepatitis b,FMLE,0.17
+MKD,2021,trichomoniasis,FMLE,0.0
+MKD,2021,acute hepatitis e,FMLE,0.0
+MKD,2021,chlamydia,FMLE,0.0
+MKD,2021,malaria,FMLE,0.0
+MKD,2021,acute hepatitis c,FMLE,0.0
+MKD,2021,acute hepatitis a,FMLE,0.01
+MKD,2021,syphilis,FMLE,0.01
+MKD,2021,tuberculosis,FMLE,0.35
+MKD,2021,genital herpes,FMLE,0.0
+MLI,2021,malaria,FMLE,92.76
+MLI,2021,chlamydia,FMLE,0.02
+MLI,2021,trichomoniasis,FMLE,0.0
+MLI,2021,acute hepatitis e,FMLE,0.01
+MLI,2021,hiv/aids,FMLE,24.48
+MLI,2021,acute hepatitis b,FMLE,0.07
+MLI,2021,tuberculosis,FMLE,7.87
+MLI,2021,genital herpes,FMLE,0.0
+MLI,2021,syphilis,FMLE,4.82
+MLI,2021,acute hepatitis a,FMLE,0.09
+MLI,2021,acute hepatitis c,FMLE,0.04
+MLT,2021,trichomoniasis,FMLE,0.0
+MLT,2021,hiv/aids,FMLE,0.2
+MLT,2021,acute hepatitis b,FMLE,0.0
+MLT,2021,tuberculosis,FMLE,0.0
+MLT,2021,syphilis,FMLE,0.0
+MLT,2021,genital herpes,FMLE,0.0
+MLT,2021,acute hepatitis a,FMLE,0.58
+MLT,2021,acute hepatitis c,FMLE,0.0
+MLT,2021,malaria,FMLE,0.0
+MLT,2021,chlamydia,FMLE,0.0
+MLT,2021,acute hepatitis e,FMLE,0.0
+MMR,2021,acute hepatitis a,FMLE,0.09
+MMR,2021,acute hepatitis c,FMLE,0.02
+MMR,2021,malaria,FMLE,0.44
+MMR,2021,chlamydia,FMLE,0.01
+MMR,2021,acute hepatitis e,FMLE,0.01
+MMR,2021,trichomoniasis,FMLE,0.0
+MMR,2021,hiv/aids,FMLE,9.29
+MMR,2021,acute hepatitis b,FMLE,0.02
+MMR,2021,tuberculosis,FMLE,42.53
+MMR,2021,syphilis,FMLE,0.63
+MMR,2021,genital herpes,FMLE,0.0
+MNE,2021,acute hepatitis a,FMLE,0.0
+MNE,2021,acute hepatitis c,FMLE,0.0
+MNE,2021,malaria,FMLE,0.0
+MNE,2021,chlamydia,FMLE,0.0
+MNE,2021,acute hepatitis e,FMLE,0.0
+MNE,2021,trichomoniasis,FMLE,0.0
+MNE,2021,hiv/aids,FMLE,0.17
+MNE,2021,acute hepatitis b,FMLE,0.0
+MNE,2021,tuberculosis,FMLE,0.11
+MNE,2021,syphilis,FMLE,0.01
+MNE,2021,genital herpes,FMLE,0.0
+MNG,2021,malaria,FMLE,0.0
+MNG,2021,acute hepatitis c,FMLE,0.0
+MNG,2021,acute hepatitis a,FMLE,0.03
+MNG,2021,syphilis,FMLE,0.86
+MNG,2021,tuberculosis,FMLE,4.93
+MNG,2021,genital herpes,FMLE,0.0
+MNG,2021,hiv/aids,FMLE,0.28
+MNG,2021,acute hepatitis b,FMLE,0.12
+MNG,2021,trichomoniasis,FMLE,0.0
+MNG,2021,chlamydia,FMLE,0.05
+MNG,2021,acute hepatitis e,FMLE,0.0
+MOZ,2021,tuberculosis,FMLE,33.65
+MOZ,2021,syphilis,FMLE,4.26
+MOZ,2021,genital herpes,FMLE,0.0
+MOZ,2021,acute hepatitis a,FMLE,0.39
+MOZ,2021,acute hepatitis c,FMLE,0.1
+MOZ,2021,chlamydia,FMLE,0.21
+MOZ,2021,malaria,FMLE,66.47
+MOZ,2021,trichomoniasis,FMLE,0.0
+MOZ,2021,acute hepatitis e,FMLE,0.02
+MOZ,2021,hiv/aids,FMLE,154.13
+MOZ,2021,acute hepatitis b,FMLE,0.67
+MRT,2021,acute hepatitis a,FMLE,0.22
+MRT,2021,syphilis,FMLE,3.65
+MRT,2021,tuberculosis,FMLE,14.17
+MRT,2021,genital herpes,FMLE,0.0
+MRT,2021,hiv/aids,FMLE,8.14
+MRT,2021,acute hepatitis b,FMLE,0.77
+MRT,2021,trichomoniasis,FMLE,0.0
+MRT,2021,acute hepatitis e,FMLE,0.02
+MRT,2021,chlamydia,FMLE,0.01
+MRT,2021,malaria,FMLE,16.61
+MRT,2021,acute hepatitis c,FMLE,0.04
+MUS,2021,acute hepatitis a,FMLE,0.17
+MUS,2021,acute hepatitis c,FMLE,0.0
+MUS,2021,chlamydia,FMLE,0.0
+MUS,2021,malaria,FMLE,0.0
+MUS,2021,trichomoniasis,FMLE,0.0
+MUS,2021,acute hepatitis e,FMLE,0.09
+MUS,2021,hiv/aids,FMLE,3.84
+MUS,2021,acute hepatitis b,FMLE,0.2
+MUS,2021,tuberculosis,FMLE,0.41
+MUS,2021,syphilis,FMLE,0.0
+MUS,2021,genital herpes,FMLE,0.0
+MWI,2021,acute hepatitis a,FMLE,0.4
+MWI,2021,acute hepatitis c,FMLE,0.1
+MWI,2021,malaria,FMLE,32.42
+MWI,2021,chlamydia,FMLE,0.06
+MWI,2021,acute hepatitis e,FMLE,0.02
+MWI,2021,trichomoniasis,FMLE,0.0
+MWI,2021,tuberculosis,FMLE,33.52
+MWI,2021,hiv/aids,FMLE,55.58
+MWI,2021,acute hepatitis b,FMLE,0.84
+MWI,2021,syphilis,FMLE,0.92
+MWI,2021,genital herpes,FMLE,0.0
+MYS,2021,tuberculosis,FMLE,4.99
+MYS,2021,genital herpes,FMLE,0.0
+MYS,2021,syphilis,FMLE,0.07
+MYS,2021,acute hepatitis a,FMLE,0.01
+MYS,2021,acute hepatitis c,FMLE,0.01
+MYS,2021,chlamydia,FMLE,0.01
+MYS,2021,malaria,FMLE,0.0
+MYS,2021,trichomoniasis,FMLE,0.0
+MYS,2021,acute hepatitis e,FMLE,0.0
+MYS,2021,hiv/aids,FMLE,1.92
+MYS,2021,acute hepatitis b,FMLE,0.36
+NAM,2021,tuberculosis,FMLE,61.13
+NAM,2021,syphilis,FMLE,2.13
+NAM,2021,genital herpes,FMLE,0.0
+NAM,2021,hiv/aids,FMLE,123.01
+NAM,2021,acute hepatitis b,FMLE,0.16
+NAM,2021,trichomoniasis,FMLE,0.0
+NAM,2021,chlamydia,FMLE,0.03
+NAM,2021,acute hepatitis e,FMLE,0.01
+NAM,2021,malaria,FMLE,0.56
+NAM,2021,acute hepatitis c,FMLE,0.02
+NAM,2021,acute hepatitis a,FMLE,0.08
+NER,2021,trichomoniasis,FMLE,0.0
+NER,2021,acute hepatitis e,FMLE,0.03
+NER,2021,chlamydia,FMLE,0.01
+NER,2021,malaria,FMLE,127.67
+NER,2021,acute hepatitis c,FMLE,0.12
+NER,2021,acute hepatitis a,FMLE,0.36
+NER,2021,syphilis,FMLE,0.99
+NER,2021,genital herpes,FMLE,0.0
+NER,2021,tuberculosis,FMLE,14.98
+NER,2021,hiv/aids,FMLE,3.94
+NER,2021,acute hepatitis b,FMLE,0.87
+NGA,2021,acute hepatitis a,FMLE,0.21
+NGA,2021,acute hepatitis c,FMLE,0.07
+NGA,2021,malaria,FMLE,83.5
+NGA,2021,chlamydia,FMLE,0.01
+NGA,2021,acute hepatitis e,FMLE,0.03
+NGA,2021,trichomoniasis,FMLE,0.0
+NGA,2021,hiv/aids,FMLE,20.22
+NGA,2021,acute hepatitis b,FMLE,0.96
+NGA,2021,tuberculosis,FMLE,55.85
+NGA,2021,syphilis,FMLE,2.19
+NGA,2021,genital herpes,FMLE,0.0
+NIC,2021,acute hepatitis c,FMLE,0.03
+NIC,2021,acute hepatitis a,FMLE,0.09
+NIC,2021,tuberculosis,FMLE,2.19
+NIC,2021,syphilis,FMLE,0.16
+NIC,2021,genital herpes,FMLE,0.0
+NIC,2021,hiv/aids,FMLE,2.67
+NIC,2021,acute hepatitis b,FMLE,0.02
+NIC,2021,trichomoniasis,FMLE,0.0
+NIC,2021,chlamydia,FMLE,0.0
+NIC,2021,acute hepatitis e,FMLE,0.0
+NIC,2021,malaria,FMLE,0.01
+NLD,2021,hiv/aids,FMLE,0.05
+NLD,2021,acute hepatitis b,FMLE,0.02
+NLD,2021,tuberculosis,FMLE,0.09
+NLD,2021,syphilis,FMLE,0.01
+NLD,2021,genital herpes,FMLE,0.0
+NLD,2021,acute hepatitis a,FMLE,0.05
+NLD,2021,acute hepatitis c,FMLE,0.08
+NLD,2021,malaria,FMLE,0.0
+NLD,2021,chlamydia,FMLE,0.0
+NLD,2021,trichomoniasis,FMLE,0.0
+NLD,2021,acute hepatitis e,FMLE,0.03
+NOR,2021,tuberculosis,FMLE,0.2
+NOR,2021,acute hepatitis b,FMLE,0.0
+NOR,2021,trichomoniasis,FMLE,0.0
+NOR,2021,hiv/aids,FMLE,0.11
+NOR,2021,chlamydia,FMLE,0.0
+NOR,2021,acute hepatitis e,FMLE,0.0
+NOR,2021,malaria,FMLE,0.0
+NOR,2021,acute hepatitis c,FMLE,0.08
+NOR,2021,acute hepatitis a,FMLE,0.01
+NOR,2021,syphilis,FMLE,0.0
+NOR,2021,genital herpes,FMLE,0.0
+NPL,2021,syphilis,FMLE,0.58
+NPL,2021,genital herpes,FMLE,0.0
+NPL,2021,acute hepatitis a,FMLE,1.07
+NPL,2021,hiv/aids,FMLE,0.83
+NPL,2021,acute hepatitis b,FMLE,0.55
+NPL,2021,tuberculosis,FMLE,37.56
+NPL,2021,malaria,FMLE,0.0
+NPL,2021,chlamydia,FMLE,0.04
+NPL,2021,trichomoniasis,FMLE,0.0
+NPL,2021,acute hepatitis e,FMLE,0.06
+NPL,2021,acute hepatitis c,FMLE,0.43
+NZL,2021,chlamydia,FMLE,0.0
+NZL,2021,malaria,FMLE,0.0
+NZL,2021,hiv/aids,FMLE,0.04
+NZL,2021,acute hepatitis b,FMLE,0.22
+NZL,2021,trichomoniasis,FMLE,0.0
+NZL,2021,acute hepatitis e,FMLE,0.07
+NZL,2021,syphilis,FMLE,0.0
+NZL,2021,tuberculosis,FMLE,0.33
+NZL,2021,genital herpes,FMLE,0.0
+NZL,2021,acute hepatitis c,FMLE,0.35
+NZL,2021,acute hepatitis a,FMLE,0.0
+OMN,2021,hiv/aids,FMLE,0.28
+OMN,2021,acute hepatitis b,FMLE,0.03
+OMN,2021,tuberculosis,FMLE,0.35
+OMN,2021,genital herpes,FMLE,0.0
+OMN,2021,chlamydia,FMLE,0.0
+OMN,2021,trichomoniasis,FMLE,0.0
+OMN,2021,acute hepatitis e,FMLE,0.0
+OMN,2021,acute hepatitis c,FMLE,0.0
+OMN,2021,malaria,FMLE,0.0
+OMN,2021,syphilis,FMLE,0.03
+OMN,2021,acute hepatitis a,FMLE,0.33
+PAK,2021,malaria,FMLE,0.21
+PAK,2021,acute hepatitis c,FMLE,1.07
+PAK,2021,acute hepatitis a,FMLE,2.45
+PAK,2021,syphilis,FMLE,1.35
+PAK,2021,tuberculosis,FMLE,19.36
+PAK,2021,genital herpes,FMLE,0.0
+PAK,2021,hiv/aids,FMLE,1.68
+PAK,2021,acute hepatitis b,FMLE,2.15
+PAK,2021,trichomoniasis,FMLE,0.0
+PAK,2021,acute hepatitis e,FMLE,0.22
+PAK,2021,chlamydia,FMLE,0.03
+PAN,2021,hiv/aids,FMLE,4.65
+PAN,2021,acute hepatitis b,FMLE,0.1
+PAN,2021,tuberculosis,FMLE,3.58
+PAN,2021,syphilis,FMLE,0.02
+PAN,2021,genital herpes,FMLE,0.0
+PAN,2021,chlamydia,FMLE,0.0
+PAN,2021,acute hepatitis e,FMLE,0.0
+PAN,2021,trichomoniasis,FMLE,0.0
+PAN,2021,acute hepatitis c,FMLE,0.06
+PAN,2021,malaria,FMLE,0.0
+PAN,2021,acute hepatitis a,FMLE,0.23
+PER,2021,tuberculosis,FMLE,9.88
+PER,2021,genital herpes,FMLE,0.0
+PER,2021,hiv/aids,FMLE,1.42
+PER,2021,acute hepatitis b,FMLE,0.14
+PER,2021,trichomoniasis,FMLE,0.0
+PER,2021,acute hepatitis e,FMLE,0.01
+PER,2021,chlamydia,FMLE,0.01
+PER,2021,malaria,FMLE,0.05
+PER,2021,acute hepatitis c,FMLE,0.07
+PER,2021,acute hepatitis a,FMLE,0.42
+PER,2021,syphilis,FMLE,0.58
+PHL,2021,acute hepatitis c,FMLE,0.0
+PHL,2021,malaria,FMLE,0.01
+PHL,2021,syphilis,FMLE,0.87
+PHL,2021,acute hepatitis a,FMLE,0.21
+PHL,2021,hiv/aids,FMLE,0.1
+PHL,2021,acute hepatitis b,FMLE,0.73
+PHL,2021,tuberculosis,FMLE,21.27
+PHL,2021,genital herpes,FMLE,0.0
+PHL,2021,chlamydia,FMLE,0.0
+PHL,2021,trichomoniasis,FMLE,0.0
+PHL,2021,acute hepatitis e,FMLE,0.05
+PNG,2021,chlamydia,FMLE,0.01
+PNG,2021,malaria,FMLE,29.4
+PNG,2021,trichomoniasis,FMLE,0.0
+PNG,2021,acute hepatitis e,FMLE,0.0
+PNG,2021,hiv/aids,FMLE,10.89
+PNG,2021,acute hepatitis b,FMLE,0.03
+PNG,2021,tuberculosis,FMLE,49.49
+PNG,2021,genital herpes,FMLE,0.0
+PNG,2021,syphilis,FMLE,2.76
+PNG,2021,acute hepatitis a,FMLE,0.08
+PNG,2021,acute hepatitis c,FMLE,0.01
+POL,2021,syphilis,FMLE,0.0
+POL,2021,acute hepatitis a,FMLE,0.01
+POL,2021,hiv/aids,FMLE,0.11
+POL,2021,acute hepatitis b,FMLE,0.12
+POL,2021,tuberculosis,FMLE,0.53
+POL,2021,genital herpes,FMLE,0.0
+POL,2021,chlamydia,FMLE,0.0
+POL,2021,trichomoniasis,FMLE,0.0
+POL,2021,acute hepatitis e,FMLE,0.0
+POL,2021,acute hepatitis c,FMLE,0.24
+POL,2021,malaria,FMLE,0.0
+PRK,2021,malaria,FMLE,0.0
+PRK,2021,acute hepatitis c,FMLE,0.01
+PRK,2021,acute hepatitis a,FMLE,0.02
+PRK,2021,syphilis,FMLE,0.25
+PRK,2021,genital herpes,FMLE,0.0
+PRK,2021,tuberculosis,FMLE,60.43
+PRK,2021,hiv/aids,FMLE,4.06
+PRK,2021,acute hepatitis b,FMLE,0.13
+PRK,2021,chlamydia,FMLE,0.01
+PRK,2021,trichomoniasis,FMLE,0.0
+PRK,2021,acute hepatitis e,FMLE,0.0
+PRT,2021,tuberculosis,FMLE,1.11
+PRT,2021,genital herpes,FMLE,0.0
+PRT,2021,hiv/aids,FMLE,1.33
+PRT,2021,acute hepatitis b,FMLE,0.13
+PRT,2021,trichomoniasis,FMLE,0.0
+PRT,2021,acute hepatitis e,FMLE,0.01
+PRT,2021,chlamydia,FMLE,0.0
+PRT,2021,acute hepatitis c,FMLE,0.31
+PRT,2021,malaria,FMLE,0.0
+PRT,2021,acute hepatitis a,FMLE,0.1
+PRT,2021,syphilis,FMLE,0.01
+PRY,2021,acute hepatitis c,FMLE,0.0
+PRY,2021,malaria,FMLE,0.0
+PRY,2021,syphilis,FMLE,0.95
+PRY,2021,acute hepatitis a,FMLE,0.04
+PRY,2021,hiv/aids,FMLE,3.25
+PRY,2021,acute hepatitis b,FMLE,0.02
+PRY,2021,tuberculosis,FMLE,2.4
+PRY,2021,genital herpes,FMLE,0.0
+PRY,2021,chlamydia,FMLE,0.0
+PRY,2021,acute hepatitis e,FMLE,0.0
+PRY,2021,trichomoniasis,FMLE,0.0
+QAT,2021,acute hepatitis c,FMLE,0.01
+QAT,2021,acute hepatitis a,FMLE,0.02
+QAT,2021,syphilis,FMLE,0.44
+QAT,2021,tuberculosis,FMLE,0.27
+QAT,2021,genital herpes,FMLE,0.0
+QAT,2021,hiv/aids,FMLE,0.33
+QAT,2021,acute hepatitis b,FMLE,0.08
+QAT,2021,trichomoniasis,FMLE,0.0
+QAT,2021,acute hepatitis e,FMLE,0.0
+QAT,2021,chlamydia,FMLE,0.01
+QAT,2021,malaria,FMLE,0.0
+ROU,2021,tuberculosis,FMLE,2.13
+ROU,2021,genital herpes,FMLE,0.0
+ROU,2021,syphilis,FMLE,0.0
+ROU,2021,trichomoniasis,FMLE,0.0
+ROU,2021,acute hepatitis e,FMLE,0.0
+ROU,2021,hiv/aids,FMLE,0.47
+ROU,2021,acute hepatitis b,FMLE,0.21
+ROU,2021,acute hepatitis c,FMLE,0.86
+ROU,2021,malaria,FMLE,0.0
+ROU,2021,chlamydia,FMLE,0.0
+ROU,2021,acute hepatitis a,FMLE,0.22
+RUS,2021,acute hepatitis c,FMLE,0.0
+RUS,2021,acute hepatitis a,FMLE,0.0
+RUS,2021,syphilis,FMLE,0.03
+RUS,2021,genital herpes,FMLE,0.0
+RUS,2021,tuberculosis,FMLE,3.01
+RUS,2021,hiv/aids,FMLE,7.56
+RUS,2021,acute hepatitis b,FMLE,0.01
+RUS,2021,trichomoniasis,FMLE,0.0
+RUS,2021,acute hepatitis e,FMLE,0.0
+RUS,2021,chlamydia,FMLE,0.04
+RUS,2021,malaria,FMLE,0.0
+RWA,2021,syphilis,FMLE,1.56
+RWA,2021,tuberculosis,FMLE,8.58
+RWA,2021,genital herpes,FMLE,0.0
+RWA,2021,hiv/aids,FMLE,21.41
+RWA,2021,acute hepatitis b,FMLE,0.54
+RWA,2021,trichomoniasis,FMLE,0.0
+RWA,2021,chlamydia,FMLE,0.06
+RWA,2021,acute hepatitis e,FMLE,0.03
+RWA,2021,malaria,FMLE,23.29
+RWA,2021,acute hepatitis c,FMLE,0.15
+RWA,2021,acute hepatitis a,FMLE,0.56
+SAU,2021,hiv/aids,FMLE,0.13
+SAU,2021,acute hepatitis b,FMLE,0.05
+SAU,2021,trichomoniasis,FMLE,0.0
+SAU,2021,acute hepatitis e,FMLE,0.0
+SAU,2021,syphilis,FMLE,0.39
+SAU,2021,genital herpes,FMLE,0.0
+SAU,2021,tuberculosis,FMLE,2.18
+SAU,2021,acute hepatitis a,FMLE,0.01
+SAU,2021,chlamydia,FMLE,0.0
+SAU,2021,malaria,FMLE,0.0
+SAU,2021,acute hepatitis c,FMLE,0.01
+SDN,2021,acute hepatitis a,FMLE,0.47
+SDN,2021,malaria,FMLE,13.57
+SDN,2021,acute hepatitis c,FMLE,0.01
+SDN,2021,trichomoniasis,FMLE,0.0
+SDN,2021,chlamydia,FMLE,0.0
+SDN,2021,acute hepatitis e,FMLE,0.03
+SDN,2021,syphilis,FMLE,2.92
+SDN,2021,genital herpes,FMLE,0.0
+SDN,2021,tuberculosis,FMLE,9.36
+SDN,2021,hiv/aids,FMLE,3.81
+SDN,2021,acute hepatitis b,FMLE,0.84
+SEN,2021,acute hepatitis a,FMLE,0.08
+SEN,2021,acute hepatitis c,FMLE,0.03
+SEN,2021,syphilis,FMLE,1.11
+SEN,2021,genital herpes,FMLE,0.0
+SEN,2021,trichomoniasis,FMLE,0.0
+SEN,2021,tuberculosis,FMLE,16.73
+SEN,2021,hiv/aids,FMLE,4.61
+SEN,2021,acute hepatitis b,FMLE,0.17
+SEN,2021,malaria,FMLE,12.41
+SEN,2021,chlamydia,FMLE,0.01
+SEN,2021,acute hepatitis e,FMLE,0.01
+SGP,2021,chlamydia,FMLE,0.0
+SGP,2021,malaria,FMLE,0.0
+SGP,2021,acute hepatitis c,FMLE,0.0
+SGP,2021,acute hepatitis a,FMLE,0.01
+SGP,2021,syphilis,FMLE,0.0
+SGP,2021,tuberculosis,FMLE,0.13
+SGP,2021,genital herpes,FMLE,0.0
+SGP,2021,hiv/aids,FMLE,0.0
+SGP,2021,acute hepatitis b,FMLE,0.09
+SGP,2021,trichomoniasis,FMLE,0.0
+SGP,2021,acute hepatitis e,FMLE,0.0
+SLB,2021,acute hepatitis c,FMLE,0.02
+SLB,2021,acute hepatitis a,FMLE,0.04
+SLB,2021,syphilis,FMLE,0.64
+SLB,2021,tuberculosis,FMLE,7.97
+SLB,2021,genital herpes,FMLE,0.0
+SLB,2021,hiv/aids,FMLE,0.0
+SLB,2021,acute hepatitis b,FMLE,0.04
+SLB,2021,trichomoniasis,FMLE,0.0
+SLB,2021,acute hepatitis e,FMLE,0.0
+SLB,2021,chlamydia,FMLE,0.01
+SLB,2021,malaria,FMLE,21.34
+SLE,2021,syphilis,FMLE,1.73
+SLE,2021,acute hepatitis a,FMLE,0.39
+SLE,2021,acute hepatitis c,FMLE,0.1
+SLE,2021,malaria,FMLE,99.92
+SLE,2021,chlamydia,FMLE,0.02
+SLE,2021,trichomoniasis,FMLE,0.0
+SLE,2021,acute hepatitis e,FMLE,0.03
+SLE,2021,hiv/aids,FMLE,24.64
+SLE,2021,acute hepatitis b,FMLE,0.79
+SLE,2021,tuberculosis,FMLE,46.27
+SLE,2021,genital herpes,FMLE,0.0
+SLV,2021,acute hepatitis c,FMLE,0.0
+SLV,2021,malaria,FMLE,0.0
+SLV,2021,chlamydia,FMLE,0.01
+SLV,2021,acute hepatitis e,FMLE,0.0
+SLV,2021,trichomoniasis,FMLE,0.0
+SLV,2021,hiv/aids,FMLE,3.76
+SLV,2021,acute hepatitis b,FMLE,0.02
+SLV,2021,tuberculosis,FMLE,1.32
+SLV,2021,syphilis,FMLE,0.09
+SLV,2021,genital herpes,FMLE,0.0
+SLV,2021,acute hepatitis a,FMLE,0.01
+SOM,2021,trichomoniasis,FMLE,0.0
+SOM,2021,acute hepatitis e,FMLE,0.09
+SOM,2021,hiv/aids,FMLE,2.55
+SOM,2021,acute hepatitis b,FMLE,4.53
+SOM,2021,tuberculosis,FMLE,66.82
+SOM,2021,genital herpes,FMLE,0.0
+SOM,2021,syphilis,FMLE,4.77
+SOM,2021,acute hepatitis a,FMLE,2.34
+SOM,2021,acute hepatitis c,FMLE,0.92
+SOM,2021,malaria,FMLE,13.0
+SOM,2021,chlamydia,FMLE,0.12
+SRB,2021,acute hepatitis a,FMLE,0.03
+SRB,2021,syphilis,FMLE,0.02
+SRB,2021,tuberculosis,FMLE,0.22
+SRB,2021,genital herpes,FMLE,0.0
+SRB,2021,hiv/aids,FMLE,0.09
+SRB,2021,acute hepatitis b,FMLE,0.36
+SRB,2021,trichomoniasis,FMLE,0.0
+SRB,2021,acute hepatitis e,FMLE,0.0
+SRB,2021,chlamydia,FMLE,0.0
+SRB,2021,malaria,FMLE,0.0
+SRB,2021,acute hepatitis c,FMLE,0.0
+SSD,2021,tuberculosis,FMLE,33.56
+SSD,2021,genital herpes,FMLE,0.0
+SSD,2021,hiv/aids,FMLE,85.43
+SSD,2021,acute hepatitis b,FMLE,0.61
+SSD,2021,trichomoniasis,FMLE,0.0
+SSD,2021,acute hepatitis e,FMLE,0.02
+SSD,2021,chlamydia,FMLE,0.09
+SSD,2021,malaria,FMLE,60.38
+SSD,2021,acute hepatitis c,FMLE,0.17
+SSD,2021,acute hepatitis a,FMLE,0.72
+SSD,2021,syphilis,FMLE,4.29
+STP,2021,hiv/aids,FMLE,9.79
+STP,2021,acute hepatitis b,FMLE,0.12
+STP,2021,tuberculosis,FMLE,27.29
+STP,2021,genital herpes,FMLE,0.0
+STP,2021,syphilis,FMLE,0.57
+STP,2021,acute hepatitis a,FMLE,0.04
+STP,2021,acute hepatitis c,FMLE,0.02
+STP,2021,malaria,FMLE,0.55
+STP,2021,chlamydia,FMLE,0.01
+STP,2021,acute hepatitis e,FMLE,0.01
+STP,2021,trichomoniasis,FMLE,0.0
+SUR,2021,trichomoniasis,FMLE,0.0
+SUR,2021,chlamydia,FMLE,0.02
+SUR,2021,acute hepatitis e,FMLE,0.0
+SUR,2021,malaria,FMLE,0.0
+SUR,2021,acute hepatitis c,FMLE,0.01
+SUR,2021,acute hepatitis a,FMLE,0.01
+SUR,2021,syphilis,FMLE,0.12
+SUR,2021,genital herpes,FMLE,0.0
+SUR,2021,tuberculosis,FMLE,2.76
+SUR,2021,hiv/aids,FMLE,19.74
+SUR,2021,acute hepatitis b,FMLE,0.06
+SVK,2021,tuberculosis,FMLE,0.18
+SVK,2021,genital herpes,FMLE,0.0
+SVK,2021,syphilis,FMLE,0.02
+SVK,2021,acute hepatitis a,FMLE,0.05
+SVK,2021,acute hepatitis c,FMLE,0.04
+SVK,2021,malaria,FMLE,0.0
+SVK,2021,chlamydia,FMLE,0.0
+SVK,2021,trichomoniasis,FMLE,0.0
+SVK,2021,acute hepatitis e,FMLE,0.0
+SVK,2021,hiv/aids,FMLE,0.04
+SVK,2021,acute hepatitis b,FMLE,0.11
+SVN,2021,malaria,FMLE,0.0
+SVN,2021,acute hepatitis c,FMLE,0.0
+SVN,2021,trichomoniasis,FMLE,0.0
+SVN,2021,acute hepatitis e,FMLE,0.0
+SVN,2021,chlamydia,FMLE,0.0
+SVN,2021,tuberculosis,FMLE,0.36
+SVN,2021,genital herpes,FMLE,0.0
+SVN,2021,hiv/aids,FMLE,0.0
+SVN,2021,acute hepatitis b,FMLE,0.3
+SVN,2021,acute hepatitis a,FMLE,0.05
+SVN,2021,syphilis,FMLE,0.0
+SWE,2021,hiv/aids,FMLE,0.08
+SWE,2021,acute hepatitis b,FMLE,0.01
+SWE,2021,trichomoniasis,FMLE,0.0
+SWE,2021,chlamydia,FMLE,0.0
+SWE,2021,acute hepatitis e,FMLE,0.01
+SWE,2021,malaria,FMLE,0.0
+SWE,2021,acute hepatitis c,FMLE,0.06
+SWE,2021,acute hepatitis a,FMLE,0.01
+SWE,2021,tuberculosis,FMLE,0.18
+SWE,2021,syphilis,FMLE,0.0
+SWE,2021,genital herpes,FMLE,0.0
+SWZ,2021,acute hepatitis c,FMLE,0.04
+SWZ,2021,chlamydia,FMLE,0.07
+SWZ,2021,malaria,FMLE,0.32
+SWZ,2021,trichomoniasis,FMLE,0.0
+SWZ,2021,acute hepatitis e,FMLE,0.02
+SWZ,2021,hiv/aids,FMLE,254.61
+SWZ,2021,acute hepatitis b,FMLE,0.4
+SWZ,2021,tuberculosis,FMLE,55.5
+SWZ,2021,syphilis,FMLE,2.13
+SWZ,2021,genital herpes,FMLE,0.0
+SWZ,2021,acute hepatitis a,FMLE,0.21
+SYC,2021,acute hepatitis a,FMLE,0.09
+SYC,2021,acute hepatitis c,FMLE,0.04
+SYC,2021,malaria,FMLE,0.0
+SYC,2021,chlamydia,FMLE,0.04
+SYC,2021,acute hepatitis e,FMLE,0.04
+SYC,2021,trichomoniasis,FMLE,0.0
+SYC,2021,hiv/aids,FMLE,0.0
+SYC,2021,acute hepatitis b,FMLE,0.11
+SYC,2021,tuberculosis,FMLE,0.58
+SYC,2021,syphilis,FMLE,0.32
+SYC,2021,genital herpes,FMLE,0.0
+SYR,2021,acute hepatitis a,FMLE,0.07
+SYR,2021,syphilis,FMLE,0.35
+SYR,2021,tuberculosis,FMLE,0.13
+SYR,2021,genital herpes,FMLE,0.0
+SYR,2021,hiv/aids,FMLE,0.04
+SYR,2021,acute hepatitis b,FMLE,0.02
+SYR,2021,trichomoniasis,FMLE,0.0
+SYR,2021,acute hepatitis e,FMLE,0.0
+SYR,2021,chlamydia,FMLE,0.02
+SYR,2021,acute hepatitis c,FMLE,0.0
+SYR,2021,malaria,FMLE,0.0
+TCD,2021,acute hepatitis a,FMLE,0.6
+TCD,2021,acute hepatitis c,FMLE,0.15
+TCD,2021,malaria,FMLE,72.54
+TCD,2021,chlamydia,FMLE,0.01
+TCD,2021,trichomoniasis,FMLE,0.0
+TCD,2021,acute hepatitis e,FMLE,0.04
+TCD,2021,hiv/aids,FMLE,16.5
+TCD,2021,acute hepatitis b,FMLE,1.52
+TCD,2021,tuberculosis,FMLE,32.01
+TCD,2021,genital herpes,FMLE,0.0
+TCD,2021,syphilis,FMLE,4.48
+TGO,2021,acute hepatitis c,FMLE,0.02
+TGO,2021,acute hepatitis a,FMLE,0.09
+TGO,2021,chlamydia,FMLE,0.01
+TGO,2021,acute hepatitis e,FMLE,0.01
+TGO,2021,malaria,FMLE,37.94
+TGO,2021,tuberculosis,FMLE,2.98
+TGO,2021,hiv/aids,FMLE,24.51
+TGO,2021,acute hepatitis b,FMLE,0.1
+TGO,2021,trichomoniasis,FMLE,0.0
+TGO,2021,syphilis,FMLE,2.11
+TGO,2021,genital herpes,FMLE,0.0
+THA,2021,acute hepatitis c,FMLE,0.01
+THA,2021,malaria,FMLE,0.0
+THA,2021,chlamydia,FMLE,0.02
+THA,2021,trichomoniasis,FMLE,0.0
+THA,2021,acute hepatitis e,FMLE,0.01
+THA,2021,hiv/aids,FMLE,17.16
+THA,2021,acute hepatitis b,FMLE,0.16
+THA,2021,tuberculosis,FMLE,10.98
+THA,2021,syphilis,FMLE,0.1
+THA,2021,genital herpes,FMLE,0.0
+THA,2021,acute hepatitis a,FMLE,0.03
+TJK,2021,acute hepatitis a,FMLE,0.06
+TJK,2021,syphilis,FMLE,0.11
+TJK,2021,tuberculosis,FMLE,8.43
+TJK,2021,genital herpes,FMLE,0.0
+TJK,2021,hiv/aids,FMLE,0.67
+TJK,2021,acute hepatitis b,FMLE,0.48
+TJK,2021,trichomoniasis,FMLE,0.0
+TJK,2021,acute hepatitis e,FMLE,0.0
+TJK,2021,chlamydia,FMLE,0.02
+TJK,2021,malaria,FMLE,0.0
+TJK,2021,acute hepatitis c,FMLE,0.02
+TKM,2021,chlamydia,FMLE,0.02
+TKM,2021,trichomoniasis,FMLE,0.0
+TKM,2021,acute hepatitis e,FMLE,0.01
+TKM,2021,malaria,FMLE,0.0
+TKM,2021,acute hepatitis c,FMLE,0.03
+TKM,2021,acute hepatitis a,FMLE,0.09
+TKM,2021,syphilis,FMLE,0.03
+TKM,2021,genital herpes,FMLE,0.0
+TKM,2021,tuberculosis,FMLE,7.34
+TKM,2021,hiv/aids,FMLE,41.03
+TKM,2021,acute hepatitis b,FMLE,0.4
+TLS,2021,malaria,FMLE,0.0
+TLS,2021,chlamydia,FMLE,0.01
+TLS,2021,acute hepatitis e,FMLE,0.0
+TLS,2021,trichomoniasis,FMLE,0.0
+TLS,2021,hiv/aids,FMLE,3.36
+TLS,2021,acute hepatitis b,FMLE,0.02
+TLS,2021,tuberculosis,FMLE,99.86
+TLS,2021,genital herpes,FMLE,0.0
+TLS,2021,syphilis,FMLE,1.24
+TLS,2021,acute hepatitis a,FMLE,0.04
+TLS,2021,acute hepatitis c,FMLE,0.01
+TON,2021,acute hepatitis c,FMLE,0.16
+TON,2021,malaria,FMLE,0.0
+TON,2021,acute hepatitis a,FMLE,0.31
+TON,2021,tuberculosis,FMLE,0.49
+TON,2021,hiv/aids,FMLE,0.0
+TON,2021,acute hepatitis b,FMLE,0.71
+TON,2021,syphilis,FMLE,0.49
+TON,2021,genital herpes,FMLE,0.0
+TON,2021,chlamydia,FMLE,0.0
+TON,2021,acute hepatitis e,FMLE,0.09
+TON,2021,trichomoniasis,FMLE,0.0
+TTO,2021,acute hepatitis a,FMLE,0.02
+TTO,2021,malaria,FMLE,0.0
+TTO,2021,acute hepatitis c,FMLE,0.01
+TTO,2021,trichomoniasis,FMLE,0.0
+TTO,2021,chlamydia,FMLE,0.02
+TTO,2021,acute hepatitis e,FMLE,0.0
+TTO,2021,syphilis,FMLE,0.02
+TTO,2021,genital herpes,FMLE,0.0
+TTO,2021,tuberculosis,FMLE,0.92
+TTO,2021,hiv/aids,FMLE,20.21
+TTO,2021,acute hepatitis b,FMLE,0.05
+TUN,2021,tuberculosis,FMLE,0.94
+TUN,2021,genital herpes,FMLE,0.0
+TUN,2021,syphilis,FMLE,0.07
+TUN,2021,trichomoniasis,FMLE,0.0
+TUN,2021,acute hepatitis e,FMLE,0.0
+TUN,2021,hiv/aids,FMLE,2.16
+TUN,2021,acute hepatitis b,FMLE,0.31
+TUN,2021,acute hepatitis c,FMLE,0.0
+TUN,2021,chlamydia,FMLE,0.0
+TUN,2021,malaria,FMLE,0.0
+TUN,2021,acute hepatitis a,FMLE,0.03
+TUR,2021,acute hepatitis c,FMLE,0.01
+TUR,2021,acute hepatitis a,FMLE,0.02
+TUR,2021,tuberculosis,FMLE,0.39
+TUR,2021,syphilis,FMLE,0.2
+TUR,2021,genital herpes,FMLE,0.0
+TUR,2021,hiv/aids,FMLE,0.11
+TUR,2021,acute hepatitis b,FMLE,0.08
+TUR,2021,trichomoniasis,FMLE,0.0
+TUR,2021,chlamydia,FMLE,0.0
+TUR,2021,acute hepatitis e,FMLE,0.01
+TUR,2021,malaria,FMLE,0.0
+TZA,2021,acute hepatitis c,FMLE,0.07
+TZA,2021,malaria,FMLE,38.73
+TZA,2021,chlamydia,FMLE,0.06
+TZA,2021,trichomoniasis,FMLE,0.0
+TZA,2021,acute hepatitis e,FMLE,0.01
+TZA,2021,hiv/aids,FMLE,39.51
+TZA,2021,acute hepatitis b,FMLE,0.27
+TZA,2021,tuberculosis,FMLE,38.93
+TZA,2021,syphilis,FMLE,3.09
+TZA,2021,genital herpes,FMLE,0.0
+TZA,2021,acute hepatitis a,FMLE,0.26
+UGA,2021,tuberculosis,FMLE,22.98
+UGA,2021,genital herpes,FMLE,0.0
+UGA,2021,hiv/aids,FMLE,36.73
+UGA,2021,acute hepatitis b,FMLE,0.32
+UGA,2021,trichomoniasis,FMLE,0.0
+UGA,2021,acute hepatitis e,FMLE,0.01
+UGA,2021,chlamydia,FMLE,0.08
+UGA,2021,acute hepatitis c,FMLE,0.05
+UGA,2021,malaria,FMLE,34.06
+UGA,2021,acute hepatitis a,FMLE,0.25
+UGA,2021,syphilis,FMLE,3.51
+UKR,2021,acute hepatitis c,FMLE,0.01
+UKR,2021,malaria,FMLE,0.0
+UKR,2021,chlamydia,FMLE,0.03
+UKR,2021,acute hepatitis e,FMLE,0.0
+UKR,2021,trichomoniasis,FMLE,0.0
+UKR,2021,tuberculosis,FMLE,5.03
+UKR,2021,hiv/aids,FMLE,8.6
+UKR,2021,acute hepatitis b,FMLE,0.03
+UKR,2021,syphilis,FMLE,0.03
+UKR,2021,genital herpes,FMLE,0.0
+UKR,2021,acute hepatitis a,FMLE,0.0
+URY,2021,acute hepatitis c,FMLE,0.17
+URY,2021,syphilis,FMLE,0.05
+URY,2021,genital herpes,FMLE,0.0
+URY,2021,acute hepatitis a,FMLE,0.14
+URY,2021,hiv/aids,FMLE,3.31
+URY,2021,acute hepatitis b,FMLE,0.14
+URY,2021,tuberculosis,FMLE,1.25
+URY,2021,chlamydia,FMLE,0.0
+URY,2021,malaria,FMLE,0.0
+URY,2021,trichomoniasis,FMLE,0.0
+URY,2021,acute hepatitis e,FMLE,0.01
+USA,2021,acute hepatitis a,FMLE,0.22
+USA,2021,acute hepatitis c,FMLE,0.6
+USA,2021,malaria,FMLE,0.0
+USA,2021,chlamydia,FMLE,0.0
+USA,2021,trichomoniasis,FMLE,0.0
+USA,2021,acute hepatitis e,FMLE,0.02
+USA,2021,hiv/aids,FMLE,0.7
+USA,2021,acute hepatitis b,FMLE,0.13
+USA,2021,tuberculosis,FMLE,0.13
+USA,2021,genital herpes,FMLE,0.0
+USA,2021,syphilis,FMLE,0.01
+UZB,2021,chlamydia,FMLE,0.01
+UZB,2021,acute hepatitis e,FMLE,0.0
+UZB,2021,trichomoniasis,FMLE,0.0
+UZB,2021,hiv/aids,FMLE,2.44
+UZB,2021,acute hepatitis b,FMLE,0.17
+UZB,2021,tuberculosis,FMLE,4.99
+UZB,2021,genital herpes,FMLE,0.0
+UZB,2021,syphilis,FMLE,0.01
+UZB,2021,acute hepatitis a,FMLE,0.05
+UZB,2021,acute hepatitis c,FMLE,0.0
+UZB,2021,malaria,FMLE,0.0
+VCT,2021,acute hepatitis a,FMLE,0.04
+VCT,2021,syphilis,FMLE,0.0
+VCT,2021,genital herpes,FMLE,0.0
+VCT,2021,tuberculosis,FMLE,0.0
+VCT,2021,hiv/aids,FMLE,3.86
+VCT,2021,acute hepatitis b,FMLE,0.0
+VCT,2021,chlamydia,FMLE,0.0
+VCT,2021,trichomoniasis,FMLE,0.0
+VCT,2021,acute hepatitis e,FMLE,0.0
+VCT,2021,malaria,FMLE,0.0
+VCT,2021,acute hepatitis c,FMLE,0.0
+VEN,2021,chlamydia,FMLE,0.03
+VEN,2021,acute hepatitis e,FMLE,0.0
+VEN,2021,malaria,FMLE,0.55
+VEN,2021,tuberculosis,FMLE,2.25
+VEN,2021,acute hepatitis b,FMLE,0.02
+VEN,2021,trichomoniasis,FMLE,0.0
+VEN,2021,hiv/aids,FMLE,5.11
+VEN,2021,syphilis,FMLE,0.05
+VEN,2021,genital herpes,FMLE,0.0
+VEN,2021,acute hepatitis c,FMLE,0.01
+VEN,2021,acute hepatitis a,FMLE,0.04
+VNM,2021,chlamydia,FMLE,0.0
+VNM,2021,acute hepatitis e,FMLE,0.01
+VNM,2021,malaria,FMLE,0.0
+VNM,2021,acute hepatitis c,FMLE,0.02
+VNM,2021,acute hepatitis a,FMLE,0.07
+VNM,2021,syphilis,FMLE,0.16
+VNM,2021,tuberculosis,FMLE,8.44
+VNM,2021,genital herpes,FMLE,0.0
+VNM,2021,hiv/aids,FMLE,3.38
+VNM,2021,acute hepatitis b,FMLE,0.1
+VNM,2021,trichomoniasis,FMLE,0.0
+VUT,2021,chlamydia,FMLE,0.01
+VUT,2021,trichomoniasis,FMLE,0.0
+VUT,2021,acute hepatitis e,FMLE,0.01
+VUT,2021,hiv/aids,FMLE,0.0
+VUT,2021,acute hepatitis b,FMLE,0.04
+VUT,2021,tuberculosis,FMLE,4.41
+VUT,2021,genital herpes,FMLE,0.0
+VUT,2021,syphilis,FMLE,1.1
+VUT,2021,acute hepatitis a,FMLE,0.05
+VUT,2021,acute hepatitis c,FMLE,0.01
+VUT,2021,malaria,FMLE,0.0
+WSM,2021,chlamydia,FMLE,0.0
+WSM,2021,acute hepatitis e,FMLE,0.0
+WSM,2021,malaria,FMLE,0.0
+WSM,2021,acute hepatitis c,FMLE,0.01
+WSM,2021,acute hepatitis a,FMLE,0.01
+WSM,2021,tuberculosis,FMLE,0.46
+WSM,2021,syphilis,FMLE,0.31
+WSM,2021,genital herpes,FMLE,0.0
+WSM,2021,hiv/aids,FMLE,0.0
+WSM,2021,acute hepatitis b,FMLE,0.05
+WSM,2021,trichomoniasis,FMLE,0.0
+YEM,2021,acute hepatitis c,FMLE,0.02
+YEM,2021,chlamydia,FMLE,0.0
+YEM,2021,malaria,FMLE,6.69
+YEM,2021,trichomoniasis,FMLE,0.0
+YEM,2021,acute hepatitis e,FMLE,0.03
+YEM,2021,hiv/aids,FMLE,0.67
+YEM,2021,acute hepatitis b,FMLE,1.21
+YEM,2021,tuberculosis,FMLE,10.16
+YEM,2021,genital herpes,FMLE,0.0
+YEM,2021,syphilis,FMLE,0.59
+YEM,2021,acute hepatitis a,FMLE,0.6
+ZAF,2021,malaria,FMLE,0.1
+ZAF,2021,acute hepatitis c,FMLE,0.02
+ZAF,2021,trichomoniasis,FMLE,0.0
+ZAF,2021,chlamydia,FMLE,0.08
+ZAF,2021,acute hepatitis e,FMLE,0.01
+ZAF,2021,tuberculosis,FMLE,69.51
+ZAF,2021,syphilis,FMLE,1.33
+ZAF,2021,genital herpes,FMLE,0.0
+ZAF,2021,hiv/aids,FMLE,70.56
+ZAF,2021,acute hepatitis b,FMLE,0.21
+ZAF,2021,acute hepatitis a,FMLE,0.06
+ZMB,2021,acute hepatitis a,FMLE,0.18
+ZMB,2021,acute hepatitis c,FMLE,0.03
+ZMB,2021,malaria,FMLE,42.19
+ZMB,2021,chlamydia,FMLE,0.09
+ZMB,2021,trichomoniasis,FMLE,0.0
+ZMB,2021,acute hepatitis e,FMLE,0.01
+ZMB,2021,hiv/aids,FMLE,112.88
+ZMB,2021,acute hepatitis b,FMLE,0.45
+ZMB,2021,tuberculosis,FMLE,42.42
+ZMB,2021,syphilis,FMLE,4.1
+ZMB,2021,genital herpes,FMLE,0.0
+ZWE,2021,chlamydia,FMLE,0.06
+ZWE,2021,acute hepatitis e,FMLE,0.36
+ZWE,2021,malaria,FMLE,5.69
+ZWE,2021,acute hepatitis c,FMLE,0.61
+ZWE,2021,acute hepatitis a,FMLE,0.43
+ZWE,2021,syphilis,FMLE,1.28
+ZWE,2021,tuberculosis,FMLE,37.5
+ZWE,2021,genital herpes,FMLE,0.0
+ZWE,2021,hiv/aids,FMLE,129.29
+ZWE,2021,acute hepatitis b,FMLE,0.24
+ZWE,2021,trichomoniasis,FMLE,0.0

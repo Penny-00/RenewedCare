@@ -1,0 +1,2014 @@
+country_code,year,diseases,sex,death_rate
+AFG,2021,syphilis,BTSX,1.46
+AFG,2021,genital herpes,BTSX,0.0
+AFG,2021,tuberculosis,BTSX,25.07
+AFG,2021,hiv/aids,BTSX,1.88
+AFG,2021,acute hepatitis b,BTSX,2.93
+AFG,2021,trichomoniasis,BTSX,0.0
+AFG,2021,chlamydia,BTSX,0.0
+AFG,2021,acute hepatitis e,BTSX,0.07
+AFG,2021,malaria,BTSX,0.24
+AFG,2021,acute hepatitis c,BTSX,0.08
+AFG,2021,acute hepatitis a,BTSX,1.74
+AGO,2021,acute hepatitis c,BTSX,0.07
+AGO,2021,acute hepatitis a,BTSX,0.19
+AGO,2021,chlamydia,BTSX,0.02
+AGO,2021,malaria,BTSX,56.39
+AGO,2021,hiv/aids,BTSX,41.92
+AGO,2021,acute hepatitis b,BTSX,0.92
+AGO,2021,trichomoniasis,BTSX,0.0
+AGO,2021,acute hepatitis e,BTSX,0.03
+AGO,2021,syphilis,BTSX,4.65
+AGO,2021,tuberculosis,BTSX,60.66
+AGO,2021,genital herpes,BTSX,0.0
+ALB,2021,malaria,BTSX,0.0
+ALB,2021,acute hepatitis c,BTSX,0.0
+ALB,2021,acute hepatitis a,BTSX,0.0
+ALB,2021,syphilis,BTSX,0.03
+ALB,2021,genital herpes,BTSX,0.0
+ALB,2021,tuberculosis,BTSX,0.34
+ALB,2021,hiv/aids,BTSX,0.61
+ALB,2021,acute hepatitis b,BTSX,0.02
+ALB,2021,trichomoniasis,BTSX,0.0
+ALB,2021,chlamydia,BTSX,0.0
+ALB,2021,acute hepatitis e,BTSX,0.0
+ARE,2021,malaria,BTSX,0.0
+ARE,2021,chlamydia,BTSX,0.0
+ARE,2021,trichomoniasis,BTSX,0.0
+ARE,2021,acute hepatitis e,BTSX,0.01
+ARE,2021,hiv/aids,BTSX,0.25
+ARE,2021,acute hepatitis b,BTSX,0.21
+ARE,2021,tuberculosis,BTSX,0.39
+ARE,2021,genital herpes,BTSX,0.0
+ARE,2021,syphilis,BTSX,0.1
+ARE,2021,acute hepatitis a,BTSX,0.05
+ARE,2021,acute hepatitis c,BTSX,0.02
+ARG,2021,trichomoniasis,BTSX,0.0
+ARG,2021,acute hepatitis e,BTSX,0.01
+ARG,2021,chlamydia,BTSX,0.0
+ARG,2021,malaria,BTSX,0.0
+ARG,2021,acute hepatitis c,BTSX,0.11
+ARG,2021,acute hepatitis a,BTSX,0.34
+ARG,2021,syphilis,BTSX,0.05
+ARG,2021,tuberculosis,BTSX,1.49
+ARG,2021,genital herpes,BTSX,0.0
+ARG,2021,hiv/aids,BTSX,2.73
+ARG,2021,acute hepatitis b,BTSX,0.07
+ARM,2021,tuberculosis,BTSX,1.72
+ARM,2021,genital herpes,BTSX,0.0
+ARM,2021,syphilis,BTSX,0.0
+ARM,2021,acute hepatitis a,BTSX,0.06
+ARM,2021,acute hepatitis c,BTSX,1.02
+ARM,2021,malaria,BTSX,0.0
+ARM,2021,chlamydia,BTSX,0.0
+ARM,2021,trichomoniasis,BTSX,0.0
+ARM,2021,acute hepatitis e,BTSX,0.0
+ARM,2021,hiv/aids,BTSX,2.88
+ARM,2021,acute hepatitis b,BTSX,0.18
+ATG,2021,malaria,BTSX,0.0
+ATG,2021,acute hepatitis c,BTSX,0.0
+ATG,2021,acute hepatitis a,BTSX,0.01
+ATG,2021,syphilis,BTSX,0.0
+ATG,2021,genital herpes,BTSX,0.0
+ATG,2021,tuberculosis,BTSX,0.92
+ATG,2021,hiv/aids,BTSX,3.07
+ATG,2021,acute hepatitis b,BTSX,0.0
+ATG,2021,trichomoniasis,BTSX,0.0
+ATG,2021,chlamydia,BTSX,0.0
+ATG,2021,acute hepatitis e,BTSX,0.0
+AUS,2021,acute hepatitis c,BTSX,0.36
+AUS,2021,chlamydia,BTSX,0.0
+AUS,2021,malaria,BTSX,0.0
+AUS,2021,trichomoniasis,BTSX,0.0
+AUS,2021,acute hepatitis e,BTSX,0.01
+AUS,2021,hiv/aids,BTSX,0.14
+AUS,2021,acute hepatitis b,BTSX,0.13
+AUS,2021,tuberculosis,BTSX,0.19
+AUS,2021,syphilis,BTSX,0.01
+AUS,2021,genital herpes,BTSX,0.0
+AUS,2021,acute hepatitis a,BTSX,0.02
+AUT,2021,acute hepatitis c,BTSX,0.83
+AUT,2021,acute hepatitis a,BTSX,0.09
+AUT,2021,syphilis,BTSX,0.01
+AUT,2021,genital herpes,BTSX,0.0
+AUT,2021,tuberculosis,BTSX,0.36
+AUT,2021,hiv/aids,BTSX,0.41
+AUT,2021,acute hepatitis b,BTSX,0.04
+AUT,2021,trichomoniasis,BTSX,0.0
+AUT,2021,acute hepatitis e,BTSX,0.05
+AUT,2021,chlamydia,BTSX,0.0
+AUT,2021,malaria,BTSX,0.0
+AZE,2021,hiv/aids,BTSX,0.72
+AZE,2021,acute hepatitis b,BTSX,0.08
+AZE,2021,tuberculosis,BTSX,5.58
+AZE,2021,genital herpes,BTSX,0.0
+AZE,2021,syphilis,BTSX,0.13
+AZE,2021,acute hepatitis a,BTSX,0.01
+AZE,2021,acute hepatitis c,BTSX,0.0
+AZE,2021,chlamydia,BTSX,0.02
+AZE,2021,malaria,BTSX,0.0
+AZE,2021,trichomoniasis,BTSX,0.0
+AZE,2021,acute hepatitis e,BTSX,0.01
+BDI,2021,acute hepatitis a,BTSX,0.36
+BDI,2021,acute hepatitis c,BTSX,0.25
+BDI,2021,malaria,BTSX,56.72
+BDI,2021,chlamydia,BTSX,0.02
+BDI,2021,acute hepatitis e,BTSX,0.05
+BDI,2021,trichomoniasis,BTSX,0.0
+BDI,2021,tuberculosis,BTSX,22.47
+BDI,2021,hiv/aids,BTSX,10.64
+BDI,2021,acute hepatitis b,BTSX,0.66
+BDI,2021,syphilis,BTSX,1.31
+BDI,2021,genital herpes,BTSX,0.0
+BEL,2021,malaria,BTSX,0.0
+BEL,2021,acute hepatitis c,BTSX,0.24
+BEL,2021,hiv/aids,BTSX,0.28
+BEL,2021,acute hepatitis b,BTSX,0.18
+BEL,2021,chlamydia,BTSX,0.0
+BEL,2021,trichomoniasis,BTSX,0.0
+BEL,2021,acute hepatitis e,BTSX,0.04
+BEL,2021,syphilis,BTSX,0.01
+BEL,2021,genital herpes,BTSX,0.0
+BEL,2021,tuberculosis,BTSX,0.42
+BEL,2021,acute hepatitis a,BTSX,0.09
+BEN,2021,acute hepatitis c,BTSX,0.04
+BEN,2021,malaria,BTSX,82.7
+BEN,2021,syphilis,BTSX,2.6
+BEN,2021,acute hepatitis a,BTSX,0.19
+BEN,2021,hiv/aids,BTSX,14.89
+BEN,2021,acute hepatitis b,BTSX,0.48
+BEN,2021,tuberculosis,BTSX,12.57
+BEN,2021,genital herpes,BTSX,0.0
+BEN,2021,chlamydia,BTSX,0.0
+BEN,2021,acute hepatitis e,BTSX,0.02
+BEN,2021,trichomoniasis,BTSX,0.0
+BFA,2021,syphilis,BTSX,1.86
+BFA,2021,genital herpes,BTSX,0.0
+BFA,2021,tuberculosis,BTSX,7.2
+BFA,2021,hiv/aids,BTSX,12.8
+BFA,2021,acute hepatitis b,BTSX,1.27
+BFA,2021,trichomoniasis,BTSX,0.0
+BFA,2021,chlamydia,BTSX,0.01
+BFA,2021,acute hepatitis e,BTSX,0.05
+BFA,2021,malaria,BTSX,72.53
+BFA,2021,acute hepatitis c,BTSX,0.11
+BFA,2021,acute hepatitis a,BTSX,0.31
+BGD,2021,acute hepatitis a,BTSX,0.76
+BGD,2021,acute hepatitis c,BTSX,0.11
+BGD,2021,malaria,BTSX,0.03
+BGD,2021,chlamydia,BTSX,0.02
+BGD,2021,acute hepatitis e,BTSX,0.06
+BGD,2021,trichomoniasis,BTSX,0.0
+BGD,2021,hiv/aids,BTSX,0.32
+BGD,2021,tuberculosis,BTSX,25.57
+BGD,2021,acute hepatitis b,BTSX,0.48
+BGD,2021,syphilis,BTSX,1.0
+BGD,2021,genital herpes,BTSX,0.0
+BGR,2021,malaria,BTSX,0.0
+BGR,2021,acute hepatitis c,BTSX,0.34
+BGR,2021,acute hepatitis a,BTSX,0.1
+BGR,2021,tuberculosis,BTSX,0.83
+BGR,2021,syphilis,BTSX,0.0
+BGR,2021,genital herpes,BTSX,0.0
+BGR,2021,hiv/aids,BTSX,0.25
+BGR,2021,acute hepatitis b,BTSX,0.5
+BGR,2021,trichomoniasis,BTSX,0.0
+BGR,2021,chlamydia,BTSX,0.0
+BGR,2021,acute hepatitis e,BTSX,0.03
+BHR,2021,hiv/aids,BTSX,0.19
+BHR,2021,acute hepatitis b,BTSX,0.48
+BHR,2021,tuberculosis,BTSX,1.3
+BHR,2021,syphilis,BTSX,0.12
+BHR,2021,genital herpes,BTSX,0.0
+BHR,2021,acute hepatitis a,BTSX,0.04
+BHR,2021,acute hepatitis c,BTSX,0.0
+BHR,2021,chlamydia,BTSX,0.0
+BHR,2021,malaria,BTSX,0.0
+BHR,2021,trichomoniasis,BTSX,0.0
+BHR,2021,acute hepatitis e,BTSX,0.02
+BHS,2021,tuberculosis,BTSX,1.13
+BHS,2021,genital herpes,BTSX,0.0
+BHS,2021,syphilis,BTSX,0.03
+BHS,2021,acute hepatitis a,BTSX,0.01
+BHS,2021,acute hepatitis c,BTSX,0.0
+BHS,2021,malaria,BTSX,0.0
+BHS,2021,chlamydia,BTSX,0.02
+BHS,2021,trichomoniasis,BTSX,0.0
+BHS,2021,acute hepatitis e,BTSX,0.0
+BHS,2021,hiv/aids,BTSX,19.0
+BHS,2021,acute hepatitis b,BTSX,0.02
+BIH,2021,chlamydia,BTSX,0.0
+BIH,2021,trichomoniasis,BTSX,0.0
+BIH,2021,acute hepatitis e,BTSX,0.0
+BIH,2021,acute hepatitis c,BTSX,0.0
+BIH,2021,malaria,BTSX,0.0
+BIH,2021,syphilis,BTSX,0.03
+BIH,2021,acute hepatitis a,BTSX,0.01
+BIH,2021,hiv/aids,BTSX,0.07
+BIH,2021,acute hepatitis b,BTSX,0.12
+BIH,2021,tuberculosis,BTSX,2.82
+BIH,2021,genital herpes,BTSX,0.0
+BLR,2021,acute hepatitis c,BTSX,0.01
+BLR,2021,acute hepatitis a,BTSX,0.03
+BLR,2021,syphilis,BTSX,0.02
+BLR,2021,tuberculosis,BTSX,3.35
+BLR,2021,genital herpes,BTSX,0.0
+BLR,2021,hiv/aids,BTSX,3.38
+BLR,2021,acute hepatitis b,BTSX,0.06
+BLR,2021,trichomoniasis,BTSX,0.0
+BLR,2021,acute hepatitis e,BTSX,0.01
+BLR,2021,chlamydia,BTSX,0.01
+BLR,2021,malaria,BTSX,0.0
+BLZ,2021,acute hepatitis a,BTSX,0.01
+BLZ,2021,syphilis,BTSX,0.01
+BLZ,2021,tuberculosis,BTSX,2.83
+BLZ,2021,genital herpes,BTSX,0.0
+BLZ,2021,hiv/aids,BTSX,25.57
+BLZ,2021,acute hepatitis b,BTSX,0.01
+BLZ,2021,trichomoniasis,BTSX,0.0
+BLZ,2021,acute hepatitis e,BTSX,0.0
+BLZ,2021,chlamydia,BTSX,0.01
+BLZ,2021,malaria,BTSX,0.0
+BLZ,2021,acute hepatitis c,BTSX,0.0
+BOL,2021,acute hepatitis a,BTSX,0.05
+BOL,2021,malaria,BTSX,0.03
+BOL,2021,acute hepatitis c,BTSX,0.01
+BOL,2021,hiv/aids,BTSX,5.68
+BOL,2021,acute hepatitis b,BTSX,0.02
+BOL,2021,chlamydia,BTSX,0.01
+BOL,2021,trichomoniasis,BTSX,0.0
+BOL,2021,acute hepatitis e,BTSX,0.0
+BOL,2021,syphilis,BTSX,1.68
+BOL,2021,genital herpes,BTSX,0.0
+BOL,2021,tuberculosis,BTSX,12.85
+BRA,2021,acute hepatitis a,BTSX,0.3
+BRA,2021,acute hepatitis c,BTSX,0.51
+BRA,2021,malaria,BTSX,0.03
+BRA,2021,chlamydia,BTSX,0.0
+BRA,2021,acute hepatitis e,BTSX,0.02
+BRA,2021,trichomoniasis,BTSX,0.0
+BRA,2021,tuberculosis,BTSX,5.08
+BRA,2021,hiv/aids,BTSX,5.87
+BRA,2021,acute hepatitis b,BTSX,0.31
+BRA,2021,syphilis,BTSX,0.14
+BRA,2021,genital herpes,BTSX,0.0
+BRB,2021,acute hepatitis c,BTSX,0.0
+BRB,2021,chlamydia,BTSX,0.01
+BRB,2021,malaria,BTSX,0.0
+BRB,2021,trichomoniasis,BTSX,0.0
+BRB,2021,acute hepatitis e,BTSX,0.01
+BRB,2021,hiv/aids,BTSX,16.56
+BRB,2021,acute hepatitis b,BTSX,0.07
+BRB,2021,tuberculosis,BTSX,0.85
+BRB,2021,syphilis,BTSX,0.03
+BRB,2021,genital herpes,BTSX,0.0
+BRB,2021,acute hepatitis a,BTSX,0.02
+BRN,2021,trichomoniasis,BTSX,0.0
+BRN,2021,acute hepatitis e,BTSX,0.01
+BRN,2021,hiv/aids,BTSX,0.24
+BRN,2021,acute hepatitis b,BTSX,1.06
+BRN,2021,acute hepatitis c,BTSX,1.03
+BRN,2021,chlamydia,BTSX,0.0
+BRN,2021,malaria,BTSX,0.0
+BRN,2021,acute hepatitis a,BTSX,0.18
+BRN,2021,tuberculosis,BTSX,5.47
+BRN,2021,genital herpes,BTSX,0.0
+BRN,2021,syphilis,BTSX,0.15
+BTN,2021,tuberculosis,BTSX,26.56
+BTN,2021,trichomoniasis,BTSX,0.0
+BTN,2021,hiv/aids,BTSX,4.07
+BTN,2021,acute hepatitis b,BTSX,0.41
+BTN,2021,acute hepatitis a,BTSX,0.33
+BTN,2021,syphilis,BTSX,0.89
+BTN,2021,genital herpes,BTSX,0.0
+BTN,2021,acute hepatitis c,BTSX,0.13
+BTN,2021,chlamydia,BTSX,0.02
+BTN,2021,acute hepatitis e,BTSX,0.05
+BTN,2021,malaria,BTSX,0.0
+BWA,2021,tuberculosis,BTSX,74.4
+BWA,2021,genital herpes,BTSX,0.0
+BWA,2021,syphilis,BTSX,1.9
+BWA,2021,acute hepatitis a,BTSX,0.06
+BWA,2021,acute hepatitis c,BTSX,0.01
+BWA,2021,malaria,BTSX,0.15
+BWA,2021,chlamydia,BTSX,0.02
+BWA,2021,trichomoniasis,BTSX,0.0
+BWA,2021,acute hepatitis e,BTSX,0.01
+BWA,2021,hiv/aids,BTSX,139.27
+BWA,2021,acute hepatitis b,BTSX,0.24
+CAF,2021,acute hepatitis c,BTSX,0.15
+CAF,2021,malaria,BTSX,98.14
+CAF,2021,syphilis,BTSX,5.21
+CAF,2021,acute hepatitis a,BTSX,0.45
+CAF,2021,hiv/aids,BTSX,85.7
+CAF,2021,acute hepatitis b,BTSX,0.92
+CAF,2021,tuberculosis,BTSX,162.94
+CAF,2021,genital herpes,BTSX,0.0
+CAF,2021,chlamydia,BTSX,0.03
+CAF,2021,trichomoniasis,BTSX,0.0
+CAF,2021,acute hepatitis e,BTSX,0.04
+CAN,2021,acute hepatitis c,BTSX,0.58
+CAN,2021,syphilis,BTSX,0.01
+CAN,2021,genital herpes,BTSX,0.0
+CAN,2021,acute hepatitis a,BTSX,0.07
+CAN,2021,hiv/aids,BTSX,0.37
+CAN,2021,acute hepatitis b,BTSX,0.17
+CAN,2021,tuberculosis,BTSX,0.32
+CAN,2021,malaria,BTSX,0.0
+CAN,2021,chlamydia,BTSX,0.0
+CAN,2021,trichomoniasis,BTSX,0.0
+CAN,2021,acute hepatitis e,BTSX,0.0
+CHE,2021,chlamydia,BTSX,0.0
+CHE,2021,acute hepatitis e,BTSX,0.02
+CHE,2021,trichomoniasis,BTSX,0.0
+CHE,2021,tuberculosis,BTSX,0.19
+CHE,2021,hiv/aids,BTSX,0.29
+CHE,2021,acute hepatitis b,BTSX,0.08
+CHE,2021,syphilis,BTSX,0.01
+CHE,2021,genital herpes,BTSX,0.0
+CHE,2021,acute hepatitis a,BTSX,0.12
+CHE,2021,acute hepatitis c,BTSX,0.06
+CHE,2021,malaria,BTSX,0.0
+CHL,2021,syphilis,BTSX,0.03
+CHL,2021,acute hepatitis a,BTSX,0.02
+CHL,2021,hiv/aids,BTSX,2.55
+CHL,2021,acute hepatitis b,BTSX,0.12
+CHL,2021,tuberculosis,BTSX,1.66
+CHL,2021,genital herpes,BTSX,0.0
+CHL,2021,chlamydia,BTSX,0.0
+CHL,2021,trichomoniasis,BTSX,0.0
+CHL,2021,acute hepatitis e,BTSX,0.01
+CHL,2021,acute hepatitis c,BTSX,0.04
+CHL,2021,malaria,BTSX,0.0
+CHN,2021,acute hepatitis c,BTSX,0.01
+CHN,2021,acute hepatitis a,BTSX,0.0
+CHN,2021,chlamydia,BTSX,0.0
+CHN,2021,acute hepatitis e,BTSX,0.01
+CHN,2021,malaria,BTSX,0.0
+CHN,2021,tuberculosis,BTSX,2.52
+CHN,2021,hiv/aids,BTSX,2.66
+CHN,2021,acute hepatitis b,BTSX,0.16
+CHN,2021,trichomoniasis,BTSX,0.0
+CHN,2021,syphilis,BTSX,0.12
+CHN,2021,genital herpes,BTSX,0.0
+CIV,2021,chlamydia,BTSX,0.01
+CIV,2021,trichomoniasis,BTSX,0.0
+CIV,2021,acute hepatitis e,BTSX,0.02
+CIV,2021,hiv/aids,BTSX,38.88
+CIV,2021,acute hepatitis b,BTSX,0.28
+CIV,2021,tuberculosis,BTSX,28.52
+CIV,2021,genital herpes,BTSX,0.0
+CIV,2021,syphilis,BTSX,4.16
+CIV,2021,acute hepatitis a,BTSX,0.12
+CIV,2021,acute hepatitis c,BTSX,0.03
+CIV,2021,malaria,BTSX,40.84
+CMR,2021,tuberculosis,BTSX,44.34
+CMR,2021,hiv/aids,BTSX,42.64
+CMR,2021,acute hepatitis b,BTSX,0.13
+CMR,2021,chlamydia,BTSX,0.01
+CMR,2021,trichomoniasis,BTSX,0.0
+CMR,2021,acute hepatitis e,BTSX,0.01
+CMR,2021,malaria,BTSX,47.03
+CMR,2021,acute hepatitis c,BTSX,0.02
+CMR,2021,acute hepatitis a,BTSX,0.08
+CMR,2021,syphilis,BTSX,6.15
+CMR,2021,genital herpes,BTSX,0.0
+COD,2021,trichomoniasis,BTSX,0.0
+COD,2021,acute hepatitis e,BTSX,0.01
+COD,2021,hiv/aids,BTSX,14.36
+COD,2021,acute hepatitis b,BTSX,0.13
+COD,2021,tuberculosis,BTSX,51.93
+COD,2021,genital herpes,BTSX,0.0
+COD,2021,syphilis,BTSX,6.84
+COD,2021,acute hepatitis a,BTSX,0.08
+COD,2021,acute hepatitis c,BTSX,0.03
+COD,2021,malaria,BTSX,73.85
+COD,2021,chlamydia,BTSX,0.02
+COG,2021,acute hepatitis a,BTSX,0.08
+COG,2021,acute hepatitis c,BTSX,0.02
+COG,2021,malaria,BTSX,38.13
+COG,2021,chlamydia,BTSX,0.01
+COG,2021,acute hepatitis e,BTSX,0.01
+COG,2021,trichomoniasis,BTSX,0.0
+COG,2021,hiv/aids,BTSX,129.79
+COG,2021,acute hepatitis b,BTSX,0.35
+COG,2021,tuberculosis,BTSX,100.11
+COG,2021,genital herpes,BTSX,0.0
+COG,2021,syphilis,BTSX,2.36
+COL,2021,acute hepatitis c,BTSX,0.05
+COL,2021,syphilis,BTSX,0.08
+COL,2021,acute hepatitis a,BTSX,0.09
+COL,2021,hiv/aids,BTSX,4.73
+COL,2021,acute hepatitis b,BTSX,0.11
+COL,2021,tuberculosis,BTSX,5.0
+COL,2021,genital herpes,BTSX,0.0
+COL,2021,chlamydia,BTSX,0.0
+COL,2021,malaria,BTSX,0.04
+COL,2021,trichomoniasis,BTSX,0.0
+COL,2021,acute hepatitis e,BTSX,0.0
+COM,2021,acute hepatitis c,BTSX,0.09
+COM,2021,malaria,BTSX,3.18
+COM,2021,chlamydia,BTSX,0.04
+COM,2021,acute hepatitis e,BTSX,0.08
+COM,2021,trichomoniasis,BTSX,0.0
+COM,2021,hiv/aids,BTSX,0.21
+COM,2021,tuberculosis,BTSX,8.6
+COM,2021,acute hepatitis b,BTSX,0.83
+COM,2021,syphilis,BTSX,3.14
+COM,2021,genital herpes,BTSX,0.0
+COM,2021,acute hepatitis a,BTSX,0.33
+CPV,2021,tuberculosis,BTSX,2.87
+CPV,2021,syphilis,BTSX,0.48
+CPV,2021,genital herpes,BTSX,0.0
+CPV,2021,acute hepatitis a,BTSX,0.03
+CPV,2021,acute hepatitis c,BTSX,0.02
+CPV,2021,chlamydia,BTSX,0.0
+CPV,2021,malaria,BTSX,0.0
+CPV,2021,trichomoniasis,BTSX,0.0
+CPV,2021,acute hepatitis e,BTSX,0.01
+CPV,2021,hiv/aids,BTSX,9.79
+CPV,2021,acute hepatitis b,BTSX,0.37
+CRI,2021,chlamydia,BTSX,0.0
+CRI,2021,acute hepatitis e,BTSX,0.04
+CRI,2021,malaria,BTSX,0.0
+CRI,2021,acute hepatitis c,BTSX,0.02
+CRI,2021,acute hepatitis a,BTSX,0.07
+CRI,2021,syphilis,BTSX,0.12
+CRI,2021,genital herpes,BTSX,0.0
+CRI,2021,tuberculosis,BTSX,1.09
+CRI,2021,hiv/aids,BTSX,4.18
+CRI,2021,acute hepatitis b,BTSX,0.14
+CRI,2021,trichomoniasis,BTSX,0.0
+CUB,2021,syphilis,BTSX,0.01
+CUB,2021,genital herpes,BTSX,0.0
+CUB,2021,tuberculosis,BTSX,0.48
+CUB,2021,hiv/aids,BTSX,3.45
+CUB,2021,acute hepatitis b,BTSX,0.37
+CUB,2021,trichomoniasis,BTSX,0.0
+CUB,2021,chlamydia,BTSX,0.0
+CUB,2021,acute hepatitis e,BTSX,0.02
+CUB,2021,malaria,BTSX,0.0
+CUB,2021,acute hepatitis c,BTSX,0.51
+CUB,2021,acute hepatitis a,BTSX,0.02
+CYP,2021,hiv/aids,BTSX,0.18
+CYP,2021,acute hepatitis b,BTSX,0.0
+CYP,2021,chlamydia,BTSX,0.0
+CYP,2021,trichomoniasis,BTSX,0.0
+CYP,2021,acute hepatitis e,BTSX,0.0
+CYP,2021,malaria,BTSX,0.0
+CYP,2021,acute hepatitis c,BTSX,0.1
+CYP,2021,acute hepatitis a,BTSX,0.25
+CYP,2021,syphilis,BTSX,0.07
+CYP,2021,genital herpes,BTSX,0.0
+CYP,2021,tuberculosis,BTSX,0.43
+CZE,2021,chlamydia,BTSX,0.0
+CZE,2021,acute hepatitis e,BTSX,0.01
+CZE,2021,malaria,BTSX,0.0
+CZE,2021,acute hepatitis c,BTSX,0.19
+CZE,2021,acute hepatitis a,BTSX,0.97
+CZE,2021,syphilis,BTSX,0.0
+CZE,2021,genital herpes,BTSX,0.0
+CZE,2021,tuberculosis,BTSX,0.35
+CZE,2021,hiv/aids,BTSX,0.21
+CZE,2021,acute hepatitis b,BTSX,0.11
+CZE,2021,trichomoniasis,BTSX,0.0
+DEU,2021,acute hepatitis c,BTSX,0.42
+DEU,2021,malaria,BTSX,0.0
+DEU,2021,syphilis,BTSX,0.01
+DEU,2021,acute hepatitis a,BTSX,0.12
+DEU,2021,hiv/aids,BTSX,0.29
+DEU,2021,acute hepatitis b,BTSX,0.09
+DEU,2021,tuberculosis,BTSX,0.34
+DEU,2021,genital herpes,BTSX,0.0
+DEU,2021,chlamydia,BTSX,0.0
+DEU,2021,acute hepatitis e,BTSX,0.14
+DEU,2021,trichomoniasis,BTSX,0.0
+DJI,2021,chlamydia,BTSX,0.06
+DJI,2021,trichomoniasis,BTSX,0.0
+DJI,2021,acute hepatitis e,BTSX,0.08
+DJI,2021,hiv/aids,BTSX,54.61
+DJI,2021,acute hepatitis b,BTSX,1.1
+DJI,2021,tuberculosis,BTSX,23.17
+DJI,2021,genital herpes,BTSX,0.0
+DJI,2021,syphilis,BTSX,3.73
+DJI,2021,acute hepatitis a,BTSX,0.39
+DJI,2021,acute hepatitis c,BTSX,0.12
+DJI,2021,malaria,BTSX,10.58
+DNK,2021,syphilis,BTSX,0.0
+DNK,2021,tuberculosis,BTSX,0.12
+DNK,2021,genital herpes,BTSX,0.0
+DNK,2021,hiv/aids,BTSX,0.18
+DNK,2021,acute hepatitis b,BTSX,0.0
+DNK,2021,trichomoniasis,BTSX,0.0
+DNK,2021,acute hepatitis e,BTSX,0.0
+DNK,2021,chlamydia,BTSX,0.0
+DNK,2021,malaria,BTSX,0.0
+DNK,2021,acute hepatitis c,BTSX,0.31
+DNK,2021,acute hepatitis a,BTSX,0.19
+DOM,2021,acute hepatitis a,BTSX,0.01
+DOM,2021,syphilis,BTSX,1.91
+DOM,2021,genital herpes,BTSX,0.0
+DOM,2021,tuberculosis,BTSX,4.37
+DOM,2021,hiv/aids,BTSX,16.97
+DOM,2021,acute hepatitis b,BTSX,0.03
+DOM,2021,trichomoniasis,BTSX,0.0
+DOM,2021,acute hepatitis e,BTSX,0.0
+DOM,2021,chlamydia,BTSX,0.02
+DOM,2021,malaria,BTSX,0.01
+DOM,2021,acute hepatitis c,BTSX,0.01
+DZA,2021,malaria,BTSX,0.0
+DZA,2021,acute hepatitis c,BTSX,0.01
+DZA,2021,acute hepatitis a,BTSX,0.04
+DZA,2021,syphilis,BTSX,0.32
+DZA,2021,genital herpes,BTSX,0.0
+DZA,2021,tuberculosis,BTSX,6.0
+DZA,2021,hiv/aids,BTSX,0.82
+DZA,2021,acute hepatitis b,BTSX,0.37
+DZA,2021,trichomoniasis,BTSX,0.0
+DZA,2021,chlamydia,BTSX,0.0
+DZA,2021,acute hepatitis e,BTSX,0.01
+ECU,2021,syphilis,BTSX,0.51
+ECU,2021,tuberculosis,BTSX,5.13
+ECU,2021,genital herpes,BTSX,0.0
+ECU,2021,acute hepatitis a,BTSX,0.43
+ECU,2021,chlamydia,BTSX,0.0
+ECU,2021,malaria,BTSX,0.0
+ECU,2021,acute hepatitis c,BTSX,0.01
+ECU,2021,hiv/aids,BTSX,3.89
+ECU,2021,acute hepatitis b,BTSX,0.09
+ECU,2021,trichomoniasis,BTSX,0.0
+ECU,2021,acute hepatitis e,BTSX,0.01
+EGY,2021,chlamydia,BTSX,0.0
+EGY,2021,trichomoniasis,BTSX,0.0
+EGY,2021,acute hepatitis e,BTSX,0.02
+EGY,2021,hiv/aids,BTSX,0.42
+EGY,2021,acute hepatitis b,BTSX,1.59
+EGY,2021,acute hepatitis c,BTSX,0.01
+EGY,2021,malaria,BTSX,0.0
+EGY,2021,acute hepatitis a,BTSX,0.21
+EGY,2021,tuberculosis,BTSX,0.45
+EGY,2021,syphilis,BTSX,0.46
+EGY,2021,genital herpes,BTSX,0.0
+ERI,2021,acute hepatitis c,BTSX,0.21
+ERI,2021,chlamydia,BTSX,0.05
+ERI,2021,malaria,BTSX,5.84
+ERI,2021,trichomoniasis,BTSX,0.0
+ERI,2021,acute hepatitis e,BTSX,0.12
+ERI,2021,hiv/aids,BTSX,8.17
+ERI,2021,acute hepatitis b,BTSX,1.39
+ERI,2021,tuberculosis,BTSX,14.75
+ERI,2021,syphilis,BTSX,2.18
+ERI,2021,genital herpes,BTSX,0.0
+ERI,2021,acute hepatitis a,BTSX,0.65
+ESP,2021,syphilis,BTSX,0.01
+ESP,2021,genital herpes,BTSX,0.0
+ESP,2021,tuberculosis,BTSX,0.38
+ESP,2021,hiv/aids,BTSX,0.67
+ESP,2021,acute hepatitis b,BTSX,0.14
+ESP,2021,trichomoniasis,BTSX,0.0
+ESP,2021,chlamydia,BTSX,0.0
+ESP,2021,acute hepatitis e,BTSX,0.2
+ESP,2021,malaria,BTSX,0.0
+ESP,2021,acute hepatitis c,BTSX,0.6
+ESP,2021,acute hepatitis a,BTSX,0.03
+EST,2021,tuberculosis,BTSX,1.01
+EST,2021,hiv/aids,BTSX,3.81
+EST,2021,acute hepatitis b,BTSX,0.07
+EST,2021,trichomoniasis,BTSX,0.0
+EST,2021,acute hepatitis e,BTSX,0.0
+EST,2021,chlamydia,BTSX,0.0
+EST,2021,malaria,BTSX,0.0
+EST,2021,acute hepatitis c,BTSX,0.47
+EST,2021,acute hepatitis a,BTSX,0.24
+EST,2021,syphilis,BTSX,0.08
+EST,2021,genital herpes,BTSX,0.0
+ETH,2021,syphilis,BTSX,1.9
+ETH,2021,tuberculosis,BTSX,17.3
+ETH,2021,genital herpes,BTSX,0.0
+ETH,2021,acute hepatitis c,BTSX,0.25
+ETH,2021,acute hepatitis a,BTSX,0.73
+ETH,2021,chlamydia,BTSX,0.03
+ETH,2021,acute hepatitis e,BTSX,0.16
+ETH,2021,malaria,BTSX,6.7
+ETH,2021,hiv/aids,BTSX,10.02
+ETH,2021,acute hepatitis b,BTSX,1.42
+ETH,2021,trichomoniasis,BTSX,0.0
+FIN,2021,tuberculosis,BTSX,0.52
+FIN,2021,genital herpes,BTSX,0.0
+FIN,2021,syphilis,BTSX,0.02
+FIN,2021,trichomoniasis,BTSX,0.0
+FIN,2021,acute hepatitis e,BTSX,0.0
+FIN,2021,hiv/aids,BTSX,0.08
+FIN,2021,acute hepatitis b,BTSX,0.02
+FIN,2021,acute hepatitis c,BTSX,0.0
+FIN,2021,chlamydia,BTSX,0.0
+FIN,2021,malaria,BTSX,0.0
+FIN,2021,acute hepatitis a,BTSX,0.02
+FJI,2021,acute hepatitis c,BTSX,0.01
+FJI,2021,acute hepatitis a,BTSX,0.03
+FJI,2021,syphilis,BTSX,2.23
+FJI,2021,tuberculosis,BTSX,5.34
+FJI,2021,genital herpes,BTSX,0.0
+FJI,2021,hiv/aids,BTSX,4.7
+FJI,2021,acute hepatitis b,BTSX,0.06
+FJI,2021,trichomoniasis,BTSX,0.0
+FJI,2021,acute hepatitis e,BTSX,0.01
+FJI,2021,chlamydia,BTSX,0.01
+FJI,2021,malaria,BTSX,0.0
+FRA,2021,trichomoniasis,BTSX,0.0
+FRA,2021,acute hepatitis e,BTSX,0.05
+FRA,2021,hiv/aids,BTSX,0.33
+FRA,2021,acute hepatitis b,BTSX,0.21
+FRA,2021,tuberculosis,BTSX,0.48
+FRA,2021,genital herpes,BTSX,0.0
+FRA,2021,syphilis,BTSX,0.0
+FRA,2021,acute hepatitis a,BTSX,0.12
+FRA,2021,acute hepatitis c,BTSX,0.26
+FRA,2021,malaria,BTSX,0.0
+FRA,2021,chlamydia,BTSX,0.0
+FSM,2021,syphilis,BTSX,1.68
+FSM,2021,genital herpes,BTSX,0.0
+FSM,2021,acute hepatitis a,BTSX,0.02
+FSM,2021,acute hepatitis c,BTSX,0.03
+FSM,2021,malaria,BTSX,0.0
+FSM,2021,chlamydia,BTSX,0.0
+FSM,2021,trichomoniasis,BTSX,0.0
+FSM,2021,acute hepatitis e,BTSX,0.02
+FSM,2021,hiv/aids,BTSX,0.0
+FSM,2021,acute hepatitis b,BTSX,0.09
+FSM,2021,tuberculosis,BTSX,8.22
+GAB,2021,acute hepatitis a,BTSX,0.02
+GAB,2021,syphilis,BTSX,2.9
+GAB,2021,genital herpes,BTSX,0.0
+GAB,2021,tuberculosis,BTSX,171.0
+GAB,2021,hiv/aids,BTSX,73.93
+GAB,2021,acute hepatitis b,BTSX,0.1
+GAB,2021,trichomoniasis,BTSX,0.0
+GAB,2021,chlamydia,BTSX,0.01
+GAB,2021,acute hepatitis e,BTSX,0.0
+GAB,2021,malaria,BTSX,20.42
+GAB,2021,acute hepatitis c,BTSX,0.01
+GBR,2021,tuberculosis,BTSX,0.35
+GBR,2021,hiv/aids,BTSX,0.23
+GBR,2021,acute hepatitis b,BTSX,0.05
+GBR,2021,trichomoniasis,BTSX,0.0
+GBR,2021,chlamydia,BTSX,0.0
+GBR,2021,acute hepatitis e,BTSX,0.03
+GBR,2021,malaria,BTSX,0.0
+GBR,2021,acute hepatitis c,BTSX,0.19
+GBR,2021,acute hepatitis a,BTSX,0.01
+GBR,2021,syphilis,BTSX,0.09
+GBR,2021,genital herpes,BTSX,0.0
+GEO,2021,malaria,BTSX,0.0
+GEO,2021,chlamydia,BTSX,0.0
+GEO,2021,trichomoniasis,BTSX,0.0
+GEO,2021,acute hepatitis e,BTSX,0.08
+GEO,2021,acute hepatitis c,BTSX,8.66
+GEO,2021,syphilis,BTSX,0.03
+GEO,2021,genital herpes,BTSX,0.0
+GEO,2021,acute hepatitis a,BTSX,0.01
+GEO,2021,hiv/aids,BTSX,1.49
+GEO,2021,acute hepatitis b,BTSX,1.57
+GEO,2021,tuberculosis,BTSX,2.23
+GHA,2021,hiv/aids,BTSX,33.49
+GHA,2021,acute hepatitis b,BTSX,0.15
+GHA,2021,trichomoniasis,BTSX,0.0
+GHA,2021,acute hepatitis e,BTSX,0.05
+GHA,2021,chlamydia,BTSX,0.01
+GHA,2021,malaria,BTSX,35.02
+GHA,2021,acute hepatitis c,BTSX,0.03
+GHA,2021,acute hepatitis a,BTSX,0.2
+GHA,2021,syphilis,BTSX,2.79
+GHA,2021,tuberculosis,BTSX,48.6
+GHA,2021,genital herpes,BTSX,0.0
+GIN,2021,syphilis,BTSX,4.68
+GIN,2021,genital herpes,BTSX,0.0
+GIN,2021,trichomoniasis,BTSX,0.0
+GIN,2021,tuberculosis,BTSX,24.35
+GIN,2021,hiv/aids,BTSX,28.63
+GIN,2021,acute hepatitis b,BTSX,1.18
+GIN,2021,malaria,BTSX,76.88
+GIN,2021,chlamydia,BTSX,0.01
+GIN,2021,acute hepatitis e,BTSX,0.05
+GIN,2021,acute hepatitis a,BTSX,0.37
+GIN,2021,acute hepatitis c,BTSX,0.09
+GMB,2021,hiv/aids,BTSX,54.85
+GMB,2021,acute hepatitis b,BTSX,0.06
+GMB,2021,tuberculosis,BTSX,35.51
+GMB,2021,genital herpes,BTSX,0.0
+GMB,2021,syphilis,BTSX,3.21
+GMB,2021,acute hepatitis a,BTSX,0.05
+GMB,2021,acute hepatitis c,BTSX,0.01
+GMB,2021,malaria,BTSX,25.02
+GMB,2021,chlamydia,BTSX,0.01
+GMB,2021,trichomoniasis,BTSX,0.0
+GMB,2021,acute hepatitis e,BTSX,0.01
+GNB,2021,trichomoniasis,BTSX,0.0
+GNB,2021,chlamydia,BTSX,0.01
+GNB,2021,acute hepatitis e,BTSX,0.04
+GNB,2021,malaria,BTSX,46.56
+GNB,2021,acute hepatitis c,BTSX,0.07
+GNB,2021,acute hepatitis a,BTSX,0.36
+GNB,2021,syphilis,BTSX,3.66
+GNB,2021,genital herpes,BTSX,0.0
+GNB,2021,tuberculosis,BTSX,136.33
+GNB,2021,hiv/aids,BTSX,61.31
+GNB,2021,acute hepatitis b,BTSX,0.92
+GNQ,2021,trichomoniasis,BTSX,0.0
+GNQ,2021,acute hepatitis e,BTSX,0.0
+GNQ,2021,hiv/aids,BTSX,153.03
+GNQ,2021,acute hepatitis b,BTSX,0.03
+GNQ,2021,tuberculosis,BTSX,102.68
+GNQ,2021,genital herpes,BTSX,0.0
+GNQ,2021,syphilis,BTSX,6.13
+GNQ,2021,acute hepatitis a,BTSX,0.01
+GNQ,2021,acute hepatitis c,BTSX,0.0
+GNQ,2021,malaria,BTSX,48.07
+GNQ,2021,chlamydia,BTSX,0.02
+GRC,2021,chlamydia,BTSX,0.0
+GRC,2021,acute hepatitis e,BTSX,0.05
+GRC,2021,trichomoniasis,BTSX,0.0
+GRC,2021,hiv/aids,BTSX,0.35
+GRC,2021,tuberculosis,BTSX,0.33
+GRC,2021,acute hepatitis b,BTSX,0.28
+GRC,2021,syphilis,BTSX,0.01
+GRC,2021,genital herpes,BTSX,0.0
+GRC,2021,acute hepatitis a,BTSX,0.79
+GRC,2021,acute hepatitis c,BTSX,0.22
+GRC,2021,malaria,BTSX,0.0
+GRD,2021,syphilis,BTSX,0.23
+GRD,2021,genital herpes,BTSX,0.0
+GRD,2021,tuberculosis,BTSX,1.29
+GRD,2021,hiv/aids,BTSX,2.76
+GRD,2021,acute hepatitis b,BTSX,0.0
+GRD,2021,trichomoniasis,BTSX,0.0
+GRD,2021,chlamydia,BTSX,0.0
+GRD,2021,acute hepatitis e,BTSX,0.0
+GRD,2021,malaria,BTSX,0.0
+GRD,2021,acute hepatitis c,BTSX,0.0
+GRD,2021,acute hepatitis a,BTSX,0.01
+GTM,2021,tuberculosis,BTSX,3.27
+GTM,2021,syphilis,BTSX,0.03
+GTM,2021,genital herpes,BTSX,0.0
+GTM,2021,hiv/aids,BTSX,2.93
+GTM,2021,acute hepatitis b,BTSX,0.01
+GTM,2021,trichomoniasis,BTSX,0.0
+GTM,2021,chlamydia,BTSX,0.01
+GTM,2021,acute hepatitis e,BTSX,0.0
+GTM,2021,malaria,BTSX,0.0
+GTM,2021,acute hepatitis c,BTSX,0.0
+GTM,2021,acute hepatitis a,BTSX,0.04
+GUY,2021,trichomoniasis,BTSX,0.0
+GUY,2021,hiv/aids,BTSX,17.07
+GUY,2021,acute hepatitis b,BTSX,0.45
+GUY,2021,tuberculosis,BTSX,14.05
+GUY,2021,malaria,BTSX,3.35
+GUY,2021,chlamydia,BTSX,0.0
+GUY,2021,acute hepatitis e,BTSX,0.08
+GUY,2021,acute hepatitis c,BTSX,0.08
+GUY,2021,syphilis,BTSX,0.02
+GUY,2021,genital herpes,BTSX,0.0
+GUY,2021,acute hepatitis a,BTSX,0.06
+HND,2021,hiv/aids,BTSX,5.96
+HND,2021,acute hepatitis b,BTSX,0.04
+HND,2021,tuberculosis,BTSX,5.4
+HND,2021,syphilis,BTSX,0.22
+HND,2021,genital herpes,BTSX,0.0
+HND,2021,acute hepatitis a,BTSX,0.05
+HND,2021,acute hepatitis c,BTSX,0.02
+HND,2021,chlamydia,BTSX,0.02
+HND,2021,malaria,BTSX,0.0
+HND,2021,trichomoniasis,BTSX,0.0
+HND,2021,acute hepatitis e,BTSX,0.0
+HRV,2021,trichomoniasis,BTSX,0.0
+HRV,2021,acute hepatitis e,BTSX,0.0
+HRV,2021,chlamydia,BTSX,0.0
+HRV,2021,acute hepatitis c,BTSX,0.64
+HRV,2021,malaria,BTSX,0.0
+HRV,2021,acute hepatitis a,BTSX,0.01
+HRV,2021,syphilis,BTSX,0.0
+HRV,2021,tuberculosis,BTSX,0.55
+HRV,2021,genital herpes,BTSX,0.0
+HRV,2021,hiv/aids,BTSX,0.1
+HRV,2021,acute hepatitis b,BTSX,0.1
+HTI,2021,malaria,BTSX,0.69
+HTI,2021,chlamydia,BTSX,0.05
+HTI,2021,acute hepatitis e,BTSX,0.01
+HTI,2021,trichomoniasis,BTSX,0.0
+HTI,2021,hiv/aids,BTSX,14.74
+HTI,2021,acute hepatitis b,BTSX,0.1
+HTI,2021,tuberculosis,BTSX,17.25
+HTI,2021,genital herpes,BTSX,0.0
+HTI,2021,syphilis,BTSX,2.81
+HTI,2021,acute hepatitis a,BTSX,0.24
+HTI,2021,acute hepatitis c,BTSX,0.02
+HUN,2021,hiv/aids,BTSX,0.1
+HUN,2021,acute hepatitis b,BTSX,0.35
+HUN,2021,trichomoniasis,BTSX,0.0
+HUN,2021,acute hepatitis e,BTSX,0.04
+HUN,2021,syphilis,BTSX,0.0
+HUN,2021,tuberculosis,BTSX,0.58
+HUN,2021,genital herpes,BTSX,0.0
+HUN,2021,acute hepatitis c,BTSX,0.65
+HUN,2021,acute hepatitis a,BTSX,0.03
+HUN,2021,chlamydia,BTSX,0.0
+HUN,2021,malaria,BTSX,0.0
+IDN,2021,acute hepatitis c,BTSX,0.13
+IDN,2021,malaria,BTSX,0.51
+IDN,2021,acute hepatitis a,BTSX,0.55
+IDN,2021,tuberculosis,BTSX,48.94
+IDN,2021,hiv/aids,BTSX,8.59
+IDN,2021,acute hepatitis b,BTSX,0.57
+IDN,2021,syphilis,BTSX,0.71
+IDN,2021,genital herpes,BTSX,0.0
+IDN,2021,chlamydia,BTSX,0.0
+IDN,2021,acute hepatitis e,BTSX,0.12
+IDN,2021,trichomoniasis,BTSX,0.0
+IND,2021,syphilis,BTSX,0.66
+IND,2021,tuberculosis,BTSX,25.44
+IND,2021,genital herpes,BTSX,0.0
+IND,2021,hiv/aids,BTSX,3.17
+IND,2021,acute hepatitis b,BTSX,0.69
+IND,2021,trichomoniasis,BTSX,0.0
+IND,2021,acute hepatitis e,BTSX,0.09
+IND,2021,chlamydia,BTSX,0.03
+IND,2021,malaria,BTSX,0.59
+IND,2021,acute hepatitis c,BTSX,0.14
+IND,2021,acute hepatitis a,BTSX,0.85
+IRL,2021,acute hepatitis a,BTSX,0.07
+IRL,2021,acute hepatitis c,BTSX,0.06
+IRL,2021,tuberculosis,BTSX,0.36
+IRL,2021,syphilis,BTSX,0.0
+IRL,2021,genital herpes,BTSX,0.0
+IRL,2021,trichomoniasis,BTSX,0.0
+IRL,2021,hiv/aids,BTSX,0.13
+IRL,2021,acute hepatitis b,BTSX,0.07
+IRL,2021,malaria,BTSX,0.0
+IRL,2021,chlamydia,BTSX,0.0
+IRL,2021,acute hepatitis e,BTSX,0.09
+IRN,2021,chlamydia,BTSX,0.0
+IRN,2021,malaria,BTSX,0.0
+IRN,2021,hiv/aids,BTSX,2.7
+IRN,2021,acute hepatitis b,BTSX,0.38
+IRN,2021,trichomoniasis,BTSX,0.0
+IRN,2021,acute hepatitis e,BTSX,0.0
+IRN,2021,syphilis,BTSX,0.16
+IRN,2021,tuberculosis,BTSX,1.09
+IRN,2021,genital herpes,BTSX,0.0
+IRN,2021,acute hepatitis c,BTSX,0.0
+IRN,2021,acute hepatitis a,BTSX,0.03
+IRQ,2021,trichomoniasis,BTSX,0.0
+IRQ,2021,chlamydia,BTSX,0.0
+IRQ,2021,acute hepatitis e,BTSX,0.02
+IRQ,2021,malaria,BTSX,0.0
+IRQ,2021,acute hepatitis c,BTSX,0.0
+IRQ,2021,acute hepatitis a,BTSX,0.12
+IRQ,2021,syphilis,BTSX,0.74
+IRQ,2021,genital herpes,BTSX,0.0
+IRQ,2021,tuberculosis,BTSX,2.09
+IRQ,2021,hiv/aids,BTSX,0.25
+IRQ,2021,acute hepatitis b,BTSX,0.22
+ISL,2021,acute hepatitis a,BTSX,0.03
+ISL,2021,malaria,BTSX,0.0
+ISL,2021,acute hepatitis c,BTSX,0.0
+ISL,2021,hiv/aids,BTSX,0.29
+ISL,2021,acute hepatitis b,BTSX,0.0
+ISL,2021,chlamydia,BTSX,0.0
+ISL,2021,trichomoniasis,BTSX,0.0
+ISL,2021,acute hepatitis e,BTSX,0.0
+ISL,2021,syphilis,BTSX,0.0
+ISL,2021,genital herpes,BTSX,0.0
+ISL,2021,tuberculosis,BTSX,0.43
+ISR,2021,chlamydia,BTSX,0.0
+ISR,2021,acute hepatitis e,BTSX,0.03
+ISR,2021,trichomoniasis,BTSX,0.0
+ISR,2021,hiv/aids,BTSX,0.19
+ISR,2021,acute hepatitis b,BTSX,0.15
+ISR,2021,tuberculosis,BTSX,0.11
+ISR,2021,syphilis,BTSX,0.0
+ISR,2021,genital herpes,BTSX,0.0
+ISR,2021,acute hepatitis a,BTSX,0.12
+ISR,2021,acute hepatitis c,BTSX,0.36
+ISR,2021,malaria,BTSX,0.0
+ITA,2021,hiv/aids,BTSX,0.74
+ITA,2021,acute hepatitis b,BTSX,0.49
+ITA,2021,trichomoniasis,BTSX,0.0
+ITA,2021,acute hepatitis e,BTSX,0.01
+ITA,2021,chlamydia,BTSX,0.0
+ITA,2021,malaria,BTSX,0.0
+ITA,2021,acute hepatitis c,BTSX,2.71
+ITA,2021,acute hepatitis a,BTSX,0.28
+ITA,2021,syphilis,BTSX,0.01
+ITA,2021,tuberculosis,BTSX,0.46
+ITA,2021,genital herpes,BTSX,0.0
+JAM,2021,syphilis,BTSX,0.06
+JAM,2021,genital herpes,BTSX,0.0
+JAM,2021,tuberculosis,BTSX,0.39
+JAM,2021,trichomoniasis,BTSX,0.0
+JAM,2021,hiv/aids,BTSX,37.99
+JAM,2021,acute hepatitis b,BTSX,0.04
+JAM,2021,chlamydia,BTSX,0.01
+JAM,2021,acute hepatitis e,BTSX,0.0
+JAM,2021,malaria,BTSX,0.0
+JAM,2021,acute hepatitis c,BTSX,0.0
+JAM,2021,acute hepatitis a,BTSX,0.02
+JOR,2021,acute hepatitis a,BTSX,0.02
+JOR,2021,syphilis,BTSX,0.88
+JOR,2021,genital herpes,BTSX,0.0
+JOR,2021,tuberculosis,BTSX,0.1
+JOR,2021,hiv/aids,BTSX,0.1
+JOR,2021,acute hepatitis b,BTSX,0.06
+JOR,2021,trichomoniasis,BTSX,0.0
+JOR,2021,acute hepatitis e,BTSX,0.01
+JOR,2021,chlamydia,BTSX,0.0
+JOR,2021,malaria,BTSX,0.0
+JOR,2021,acute hepatitis c,BTSX,0.01
+JPN,2021,acute hepatitis a,BTSX,0.03
+JPN,2021,tuberculosis,BTSX,2.29
+JPN,2021,syphilis,BTSX,0.02
+JPN,2021,genital herpes,BTSX,0.0
+JPN,2021,chlamydia,BTSX,0.0
+JPN,2021,trichomoniasis,BTSX,0.0
+JPN,2021,acute hepatitis e,BTSX,0.02
+JPN,2021,hiv/aids,BTSX,0.04
+JPN,2021,acute hepatitis b,BTSX,0.44
+JPN,2021,acute hepatitis c,BTSX,1.34
+JPN,2021,malaria,BTSX,0.0
+KAZ,2021,tuberculosis,BTSX,1.83
+KAZ,2021,syphilis,BTSX,0.02
+KAZ,2021,genital herpes,BTSX,0.0
+KAZ,2021,acute hepatitis a,BTSX,0.0
+KAZ,2021,acute hepatitis c,BTSX,0.0
+KAZ,2021,malaria,BTSX,0.0
+KAZ,2021,chlamydia,BTSX,0.01
+KAZ,2021,trichomoniasis,BTSX,0.0
+KAZ,2021,acute hepatitis e,BTSX,0.0
+KAZ,2021,hiv/aids,BTSX,0.94
+KAZ,2021,acute hepatitis b,BTSX,0.06
+KEN,2021,tuberculosis,BTSX,59.71
+KEN,2021,genital herpes,BTSX,0.0
+KEN,2021,syphilis,BTSX,2.12
+KEN,2021,trichomoniasis,BTSX,0.0
+KEN,2021,acute hepatitis e,BTSX,0.05
+KEN,2021,hiv/aids,BTSX,40.12
+KEN,2021,acute hepatitis b,BTSX,0.48
+KEN,2021,acute hepatitis c,BTSX,0.07
+KEN,2021,malaria,BTSX,22.05
+KEN,2021,chlamydia,BTSX,0.01
+KEN,2021,acute hepatitis a,BTSX,0.3
+KGZ,2021,hiv/aids,BTSX,2.91
+KGZ,2021,acute hepatitis b,BTSX,0.07
+KGZ,2021,tuberculosis,BTSX,7.42
+KGZ,2021,genital herpes,BTSX,0.0
+KGZ,2021,syphilis,BTSX,0.02
+KGZ,2021,acute hepatitis a,BTSX,0.04
+KGZ,2021,acute hepatitis c,BTSX,0.0
+KGZ,2021,malaria,BTSX,0.0
+KGZ,2021,chlamydia,BTSX,0.0
+KGZ,2021,acute hepatitis e,BTSX,0.0
+KGZ,2021,trichomoniasis,BTSX,0.0
+KHM,2021,acute hepatitis c,BTSX,0.33
+KHM,2021,acute hepatitis a,BTSX,0.85
+KHM,2021,tuberculosis,BTSX,22.28
+KHM,2021,syphilis,BTSX,0.15
+KHM,2021,genital herpes,BTSX,0.0
+KHM,2021,hiv/aids,BTSX,6.69
+KHM,2021,acute hepatitis b,BTSX,0.91
+KHM,2021,trichomoniasis,BTSX,0.0
+KHM,2021,chlamydia,BTSX,0.0
+KHM,2021,acute hepatitis e,BTSX,0.1
+KHM,2021,malaria,BTSX,0.06
+KIR,2021,acute hepatitis c,BTSX,0.13
+KIR,2021,acute hepatitis a,BTSX,1.34
+KIR,2021,syphilis,BTSX,3.19
+KIR,2021,genital herpes,BTSX,0.0
+KIR,2021,tuberculosis,BTSX,38.05
+KIR,2021,hiv/aids,BTSX,0.0
+KIR,2021,acute hepatitis b,BTSX,1.11
+KIR,2021,trichomoniasis,BTSX,0.0
+KIR,2021,chlamydia,BTSX,0.01
+KIR,2021,acute hepatitis e,BTSX,0.05
+KIR,2021,malaria,BTSX,0.0
+KOR,2021,chlamydia,BTSX,0.0
+KOR,2021,trichomoniasis,BTSX,0.0
+KOR,2021,acute hepatitis e,BTSX,0.02
+KOR,2021,hiv/aids,BTSX,0.14
+KOR,2021,acute hepatitis b,BTSX,0.85
+KOR,2021,tuberculosis,BTSX,3.45
+KOR,2021,syphilis,BTSX,0.06
+KOR,2021,genital herpes,BTSX,0.0
+KOR,2021,acute hepatitis a,BTSX,0.14
+KOR,2021,acute hepatitis c,BTSX,0.2
+KOR,2021,malaria,BTSX,0.0
+KWT,2021,syphilis,BTSX,0.01
+KWT,2021,acute hepatitis a,BTSX,0.0
+KWT,2021,acute hepatitis c,BTSX,0.01
+KWT,2021,malaria,BTSX,0.0
+KWT,2021,chlamydia,BTSX,0.0
+KWT,2021,trichomoniasis,BTSX,0.0
+KWT,2021,acute hepatitis e,BTSX,0.0
+KWT,2021,hiv/aids,BTSX,0.24
+KWT,2021,acute hepatitis b,BTSX,0.01
+KWT,2021,tuberculosis,BTSX,0.46
+KWT,2021,genital herpes,BTSX,0.0
+LAO,2021,syphilis,BTSX,0.76
+LAO,2021,genital herpes,BTSX,0.0
+LAO,2021,acute hepatitis a,BTSX,0.22
+LAO,2021,hiv/aids,BTSX,4.85
+LAO,2021,acute hepatitis b,BTSX,0.33
+LAO,2021,tuberculosis,BTSX,29.75
+LAO,2021,chlamydia,BTSX,0.0
+LAO,2021,malaria,BTSX,0.08
+LAO,2021,trichomoniasis,BTSX,0.0
+LAO,2021,acute hepatitis e,BTSX,0.03
+LAO,2021,acute hepatitis c,BTSX,0.07
+LBN,2021,acute hepatitis a,BTSX,0.09
+LBN,2021,syphilis,BTSX,0.31
+LBN,2021,malaria,BTSX,0.0
+LBN,2021,acute hepatitis c,BTSX,0.02
+LBN,2021,trichomoniasis,BTSX,0.0
+LBN,2021,acute hepatitis e,BTSX,0.01
+LBN,2021,chlamydia,BTSX,0.0
+LBN,2021,tuberculosis,BTSX,0.78
+LBN,2021,genital herpes,BTSX,0.0
+LBN,2021,hiv/aids,BTSX,0.7
+LBN,2021,acute hepatitis b,BTSX,0.12
+LBR,2021,chlamydia,BTSX,0.01
+LBR,2021,trichomoniasis,BTSX,0.0
+LBR,2021,acute hepatitis e,BTSX,0.03
+LBR,2021,hiv/aids,BTSX,20.12
+LBR,2021,acute hepatitis b,BTSX,0.55
+LBR,2021,tuberculosis,BTSX,81.71
+LBR,2021,genital herpes,BTSX,0.0
+LBR,2021,syphilis,BTSX,5.28
+LBR,2021,acute hepatitis a,BTSX,0.24
+LBR,2021,acute hepatitis c,BTSX,0.04
+LBR,2021,malaria,BTSX,77.93
+LBY,2021,chlamydia,BTSX,0.0
+LBY,2021,trichomoniasis,BTSX,0.0
+LBY,2021,acute hepatitis e,BTSX,0.01
+LBY,2021,acute hepatitis c,BTSX,0.01
+LBY,2021,malaria,BTSX,0.0
+LBY,2021,syphilis,BTSX,0.12
+LBY,2021,acute hepatitis a,BTSX,0.05
+LBY,2021,hiv/aids,BTSX,1.17
+LBY,2021,acute hepatitis b,BTSX,0.55
+LBY,2021,tuberculosis,BTSX,13.59
+LBY,2021,genital herpes,BTSX,0.0
+LCA,2021,acute hepatitis c,BTSX,0.0
+LCA,2021,malaria,BTSX,0.0
+LCA,2021,chlamydia,BTSX,0.03
+LCA,2021,trichomoniasis,BTSX,0.0
+LCA,2021,acute hepatitis e,BTSX,0.01
+LCA,2021,hiv/aids,BTSX,0.0
+LCA,2021,acute hepatitis b,BTSX,0.03
+LCA,2021,tuberculosis,BTSX,1.39
+LCA,2021,genital herpes,BTSX,0.0
+LCA,2021,syphilis,BTSX,0.12
+LCA,2021,acute hepatitis a,BTSX,0.0
+LKA,2021,acute hepatitis a,BTSX,0.02
+LKA,2021,syphilis,BTSX,0.08
+LKA,2021,tuberculosis,BTSX,3.55
+LKA,2021,genital herpes,BTSX,0.0
+LKA,2021,hiv/aids,BTSX,0.42
+LKA,2021,acute hepatitis b,BTSX,0.06
+LKA,2021,trichomoniasis,BTSX,0.0
+LKA,2021,acute hepatitis e,BTSX,0.01
+LKA,2021,chlamydia,BTSX,0.01
+LKA,2021,malaria,BTSX,0.0
+LKA,2021,acute hepatitis c,BTSX,0.01
+LSO,2021,acute hepatitis c,BTSX,0.08
+LSO,2021,malaria,BTSX,0.0
+LSO,2021,syphilis,BTSX,2.91
+LSO,2021,acute hepatitis a,BTSX,0.5
+LSO,2021,hiv/aids,BTSX,181.03
+LSO,2021,acute hepatitis b,BTSX,1.56
+LSO,2021,tuberculosis,BTSX,213.9
+LSO,2021,genital herpes,BTSX,0.0
+LSO,2021,chlamydia,BTSX,0.05
+LSO,2021,trichomoniasis,BTSX,0.0
+LSO,2021,acute hepatitis e,BTSX,0.05
+LTU,2021,acute hepatitis c,BTSX,0.53
+LTU,2021,malaria,BTSX,0.0
+LTU,2021,acute hepatitis a,BTSX,0.22
+LTU,2021,tuberculosis,BTSX,3.63
+LTU,2021,syphilis,BTSX,0.0
+LTU,2021,genital herpes,BTSX,0.0
+LTU,2021,chlamydia,BTSX,0.0
+LTU,2021,trichomoniasis,BTSX,0.0
+LTU,2021,acute hepatitis e,BTSX,0.02
+LTU,2021,hiv/aids,BTSX,1.09
+LTU,2021,acute hepatitis b,BTSX,0.2
+LUX,2021,hiv/aids,BTSX,0.34
+LUX,2021,acute hepatitis b,BTSX,0.03
+LUX,2021,tuberculosis,BTSX,0.09
+LUX,2021,syphilis,BTSX,0.0
+LUX,2021,genital herpes,BTSX,0.0
+LUX,2021,acute hepatitis a,BTSX,0.01
+LUX,2021,acute hepatitis c,BTSX,0.42
+LUX,2021,chlamydia,BTSX,0.0
+LUX,2021,malaria,BTSX,0.0
+LUX,2021,trichomoniasis,BTSX,0.0
+LUX,2021,acute hepatitis e,BTSX,0.05
+LVA,2021,chlamydia,BTSX,0.0
+LVA,2021,acute hepatitis e,BTSX,0.02
+LVA,2021,malaria,BTSX,0.0
+LVA,2021,acute hepatitis c,BTSX,2.37
+LVA,2021,acute hepatitis a,BTSX,0.73
+LVA,2021,syphilis,BTSX,0.0
+LVA,2021,genital herpes,BTSX,0.0
+LVA,2021,tuberculosis,BTSX,3.35
+LVA,2021,trichomoniasis,BTSX,0.0
+LVA,2021,hiv/aids,BTSX,2.74
+LVA,2021,acute hepatitis b,BTSX,0.04
+MAR,2021,chlamydia,BTSX,0.0
+MAR,2021,trichomoniasis,BTSX,0.0
+MAR,2021,acute hepatitis e,BTSX,0.01
+MAR,2021,hiv/aids,BTSX,1.11
+MAR,2021,acute hepatitis b,BTSX,0.51
+MAR,2021,tuberculosis,BTSX,8.94
+MAR,2021,genital herpes,BTSX,0.0
+MAR,2021,syphilis,BTSX,0.66
+MAR,2021,acute hepatitis a,BTSX,0.1
+MAR,2021,acute hepatitis c,BTSX,0.01
+MAR,2021,malaria,BTSX,0.0
+MDA,2021,trichomoniasis,BTSX,0.0
+MDA,2021,acute hepatitis e,BTSX,0.0
+MDA,2021,chlamydia,BTSX,0.0
+MDA,2021,malaria,BTSX,0.0
+MDA,2021,acute hepatitis c,BTSX,0.06
+MDA,2021,acute hepatitis a,BTSX,0.08
+MDA,2021,syphilis,BTSX,0.0
+MDA,2021,tuberculosis,BTSX,7.34
+MDA,2021,genital herpes,BTSX,0.0
+MDA,2021,hiv/aids,BTSX,9.2
+MDA,2021,acute hepatitis b,BTSX,0.25
+MDG,2021,tuberculosis,BTSX,44.57
+MDG,2021,hiv/aids,BTSX,10.95
+MDG,2021,acute hepatitis b,BTSX,0.45
+MDG,2021,trichomoniasis,BTSX,0.0
+MDG,2021,chlamydia,BTSX,0.04
+MDG,2021,acute hepatitis e,BTSX,0.04
+MDG,2021,malaria,BTSX,44.39
+MDG,2021,acute hepatitis c,BTSX,0.05
+MDG,2021,acute hepatitis a,BTSX,0.24
+MDG,2021,syphilis,BTSX,4.94
+MDG,2021,genital herpes,BTSX,0.0
+MDV,2021,hiv/aids,BTSX,0.06
+MDV,2021,acute hepatitis b,BTSX,0.06
+MDV,2021,chlamydia,BTSX,0.01
+MDV,2021,trichomoniasis,BTSX,0.0
+MDV,2021,acute hepatitis e,BTSX,0.01
+MDV,2021,malaria,BTSX,0.0
+MDV,2021,acute hepatitis c,BTSX,0.01
+MDV,2021,acute hepatitis a,BTSX,0.02
+MDV,2021,syphilis,BTSX,0.05
+MDV,2021,genital herpes,BTSX,0.0
+MDV,2021,tuberculosis,BTSX,1.57
+MEX,2021,acute hepatitis c,BTSX,0.36
+MEX,2021,malaria,BTSX,0.0
+MEX,2021,chlamydia,BTSX,0.0
+MEX,2021,acute hepatitis e,BTSX,0.01
+MEX,2021,trichomoniasis,BTSX,0.0
+MEX,2021,hiv/aids,BTSX,3.63
+MEX,2021,acute hepatitis b,BTSX,0.18
+MEX,2021,tuberculosis,BTSX,1.8
+MEX,2021,syphilis,BTSX,0.01
+MEX,2021,genital herpes,BTSX,0.0
+MEX,2021,acute hepatitis a,BTSX,0.33
+MKD,2021,hiv/aids,BTSX,0.38
+MKD,2021,acute hepatitis b,BTSX,0.36
+MKD,2021,trichomoniasis,BTSX,0.0
+MKD,2021,acute hepatitis e,BTSX,0.01
+MKD,2021,chlamydia,BTSX,0.0
+MKD,2021,malaria,BTSX,0.0
+MKD,2021,acute hepatitis c,BTSX,0.0
+MKD,2021,acute hepatitis a,BTSX,0.03
+MKD,2021,syphilis,BTSX,0.01
+MKD,2021,tuberculosis,BTSX,0.65
+MKD,2021,genital herpes,BTSX,0.0
+MLI,2021,malaria,BTSX,88.53
+MLI,2021,chlamydia,BTSX,0.01
+MLI,2021,trichomoniasis,BTSX,0.0
+MLI,2021,acute hepatitis e,BTSX,0.02
+MLI,2021,hiv/aids,BTSX,22.83
+MLI,2021,acute hepatitis b,BTSX,0.14
+MLI,2021,tuberculosis,BTSX,8.94
+MLI,2021,genital herpes,BTSX,0.0
+MLI,2021,syphilis,BTSX,5.34
+MLI,2021,acute hepatitis a,BTSX,0.1
+MLI,2021,acute hepatitis c,BTSX,0.04
+MLT,2021,trichomoniasis,BTSX,0.0
+MLT,2021,hiv/aids,BTSX,0.19
+MLT,2021,acute hepatitis b,BTSX,0.16
+MLT,2021,tuberculosis,BTSX,0.0
+MLT,2021,syphilis,BTSX,0.0
+MLT,2021,genital herpes,BTSX,0.0
+MLT,2021,acute hepatitis a,BTSX,0.34
+MLT,2021,acute hepatitis c,BTSX,0.0
+MLT,2021,malaria,BTSX,0.0
+MLT,2021,chlamydia,BTSX,0.0
+MLT,2021,acute hepatitis e,BTSX,0.05
+MMR,2021,acute hepatitis a,BTSX,0.18
+MMR,2021,acute hepatitis c,BTSX,0.06
+MMR,2021,malaria,BTSX,0.43
+MMR,2021,chlamydia,BTSX,0.01
+MMR,2021,acute hepatitis e,BTSX,0.03
+MMR,2021,trichomoniasis,BTSX,0.0
+MMR,2021,hiv/aids,BTSX,10.99
+MMR,2021,acute hepatitis b,BTSX,0.12
+MMR,2021,tuberculosis,BTSX,68.94
+MMR,2021,syphilis,BTSX,0.69
+MMR,2021,genital herpes,BTSX,0.0
+MNE,2021,acute hepatitis a,BTSX,0.0
+MNE,2021,acute hepatitis c,BTSX,0.0
+MNE,2021,malaria,BTSX,0.0
+MNE,2021,chlamydia,BTSX,0.0
+MNE,2021,acute hepatitis e,BTSX,0.0
+MNE,2021,trichomoniasis,BTSX,0.0
+MNE,2021,hiv/aids,BTSX,0.32
+MNE,2021,acute hepatitis b,BTSX,0.0
+MNE,2021,tuberculosis,BTSX,0.21
+MNE,2021,syphilis,BTSX,0.02
+MNE,2021,genital herpes,BTSX,0.0
+MNG,2021,malaria,BTSX,0.0
+MNG,2021,acute hepatitis c,BTSX,0.0
+MNG,2021,acute hepatitis a,BTSX,0.03
+MNG,2021,syphilis,BTSX,0.95
+MNG,2021,tuberculosis,BTSX,11.22
+MNG,2021,genital herpes,BTSX,0.0
+MNG,2021,hiv/aids,BTSX,0.68
+MNG,2021,acute hepatitis b,BTSX,0.14
+MNG,2021,trichomoniasis,BTSX,0.0
+MNG,2021,chlamydia,BTSX,0.03
+MNG,2021,acute hepatitis e,BTSX,0.0
+MOZ,2021,tuberculosis,BTSX,41.87
+MOZ,2021,syphilis,BTSX,5.07
+MOZ,2021,genital herpes,BTSX,0.0
+MOZ,2021,acute hepatitis a,BTSX,0.34
+MOZ,2021,acute hepatitis c,BTSX,0.11
+MOZ,2021,chlamydia,BTSX,0.11
+MOZ,2021,malaria,BTSX,70.62
+MOZ,2021,trichomoniasis,BTSX,0.0
+MOZ,2021,acute hepatitis e,BTSX,0.03
+MOZ,2021,hiv/aids,BTSX,152.49
+MOZ,2021,acute hepatitis b,BTSX,0.98
+MRT,2021,acute hepatitis a,BTSX,0.19
+MRT,2021,syphilis,BTSX,4.54
+MRT,2021,tuberculosis,BTSX,14.29
+MRT,2021,genital herpes,BTSX,0.0
+MRT,2021,hiv/aids,BTSX,8.34
+MRT,2021,acute hepatitis b,BTSX,0.74
+MRT,2021,trichomoniasis,BTSX,0.0
+MRT,2021,acute hepatitis e,BTSX,0.02
+MRT,2021,chlamydia,BTSX,0.0
+MRT,2021,malaria,BTSX,17.34
+MRT,2021,acute hepatitis c,BTSX,0.03
+MUS,2021,acute hepatitis a,BTSX,0.11
+MUS,2021,acute hepatitis c,BTSX,1.44
+MUS,2021,chlamydia,BTSX,0.0
+MUS,2021,malaria,BTSX,0.0
+MUS,2021,trichomoniasis,BTSX,0.0
+MUS,2021,acute hepatitis e,BTSX,0.11
+MUS,2021,hiv/aids,BTSX,8.34
+MUS,2021,acute hepatitis b,BTSX,0.2
+MUS,2021,tuberculosis,BTSX,0.83
+MUS,2021,syphilis,BTSX,0.01
+MUS,2021,genital herpes,BTSX,0.0
+MWI,2021,acute hepatitis a,BTSX,0.35
+MWI,2021,acute hepatitis c,BTSX,0.11
+MWI,2021,malaria,BTSX,37.28
+MWI,2021,chlamydia,BTSX,0.03
+MWI,2021,acute hepatitis e,BTSX,0.03
+MWI,2021,trichomoniasis,BTSX,0.0
+MWI,2021,tuberculosis,BTSX,38.41
+MWI,2021,hiv/aids,BTSX,62.9
+MWI,2021,acute hepatitis b,BTSX,1.28
+MWI,2021,syphilis,BTSX,1.24
+MWI,2021,genital herpes,BTSX,0.0
+MYS,2021,tuberculosis,BTSX,7.09
+MYS,2021,genital herpes,BTSX,0.0
+MYS,2021,syphilis,BTSX,0.07
+MYS,2021,acute hepatitis a,BTSX,0.02
+MYS,2021,acute hepatitis c,BTSX,0.01
+MYS,2021,chlamydia,BTSX,0.01
+MYS,2021,malaria,BTSX,0.0
+MYS,2021,trichomoniasis,BTSX,0.0
+MYS,2021,acute hepatitis e,BTSX,0.0
+MYS,2021,hiv/aids,BTSX,6.87
+MYS,2021,acute hepatitis b,BTSX,0.67
+NAM,2021,tuberculosis,BTSX,96.71
+NAM,2021,syphilis,BTSX,2.5
+NAM,2021,genital herpes,BTSX,0.0
+NAM,2021,hiv/aids,BTSX,117.36
+NAM,2021,acute hepatitis b,BTSX,0.27
+NAM,2021,trichomoniasis,BTSX,0.0
+NAM,2021,chlamydia,BTSX,0.02
+NAM,2021,acute hepatitis e,BTSX,0.01
+NAM,2021,malaria,BTSX,0.57
+NAM,2021,acute hepatitis c,BTSX,0.01
+NAM,2021,acute hepatitis a,BTSX,0.09
+NER,2021,trichomoniasis,BTSX,0.0
+NER,2021,acute hepatitis e,BTSX,0.05
+NER,2021,chlamydia,BTSX,0.0
+NER,2021,malaria,BTSX,123.36
+NER,2021,acute hepatitis c,BTSX,0.12
+NER,2021,acute hepatitis a,BTSX,0.42
+NER,2021,syphilis,BTSX,1.14
+NER,2021,genital herpes,BTSX,0.0
+NER,2021,tuberculosis,BTSX,14.11
+NER,2021,hiv/aids,BTSX,4.82
+NER,2021,acute hepatitis b,BTSX,1.02
+NGA,2021,acute hepatitis a,BTSX,0.28
+NGA,2021,acute hepatitis c,BTSX,0.08
+NGA,2021,malaria,BTSX,84.17
+NGA,2021,chlamydia,BTSX,0.0
+NGA,2021,acute hepatitis e,BTSX,0.05
+NGA,2021,trichomoniasis,BTSX,0.0
+NGA,2021,hiv/aids,BTSX,19.88
+NGA,2021,acute hepatitis b,BTSX,1.21
+NGA,2021,tuberculosis,BTSX,57.68
+NGA,2021,syphilis,BTSX,2.56
+NGA,2021,genital herpes,BTSX,0.0
+NIC,2021,acute hepatitis c,BTSX,0.02
+NIC,2021,acute hepatitis a,BTSX,0.12
+NIC,2021,tuberculosis,BTSX,2.96
+NIC,2021,syphilis,BTSX,0.18
+NIC,2021,genital herpes,BTSX,0.0
+NIC,2021,hiv/aids,BTSX,3.67
+NIC,2021,acute hepatitis b,BTSX,0.05
+NIC,2021,trichomoniasis,BTSX,0.0
+NIC,2021,chlamydia,BTSX,0.01
+NIC,2021,acute hepatitis e,BTSX,0.01
+NIC,2021,malaria,BTSX,0.0
+NLD,2021,hiv/aids,BTSX,0.13
+NLD,2021,acute hepatitis b,BTSX,0.02
+NLD,2021,tuberculosis,BTSX,0.12
+NLD,2021,syphilis,BTSX,0.01
+NLD,2021,genital herpes,BTSX,0.0
+NLD,2021,acute hepatitis a,BTSX,0.04
+NLD,2021,acute hepatitis c,BTSX,0.09
+NLD,2021,malaria,BTSX,0.0
+NLD,2021,chlamydia,BTSX,0.0
+NLD,2021,trichomoniasis,BTSX,0.0
+NLD,2021,acute hepatitis e,BTSX,0.06
+NOR,2021,tuberculosis,BTSX,0.19
+NOR,2021,acute hepatitis b,BTSX,0.03
+NOR,2021,trichomoniasis,BTSX,0.0
+NOR,2021,hiv/aids,BTSX,0.15
+NOR,2021,chlamydia,BTSX,0.0
+NOR,2021,acute hepatitis e,BTSX,0.0
+NOR,2021,malaria,BTSX,0.0
+NOR,2021,acute hepatitis c,BTSX,0.08
+NOR,2021,acute hepatitis a,BTSX,0.01
+NOR,2021,syphilis,BTSX,0.0
+NOR,2021,genital herpes,BTSX,0.0
+NPL,2021,syphilis,BTSX,0.67
+NPL,2021,genital herpes,BTSX,0.0
+NPL,2021,acute hepatitis a,BTSX,0.76
+NPL,2021,hiv/aids,BTSX,1.45
+NPL,2021,acute hepatitis b,BTSX,0.4
+NPL,2021,tuberculosis,BTSX,60.87
+NPL,2021,malaria,BTSX,0.0
+NPL,2021,chlamydia,BTSX,0.02
+NPL,2021,trichomoniasis,BTSX,0.0
+NPL,2021,acute hepatitis e,BTSX,0.05
+NPL,2021,acute hepatitis c,BTSX,0.24
+NZL,2021,chlamydia,BTSX,0.0
+NZL,2021,malaria,BTSX,0.0
+NZL,2021,hiv/aids,BTSX,0.22
+NZL,2021,acute hepatitis b,BTSX,0.25
+NZL,2021,trichomoniasis,BTSX,0.0
+NZL,2021,acute hepatitis e,BTSX,0.08
+NZL,2021,syphilis,BTSX,0.01
+NZL,2021,tuberculosis,BTSX,0.35
+NZL,2021,genital herpes,BTSX,0.0
+NZL,2021,acute hepatitis c,BTSX,0.64
+NZL,2021,acute hepatitis a,BTSX,0.0
+OMN,2021,hiv/aids,BTSX,0.93
+OMN,2021,acute hepatitis b,BTSX,0.06
+OMN,2021,tuberculosis,BTSX,0.38
+OMN,2021,genital herpes,BTSX,0.0
+OMN,2021,chlamydia,BTSX,0.0
+OMN,2021,trichomoniasis,BTSX,0.0
+OMN,2021,acute hepatitis e,BTSX,0.01
+OMN,2021,acute hepatitis c,BTSX,0.01
+OMN,2021,malaria,BTSX,0.0
+OMN,2021,syphilis,BTSX,0.03
+OMN,2021,acute hepatitis a,BTSX,0.41
+PAK,2021,malaria,BTSX,0.2
+PAK,2021,acute hepatitis c,BTSX,0.57
+PAK,2021,acute hepatitis a,BTSX,1.61
+PAK,2021,syphilis,BTSX,1.73
+PAK,2021,tuberculosis,BTSX,22.24
+PAK,2021,genital herpes,BTSX,0.0
+PAK,2021,hiv/aids,BTSX,4.81
+PAK,2021,acute hepatitis b,BTSX,1.25
+PAK,2021,trichomoniasis,BTSX,0.0
+PAK,2021,acute hepatitis e,BTSX,0.14
+PAK,2021,chlamydia,BTSX,0.02
+PAN,2021,hiv/aids,BTSX,11.92
+PAN,2021,acute hepatitis b,BTSX,0.1
+PAN,2021,tuberculosis,BTSX,5.75
+PAN,2021,syphilis,BTSX,0.02
+PAN,2021,genital herpes,BTSX,0.0
+PAN,2021,chlamydia,BTSX,0.0
+PAN,2021,acute hepatitis e,BTSX,0.0
+PAN,2021,trichomoniasis,BTSX,0.0
+PAN,2021,acute hepatitis c,BTSX,0.03
+PAN,2021,malaria,BTSX,0.0
+PAN,2021,acute hepatitis a,BTSX,0.16
+PER,2021,tuberculosis,BTSX,14.38
+PER,2021,genital herpes,BTSX,0.0
+PER,2021,hiv/aids,BTSX,2.91
+PER,2021,acute hepatitis b,BTSX,0.16
+PER,2021,trichomoniasis,BTSX,0.0
+PER,2021,acute hepatitis e,BTSX,0.01
+PER,2021,chlamydia,BTSX,0.01
+PER,2021,malaria,BTSX,0.05
+PER,2021,acute hepatitis c,BTSX,0.1
+PER,2021,acute hepatitis a,BTSX,0.44
+PER,2021,syphilis,BTSX,0.67
+PHL,2021,acute hepatitis c,BTSX,0.0
+PHL,2021,malaria,BTSX,0.02
+PHL,2021,syphilis,BTSX,0.97
+PHL,2021,acute hepatitis a,BTSX,0.34
+PHL,2021,hiv/aids,BTSX,0.69
+PHL,2021,acute hepatitis b,BTSX,1.16
+PHL,2021,tuberculosis,BTSX,34.05
+PHL,2021,genital herpes,BTSX,0.0
+PHL,2021,chlamydia,BTSX,0.0
+PHL,2021,trichomoniasis,BTSX,0.0
+PHL,2021,acute hepatitis e,BTSX,0.09
+PNG,2021,chlamydia,BTSX,0.0
+PNG,2021,malaria,BTSX,24.67
+PNG,2021,trichomoniasis,BTSX,0.0
+PNG,2021,acute hepatitis e,BTSX,0.03
+PNG,2021,hiv/aids,BTSX,10.9
+PNG,2021,acute hepatitis b,BTSX,0.16
+PNG,2021,tuberculosis,BTSX,75.13
+PNG,2021,genital herpes,BTSX,0.0
+PNG,2021,syphilis,BTSX,2.92
+PNG,2021,acute hepatitis a,BTSX,0.22
+PNG,2021,acute hepatitis c,BTSX,0.05
+POL,2021,syphilis,BTSX,0.0
+POL,2021,acute hepatitis a,BTSX,0.03
+POL,2021,hiv/aids,BTSX,0.33
+POL,2021,acute hepatitis b,BTSX,0.12
+POL,2021,tuberculosis,BTSX,1.38
+POL,2021,genital herpes,BTSX,0.0
+POL,2021,chlamydia,BTSX,0.0
+POL,2021,trichomoniasis,BTSX,0.0
+POL,2021,acute hepatitis e,BTSX,0.0
+POL,2021,acute hepatitis c,BTSX,0.24
+POL,2021,malaria,BTSX,0.0
+PRK,2021,malaria,BTSX,0.0
+PRK,2021,acute hepatitis c,BTSX,0.02
+PRK,2021,acute hepatitis a,BTSX,0.02
+PRK,2021,syphilis,BTSX,0.27
+PRK,2021,genital herpes,BTSX,0.0
+PRK,2021,tuberculosis,BTSX,86.27
+PRK,2021,hiv/aids,BTSX,3.34
+PRK,2021,acute hepatitis b,BTSX,0.15
+PRK,2021,chlamydia,BTSX,0.0
+PRK,2021,trichomoniasis,BTSX,0.0
+PRK,2021,acute hepatitis e,BTSX,0.01
+PRT,2021,tuberculosis,BTSX,1.99
+PRT,2021,genital herpes,BTSX,0.0
+PRT,2021,hiv/aids,BTSX,2.75
+PRT,2021,acute hepatitis b,BTSX,0.25
+PRT,2021,trichomoniasis,BTSX,0.0
+PRT,2021,acute hepatitis e,BTSX,0.02
+PRT,2021,chlamydia,BTSX,0.0
+PRT,2021,acute hepatitis c,BTSX,0.68
+PRT,2021,malaria,BTSX,0.0
+PRT,2021,acute hepatitis a,BTSX,0.09
+PRT,2021,syphilis,BTSX,0.04
+PRY,2021,acute hepatitis c,BTSX,0.0
+PRY,2021,malaria,BTSX,0.0
+PRY,2021,syphilis,BTSX,1.02
+PRY,2021,acute hepatitis a,BTSX,0.04
+PRY,2021,hiv/aids,BTSX,4.85
+PRY,2021,acute hepatitis b,BTSX,0.06
+PRY,2021,tuberculosis,BTSX,4.64
+PRY,2021,genital herpes,BTSX,0.0
+PRY,2021,chlamydia,BTSX,0.0
+PRY,2021,acute hepatitis e,BTSX,0.0
+PRY,2021,trichomoniasis,BTSX,0.0
+QAT,2021,acute hepatitis c,BTSX,0.01
+QAT,2021,acute hepatitis a,BTSX,0.02
+QAT,2021,syphilis,BTSX,0.29
+QAT,2021,tuberculosis,BTSX,0.27
+QAT,2021,genital herpes,BTSX,0.0
+QAT,2021,hiv/aids,BTSX,0.42
+QAT,2021,acute hepatitis b,BTSX,0.13
+QAT,2021,trichomoniasis,BTSX,0.0
+QAT,2021,acute hepatitis e,BTSX,0.01
+QAT,2021,chlamydia,BTSX,0.0
+QAT,2021,malaria,BTSX,0.0
+ROU,2021,tuberculosis,BTSX,5.59
+ROU,2021,genital herpes,BTSX,0.0
+ROU,2021,syphilis,BTSX,0.01
+ROU,2021,trichomoniasis,BTSX,0.0
+ROU,2021,acute hepatitis e,BTSX,0.0
+ROU,2021,hiv/aids,BTSX,0.91
+ROU,2021,acute hepatitis b,BTSX,0.22
+ROU,2021,acute hepatitis c,BTSX,0.68
+ROU,2021,malaria,BTSX,0.0
+ROU,2021,chlamydia,BTSX,0.0
+ROU,2021,acute hepatitis a,BTSX,0.26
+RUS,2021,acute hepatitis c,BTSX,0.0
+RUS,2021,acute hepatitis a,BTSX,0.0
+RUS,2021,syphilis,BTSX,0.03
+RUS,2021,genital herpes,BTSX,0.0
+RUS,2021,tuberculosis,BTSX,7.13
+RUS,2021,hiv/aids,BTSX,21.42
+RUS,2021,acute hepatitis b,BTSX,0.01
+RUS,2021,trichomoniasis,BTSX,0.0
+RUS,2021,acute hepatitis e,BTSX,0.0
+RUS,2021,chlamydia,BTSX,0.02
+RUS,2021,malaria,BTSX,0.0
+RWA,2021,syphilis,BTSX,1.87
+RWA,2021,tuberculosis,BTSX,10.53
+RWA,2021,genital herpes,BTSX,0.0
+RWA,2021,hiv/aids,BTSX,20.72
+RWA,2021,acute hepatitis b,BTSX,0.89
+RWA,2021,trichomoniasis,BTSX,0.0
+RWA,2021,chlamydia,BTSX,0.03
+RWA,2021,acute hepatitis e,BTSX,0.05
+RWA,2021,malaria,BTSX,25.09
+RWA,2021,acute hepatitis c,BTSX,0.14
+RWA,2021,acute hepatitis a,BTSX,0.51
+SAU,2021,hiv/aids,BTSX,0.27
+SAU,2021,acute hepatitis b,BTSX,0.15
+SAU,2021,trichomoniasis,BTSX,0.0
+SAU,2021,acute hepatitis e,BTSX,0.0
+SAU,2021,syphilis,BTSX,0.32
+SAU,2021,genital herpes,BTSX,0.0
+SAU,2021,tuberculosis,BTSX,2.06
+SAU,2021,acute hepatitis a,BTSX,0.03
+SAU,2021,chlamydia,BTSX,0.0
+SAU,2021,malaria,BTSX,0.0
+SAU,2021,acute hepatitis c,BTSX,0.02
+SDN,2021,acute hepatitis a,BTSX,0.91
+SDN,2021,malaria,BTSX,16.85
+SDN,2021,acute hepatitis c,BTSX,0.02
+SDN,2021,trichomoniasis,BTSX,0.0
+SDN,2021,chlamydia,BTSX,0.0
+SDN,2021,acute hepatitis e,BTSX,0.07
+SDN,2021,syphilis,BTSX,3.42
+SDN,2021,genital herpes,BTSX,0.0
+SDN,2021,tuberculosis,BTSX,8.93
+SDN,2021,hiv/aids,BTSX,3.76
+SDN,2021,acute hepatitis b,BTSX,1.28
+SEN,2021,acute hepatitis a,BTSX,0.07
+SEN,2021,acute hepatitis c,BTSX,0.02
+SEN,2021,syphilis,BTSX,1.39
+SEN,2021,genital herpes,BTSX,0.0
+SEN,2021,trichomoniasis,BTSX,0.0
+SEN,2021,tuberculosis,BTSX,18.81
+SEN,2021,hiv/aids,BTSX,6.39
+SEN,2021,acute hepatitis b,BTSX,0.17
+SEN,2021,malaria,BTSX,13.17
+SEN,2021,chlamydia,BTSX,0.0
+SEN,2021,acute hepatitis e,BTSX,0.01
+SGP,2021,chlamydia,BTSX,0.0
+SGP,2021,malaria,BTSX,0.0
+SGP,2021,acute hepatitis c,BTSX,0.0
+SGP,2021,acute hepatitis a,BTSX,0.01
+SGP,2021,syphilis,BTSX,0.0
+SGP,2021,tuberculosis,BTSX,0.23
+SGP,2021,genital herpes,BTSX,0.0
+SGP,2021,hiv/aids,BTSX,0.14
+SGP,2021,acute hepatitis b,BTSX,0.1
+SGP,2021,trichomoniasis,BTSX,0.0
+SGP,2021,acute hepatitis e,BTSX,0.01
+SLB,2021,acute hepatitis c,BTSX,0.06
+SLB,2021,acute hepatitis a,BTSX,0.17
+SLB,2021,syphilis,BTSX,0.77
+SLB,2021,tuberculosis,BTSX,7.76
+SLB,2021,genital herpes,BTSX,0.0
+SLB,2021,hiv/aids,BTSX,0.0
+SLB,2021,acute hepatitis b,BTSX,0.27
+SLB,2021,trichomoniasis,BTSX,0.0
+SLB,2021,acute hepatitis e,BTSX,0.02
+SLB,2021,chlamydia,BTSX,0.01
+SLB,2021,malaria,BTSX,18.58
+SLE,2021,syphilis,BTSX,2.08
+SLE,2021,acute hepatitis a,BTSX,0.32
+SLE,2021,acute hepatitis c,BTSX,0.06
+SLE,2021,malaria,BTSX,101.07
+SLE,2021,chlamydia,BTSX,0.01
+SLE,2021,trichomoniasis,BTSX,0.0
+SLE,2021,acute hepatitis e,BTSX,0.03
+SLE,2021,hiv/aids,BTSX,29.51
+SLE,2021,acute hepatitis b,BTSX,0.67
+SLE,2021,tuberculosis,BTSX,46.83
+SLE,2021,genital herpes,BTSX,0.0
+SLV,2021,acute hepatitis c,BTSX,0.0
+SLV,2021,malaria,BTSX,0.0
+SLV,2021,chlamydia,BTSX,0.0
+SLV,2021,acute hepatitis e,BTSX,0.0
+SLV,2021,trichomoniasis,BTSX,0.0
+SLV,2021,hiv/aids,BTSX,6.39
+SLV,2021,acute hepatitis b,BTSX,0.02
+SLV,2021,tuberculosis,BTSX,2.14
+SLV,2021,syphilis,BTSX,0.1
+SLV,2021,genital herpes,BTSX,0.0
+SLV,2021,acute hepatitis a,BTSX,0.01
+SOM,2021,trichomoniasis,BTSX,0.0
+SOM,2021,acute hepatitis e,BTSX,0.37
+SOM,2021,hiv/aids,BTSX,2.82
+SOM,2021,acute hepatitis b,BTSX,8.59
+SOM,2021,tuberculosis,BTSX,66.88
+SOM,2021,genital herpes,BTSX,0.0
+SOM,2021,syphilis,BTSX,5.4
+SOM,2021,acute hepatitis a,BTSX,2.17
+SOM,2021,acute hepatitis c,BTSX,1.46
+SOM,2021,malaria,BTSX,14.42
+SOM,2021,chlamydia,BTSX,0.06
+SRB,2021,acute hepatitis a,BTSX,0.1
+SRB,2021,syphilis,BTSX,0.02
+SRB,2021,tuberculosis,BTSX,0.59
+SRB,2021,genital herpes,BTSX,0.0
+SRB,2021,hiv/aids,BTSX,0.35
+SRB,2021,acute hepatitis b,BTSX,0.49
+SRB,2021,trichomoniasis,BTSX,0.0
+SRB,2021,acute hepatitis e,BTSX,0.0
+SRB,2021,chlamydia,BTSX,0.0
+SRB,2021,malaria,BTSX,0.0
+SRB,2021,acute hepatitis c,BTSX,0.0
+SSD,2021,tuberculosis,BTSX,37.33
+SSD,2021,genital herpes,BTSX,0.0
+SSD,2021,hiv/aids,BTSX,76.32
+SSD,2021,acute hepatitis b,BTSX,1.49
+SSD,2021,trichomoniasis,BTSX,0.0
+SSD,2021,acute hepatitis e,BTSX,0.1
+SSD,2021,chlamydia,BTSX,0.04
+SSD,2021,malaria,BTSX,61.45
+SSD,2021,acute hepatitis c,BTSX,0.22
+SSD,2021,acute hepatitis a,BTSX,0.68
+SSD,2021,syphilis,BTSX,4.86
+STP,2021,hiv/aids,BTSX,11.65
+STP,2021,acute hepatitis b,BTSX,0.14
+STP,2021,tuberculosis,BTSX,39.15
+STP,2021,genital herpes,BTSX,0.0
+STP,2021,syphilis,BTSX,0.65
+STP,2021,acute hepatitis a,BTSX,0.04
+STP,2021,acute hepatitis c,BTSX,0.01
+STP,2021,malaria,BTSX,0.47
+STP,2021,chlamydia,BTSX,0.0
+STP,2021,acute hepatitis e,BTSX,0.0
+STP,2021,trichomoniasis,BTSX,0.0
+SUR,2021,trichomoniasis,BTSX,0.0
+SUR,2021,chlamydia,BTSX,0.01
+SUR,2021,acute hepatitis e,BTSX,0.0
+SUR,2021,malaria,BTSX,0.0
+SUR,2021,acute hepatitis c,BTSX,0.0
+SUR,2021,acute hepatitis a,BTSX,0.01
+SUR,2021,syphilis,BTSX,0.14
+SUR,2021,genital herpes,BTSX,0.0
+SUR,2021,tuberculosis,BTSX,4.33
+SUR,2021,hiv/aids,BTSX,30.32
+SUR,2021,acute hepatitis b,BTSX,0.05
+SVK,2021,tuberculosis,BTSX,0.3
+SVK,2021,genital herpes,BTSX,0.0
+SVK,2021,syphilis,BTSX,0.02
+SVK,2021,acute hepatitis a,BTSX,0.12
+SVK,2021,acute hepatitis c,BTSX,0.1
+SVK,2021,malaria,BTSX,0.0
+SVK,2021,chlamydia,BTSX,0.0
+SVK,2021,trichomoniasis,BTSX,0.0
+SVK,2021,acute hepatitis e,BTSX,0.0
+SVK,2021,hiv/aids,BTSX,0.12
+SVK,2021,acute hepatitis b,BTSX,0.09
+SVN,2021,malaria,BTSX,0.0
+SVN,2021,acute hepatitis c,BTSX,0.0
+SVN,2021,trichomoniasis,BTSX,0.0
+SVN,2021,acute hepatitis e,BTSX,0.0
+SVN,2021,chlamydia,BTSX,0.0
+SVN,2021,tuberculosis,BTSX,0.53
+SVN,2021,genital herpes,BTSX,0.0
+SVN,2021,hiv/aids,BTSX,0.01
+SVN,2021,acute hepatitis b,BTSX,0.2
+SVN,2021,acute hepatitis a,BTSX,0.04
+SVN,2021,syphilis,BTSX,0.07
+SWE,2021,hiv/aids,BTSX,0.09
+SWE,2021,acute hepatitis b,BTSX,0.04
+SWE,2021,trichomoniasis,BTSX,0.0
+SWE,2021,chlamydia,BTSX,0.0
+SWE,2021,acute hepatitis e,BTSX,0.0
+SWE,2021,malaria,BTSX,0.0
+SWE,2021,acute hepatitis c,BTSX,0.18
+SWE,2021,acute hepatitis a,BTSX,0.01
+SWE,2021,tuberculosis,BTSX,0.21
+SWE,2021,syphilis,BTSX,0.0
+SWE,2021,genital herpes,BTSX,0.0
+SWZ,2021,acute hepatitis c,BTSX,0.04
+SWZ,2021,chlamydia,BTSX,0.03
+SWZ,2021,malaria,BTSX,0.33
+SWZ,2021,trichomoniasis,BTSX,0.0
+SWZ,2021,acute hepatitis e,BTSX,0.03
+SWZ,2021,hiv/aids,BTSX,226.69
+SWZ,2021,acute hepatitis b,BTSX,0.9
+SWZ,2021,tuberculosis,BTSX,80.43
+SWZ,2021,syphilis,BTSX,2.67
+SWZ,2021,genital herpes,BTSX,0.0
+SWZ,2021,acute hepatitis a,BTSX,0.26
+SYC,2021,acute hepatitis a,BTSX,0.14
+SYC,2021,acute hepatitis c,BTSX,0.05
+SYC,2021,malaria,BTSX,0.0
+SYC,2021,chlamydia,BTSX,0.02
+SYC,2021,acute hepatitis e,BTSX,0.07
+SYC,2021,trichomoniasis,BTSX,0.0
+SYC,2021,hiv/aids,BTSX,0.0
+SYC,2021,acute hepatitis b,BTSX,0.29
+SYC,2021,tuberculosis,BTSX,0.72
+SYC,2021,syphilis,BTSX,0.29
+SYC,2021,genital herpes,BTSX,0.0
+SYR,2021,acute hepatitis a,BTSX,0.08
+SYR,2021,syphilis,BTSX,0.37
+SYR,2021,tuberculosis,BTSX,0.13
+SYR,2021,genital herpes,BTSX,0.0
+SYR,2021,hiv/aids,BTSX,0.05
+SYR,2021,acute hepatitis b,BTSX,0.04
+SYR,2021,trichomoniasis,BTSX,0.0
+SYR,2021,acute hepatitis e,BTSX,0.0
+SYR,2021,chlamydia,BTSX,0.01
+SYR,2021,acute hepatitis c,BTSX,0.01
+SYR,2021,malaria,BTSX,0.0
+TCD,2021,acute hepatitis a,BTSX,0.67
+TCD,2021,acute hepatitis c,BTSX,0.16
+TCD,2021,malaria,BTSX,79.2
+TCD,2021,chlamydia,BTSX,0.01
+TCD,2021,trichomoniasis,BTSX,0.0
+TCD,2021,acute hepatitis e,BTSX,0.07
+TCD,2021,hiv/aids,BTSX,17.39
+TCD,2021,acute hepatitis b,BTSX,1.86
+TCD,2021,tuberculosis,BTSX,32.34
+TCD,2021,genital herpes,BTSX,0.0
+TCD,2021,syphilis,BTSX,5.32
+TGO,2021,acute hepatitis c,BTSX,0.02
+TGO,2021,acute hepatitis a,BTSX,0.09
+TGO,2021,chlamydia,BTSX,0.01
+TGO,2021,acute hepatitis e,BTSX,0.01
+TGO,2021,malaria,BTSX,40.23
+TGO,2021,tuberculosis,BTSX,3.56
+TGO,2021,hiv/aids,BTSX,28.94
+TGO,2021,acute hepatitis b,BTSX,0.14
+TGO,2021,trichomoniasis,BTSX,0.0
+TGO,2021,syphilis,BTSX,2.48
+TGO,2021,genital herpes,BTSX,0.0
+THA,2021,acute hepatitis c,BTSX,0.02
+THA,2021,malaria,BTSX,0.0
+THA,2021,chlamydia,BTSX,0.01
+THA,2021,trichomoniasis,BTSX,0.0
+THA,2021,acute hepatitis e,BTSX,0.02
+THA,2021,hiv/aids,BTSX,17.02
+THA,2021,acute hepatitis b,BTSX,0.27
+THA,2021,tuberculosis,BTSX,14.48
+THA,2021,syphilis,BTSX,0.11
+THA,2021,genital herpes,BTSX,0.0
+THA,2021,acute hepatitis a,BTSX,0.05
+TJK,2021,acute hepatitis a,BTSX,0.09
+TJK,2021,syphilis,BTSX,0.13
+TJK,2021,tuberculosis,BTSX,9.11
+TJK,2021,genital herpes,BTSX,0.0
+TJK,2021,hiv/aids,BTSX,1.4
+TJK,2021,acute hepatitis b,BTSX,0.83
+TJK,2021,trichomoniasis,BTSX,0.0
+TJK,2021,acute hepatitis e,BTSX,0.0
+TJK,2021,chlamydia,BTSX,0.01
+TJK,2021,malaria,BTSX,0.0
+TJK,2021,acute hepatitis c,BTSX,0.02
+TKM,2021,chlamydia,BTSX,0.01
+TKM,2021,trichomoniasis,BTSX,0.0
+TKM,2021,acute hepatitis e,BTSX,0.01
+TKM,2021,malaria,BTSX,0.0
+TKM,2021,acute hepatitis c,BTSX,0.06
+TKM,2021,acute hepatitis a,BTSX,0.14
+TKM,2021,syphilis,BTSX,0.02
+TKM,2021,genital herpes,BTSX,0.0
+TKM,2021,tuberculosis,BTSX,12.15
+TKM,2021,hiv/aids,BTSX,59.61
+TKM,2021,acute hepatitis b,BTSX,0.64
+TLS,2021,malaria,BTSX,0.0
+TLS,2021,chlamydia,BTSX,0.01
+TLS,2021,acute hepatitis e,BTSX,0.01
+TLS,2021,trichomoniasis,BTSX,0.0
+TLS,2021,hiv/aids,BTSX,2.71
+TLS,2021,acute hepatitis b,BTSX,0.06
+TLS,2021,tuberculosis,BTSX,121.1
+TLS,2021,genital herpes,BTSX,0.0
+TLS,2021,syphilis,BTSX,1.39
+TLS,2021,acute hepatitis a,BTSX,0.08
+TLS,2021,acute hepatitis c,BTSX,0.02
+TON,2021,acute hepatitis c,BTSX,0.28
+TON,2021,malaria,BTSX,0.0
+TON,2021,acute hepatitis a,BTSX,0.73
+TON,2021,tuberculosis,BTSX,0.73
+TON,2021,hiv/aids,BTSX,0.0
+TON,2021,acute hepatitis b,BTSX,1.44
+TON,2021,syphilis,BTSX,0.6
+TON,2021,genital herpes,BTSX,0.0
+TON,2021,chlamydia,BTSX,0.0
+TON,2021,acute hepatitis e,BTSX,0.19
+TON,2021,trichomoniasis,BTSX,0.0
+TTO,2021,acute hepatitis a,BTSX,0.02
+TTO,2021,malaria,BTSX,0.0
+TTO,2021,acute hepatitis c,BTSX,0.0
+TTO,2021,trichomoniasis,BTSX,0.0
+TTO,2021,chlamydia,BTSX,0.01
+TTO,2021,acute hepatitis e,BTSX,0.0
+TTO,2021,syphilis,BTSX,0.02
+TTO,2021,genital herpes,BTSX,0.0
+TTO,2021,tuberculosis,BTSX,2.25
+TTO,2021,hiv/aids,BTSX,18.07
+TTO,2021,acute hepatitis b,BTSX,0.06
+TUN,2021,tuberculosis,BTSX,1.19
+TUN,2021,genital herpes,BTSX,0.0
+TUN,2021,syphilis,BTSX,0.09
+TUN,2021,trichomoniasis,BTSX,0.0
+TUN,2021,acute hepatitis e,BTSX,0.01
+TUN,2021,hiv/aids,BTSX,2.65
+TUN,2021,acute hepatitis b,BTSX,0.36
+TUN,2021,acute hepatitis c,BTSX,0.0
+TUN,2021,chlamydia,BTSX,0.0
+TUN,2021,malaria,BTSX,0.0
+TUN,2021,acute hepatitis a,BTSX,0.04
+TUR,2021,acute hepatitis c,BTSX,0.01
+TUR,2021,acute hepatitis a,BTSX,0.03
+TUR,2021,tuberculosis,BTSX,0.5
+TUR,2021,syphilis,BTSX,0.22
+TUR,2021,genital herpes,BTSX,0.0
+TUR,2021,hiv/aids,BTSX,0.37
+TUR,2021,acute hepatitis b,BTSX,0.14
+TUR,2021,trichomoniasis,BTSX,0.0
+TUR,2021,chlamydia,BTSX,0.0
+TUR,2021,acute hepatitis e,BTSX,0.01
+TUR,2021,malaria,BTSX,0.0
+TZA,2021,acute hepatitis c,BTSX,0.06
+TZA,2021,malaria,BTSX,40.96
+TZA,2021,chlamydia,BTSX,0.03
+TZA,2021,trichomoniasis,BTSX,0.0
+TZA,2021,acute hepatitis e,BTSX,0.04
+TZA,2021,hiv/aids,BTSX,38.51
+TZA,2021,acute hepatitis b,BTSX,0.48
+TZA,2021,tuberculosis,BTSX,40.58
+TZA,2021,syphilis,BTSX,3.62
+TZA,2021,genital herpes,BTSX,0.0
+TZA,2021,acute hepatitis a,BTSX,0.25
+UGA,2021,tuberculosis,BTSX,30.15
+UGA,2021,genital herpes,BTSX,0.0
+UGA,2021,hiv/aids,BTSX,38.04
+UGA,2021,acute hepatitis b,BTSX,0.85
+UGA,2021,trichomoniasis,BTSX,0.0
+UGA,2021,acute hepatitis e,BTSX,0.07
+UGA,2021,chlamydia,BTSX,0.04
+UGA,2021,acute hepatitis c,BTSX,0.08
+UGA,2021,malaria,BTSX,38.51
+UGA,2021,acute hepatitis a,BTSX,0.35
+UGA,2021,syphilis,BTSX,4.09
+UKR,2021,acute hepatitis c,BTSX,0.01
+UKR,2021,malaria,BTSX,0.0
+UKR,2021,chlamydia,BTSX,0.02
+UKR,2021,acute hepatitis e,BTSX,0.0
+UKR,2021,trichomoniasis,BTSX,0.0
+UKR,2021,tuberculosis,BTSX,14.01
+UKR,2021,hiv/aids,BTSX,9.64
+UKR,2021,acute hepatitis b,BTSX,0.05
+UKR,2021,syphilis,BTSX,0.02
+UKR,2021,genital herpes,BTSX,0.0
+UKR,2021,acute hepatitis a,BTSX,0.0
+URY,2021,acute hepatitis c,BTSX,0.2
+URY,2021,syphilis,BTSX,0.07
+URY,2021,genital herpes,BTSX,0.0
+URY,2021,acute hepatitis a,BTSX,0.11
+URY,2021,hiv/aids,BTSX,5.86
+URY,2021,acute hepatitis b,BTSX,0.17
+URY,2021,tuberculosis,BTSX,2.44
+URY,2021,chlamydia,BTSX,0.0
+URY,2021,malaria,BTSX,0.0
+URY,2021,trichomoniasis,BTSX,0.0
+URY,2021,acute hepatitis e,BTSX,0.02
+USA,2021,acute hepatitis a,BTSX,0.27
+USA,2021,acute hepatitis c,BTSX,0.87
+USA,2021,malaria,BTSX,0.0
+USA,2021,chlamydia,BTSX,0.0
+USA,2021,trichomoniasis,BTSX,0.0
+USA,2021,acute hepatitis e,BTSX,0.02
+USA,2021,hiv/aids,BTSX,1.51
+USA,2021,acute hepatitis b,BTSX,0.18
+USA,2021,tuberculosis,BTSX,0.19
+USA,2021,genital herpes,BTSX,0.0
+USA,2021,syphilis,BTSX,0.01
+UZB,2021,chlamydia,BTSX,0.0
+UZB,2021,acute hepatitis e,BTSX,0.0
+UZB,2021,trichomoniasis,BTSX,0.0
+UZB,2021,hiv/aids,BTSX,2.97
+UZB,2021,acute hepatitis b,BTSX,0.17
+UZB,2021,tuberculosis,BTSX,7.03
+UZB,2021,genital herpes,BTSX,0.0
+UZB,2021,syphilis,BTSX,0.01
+UZB,2021,acute hepatitis a,BTSX,0.06
+UZB,2021,acute hepatitis c,BTSX,0.0
+UZB,2021,malaria,BTSX,0.0
+VCT,2021,acute hepatitis a,BTSX,0.03
+VCT,2021,syphilis,BTSX,0.02
+VCT,2021,genital herpes,BTSX,0.0
+VCT,2021,tuberculosis,BTSX,0.81
+VCT,2021,hiv/aids,BTSX,11.1
+VCT,2021,acute hepatitis b,BTSX,0.41
+VCT,2021,chlamydia,BTSX,0.0
+VCT,2021,trichomoniasis,BTSX,0.0
+VCT,2021,acute hepatitis e,BTSX,0.02
+VCT,2021,malaria,BTSX,0.0
+VCT,2021,acute hepatitis c,BTSX,0.0
+VEN,2021,chlamydia,BTSX,0.01
+VEN,2021,acute hepatitis e,BTSX,0.0
+VEN,2021,malaria,BTSX,0.55
+VEN,2021,tuberculosis,BTSX,3.61
+VEN,2021,acute hepatitis b,BTSX,0.02
+VEN,2021,trichomoniasis,BTSX,0.0
+VEN,2021,hiv/aids,BTSX,6.25
+VEN,2021,syphilis,BTSX,0.08
+VEN,2021,genital herpes,BTSX,0.0
+VEN,2021,acute hepatitis c,BTSX,0.01
+VEN,2021,acute hepatitis a,BTSX,0.04
+VNM,2021,chlamydia,BTSX,0.0
+VNM,2021,acute hepatitis e,BTSX,0.02
+VNM,2021,malaria,BTSX,0.0
+VNM,2021,acute hepatitis c,BTSX,0.03
+VNM,2021,acute hepatitis a,BTSX,0.1
+VNM,2021,syphilis,BTSX,0.21
+VNM,2021,tuberculosis,BTSX,11.0
+VNM,2021,genital herpes,BTSX,0.0
+VNM,2021,hiv/aids,BTSX,4.35
+VNM,2021,acute hepatitis b,BTSX,0.18
+VNM,2021,trichomoniasis,BTSX,0.0
+VUT,2021,chlamydia,BTSX,0.0
+VUT,2021,trichomoniasis,BTSX,0.0
+VUT,2021,acute hepatitis e,BTSX,0.01
+VUT,2021,hiv/aids,BTSX,0.0
+VUT,2021,acute hepatitis b,BTSX,0.11
+VUT,2021,tuberculosis,BTSX,6.15
+VUT,2021,genital herpes,BTSX,0.0
+VUT,2021,syphilis,BTSX,1.25
+VUT,2021,acute hepatitis a,BTSX,0.12
+VUT,2021,acute hepatitis c,BTSX,0.03
+VUT,2021,malaria,BTSX,0.0
+WSM,2021,chlamydia,BTSX,0.0
+WSM,2021,acute hepatitis e,BTSX,0.0
+WSM,2021,malaria,BTSX,0.0
+WSM,2021,acute hepatitis c,BTSX,0.01
+WSM,2021,acute hepatitis a,BTSX,0.02
+WSM,2021,tuberculosis,BTSX,0.58
+WSM,2021,syphilis,BTSX,0.37
+WSM,2021,genital herpes,BTSX,0.0
+WSM,2021,hiv/aids,BTSX,0.0
+WSM,2021,acute hepatitis b,BTSX,0.06
+WSM,2021,trichomoniasis,BTSX,0.0
+YEM,2021,acute hepatitis c,BTSX,0.02
+YEM,2021,chlamydia,BTSX,0.0
+YEM,2021,malaria,BTSX,7.64
+YEM,2021,trichomoniasis,BTSX,0.0
+YEM,2021,acute hepatitis e,BTSX,0.06
+YEM,2021,hiv/aids,BTSX,0.99
+YEM,2021,acute hepatitis b,BTSX,1.41
+YEM,2021,tuberculosis,BTSX,9.36
+YEM,2021,genital herpes,BTSX,0.0
+YEM,2021,syphilis,BTSX,0.72
+YEM,2021,acute hepatitis a,BTSX,0.75
+ZAF,2021,malaria,BTSX,0.09
+ZAF,2021,acute hepatitis c,BTSX,0.01
+ZAF,2021,trichomoniasis,BTSX,0.0
+ZAF,2021,chlamydia,BTSX,0.04
+ZAF,2021,acute hepatitis e,BTSX,0.01
+ZAF,2021,tuberculosis,BTSX,95.36
+ZAF,2021,syphilis,BTSX,1.65
+ZAF,2021,genital herpes,BTSX,0.0
+ZAF,2021,hiv/aids,BTSX,77.9
+ZAF,2021,acute hepatitis b,BTSX,0.29
+ZAF,2021,acute hepatitis a,BTSX,0.06
+ZMB,2021,acute hepatitis a,BTSX,0.26
+ZMB,2021,acute hepatitis c,BTSX,0.05
+ZMB,2021,malaria,BTSX,44.92
+ZMB,2021,chlamydia,BTSX,0.05
+ZMB,2021,trichomoniasis,BTSX,0.0
+ZMB,2021,acute hepatitis e,BTSX,0.02
+ZMB,2021,hiv/aids,BTSX,103.46
+ZMB,2021,acute hepatitis b,BTSX,0.81
+ZMB,2021,tuberculosis,BTSX,40.39
+ZMB,2021,syphilis,BTSX,5.21
+ZMB,2021,genital herpes,BTSX,0.0
+ZWE,2021,chlamydia,BTSX,0.03
+ZWE,2021,acute hepatitis e,BTSX,0.44
+ZWE,2021,malaria,BTSX,5.57
+ZWE,2021,acute hepatitis c,BTSX,0.38
+ZWE,2021,acute hepatitis a,BTSX,0.6
+ZWE,2021,syphilis,BTSX,1.67
+ZWE,2021,tuberculosis,BTSX,48.39
+ZWE,2021,genital herpes,BTSX,0.0
+ZWE,2021,hiv/aids,BTSX,129.92
+ZWE,2021,acute hepatitis b,BTSX,0.53
+ZWE,2021,trichomoniasis,BTSX,0.0
