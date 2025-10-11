@@ -1,0 +1,130 @@
+indicator_code,indicator_name,year,start_year,end_year,dimension_type,dimension_code,dimension_name,numeric,value
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2015,2015,2015,Sex,BTSX,Both sexes,16702261.0,16 702 261
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2015,2015,2015,Sex,BTSX,Both sexes,8068583.0,8 068 583
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2017,2017,2017,Sex,BTSX,Both sexes,12338760.0,12 338 760
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2010,2010,2010,Sex,BTSX,Both sexes,119.5568596,119.56 [110.15-129.37]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2003,2003,2003,Sex,BTSX,Both sexes,382.0879866,382.09 [298.42-484.07]
+MALARIA_SUSPECTS,Number of suspected malaria cases,2017,2017,2017,Sex,BTSX,Both sexes,25106551.0,25 106 551
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2007,2007,2007,Sex,BTSX,Both sexes,151.1457819,151.15 [141.15-161.46]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2011,2011,2011,Sex,BTSX,Both sexes,339.5066275,339.51 [273.76-416.18]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2018,2018,2018,Sex,BTSX,Both sexes,14548024.0,14 548 024
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2022,2022,2022,Sex,BTSX,Both sexes,23050405.0,23 050 405
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2000,2000,2000,Sex,BTSX,Both sexes,178.9915619,178.99 [168.96-189.47]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2016,2016,2016,Sex,BTSX,Both sexes,284.8254203,284.83 [225.41-353.73]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2020,2020,2020,Sex,BTSX,Both sexes,18325240.0,18 325 240
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2005,2005,2005,Sex,BTSX,Both sexes,144.6751994,144.68 [135.74-153.95]
+MALARIA_PRES_CASES,Number of presumed malaria cases,2016,2016,2016,Sex,BTSX,Both sexes,10358387.0,10 358 387
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2019,2019,2019,Sex,BTSX,Both sexes,2476514.0,2 476 514
+MALARIA_INDIG,Number of indigenous malaria cases,2017,2017,2017,Sex,BTSX,Both sexes,13087878.0,13 087 878
+MALARIA_INDIG,Number of indigenous malaria cases,2016,2016,2016,Sex,BTSX,Both sexes,13598282.0,13 598 282
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2017,2017,2017,Sex,BTSX,Both sexes,288.9798255,288.98 [229.08-359.80]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2017,2017,2017,Sex,BTSX,Both sexes,13087878.0,13 087 878
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2021,2021,2021,Sex,BTSX,Both sexes,2559742.0,2 559 742
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2016,2016,2016,Sex,BTSX,Both sexes,13598282.0,13 598 282
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2009,2009,2009,Sex,BTSX,Both sexes,389.9603704,389.96 [319.67-471.62]
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2016,2016,2016,Sex,BTSX,Both sexes,23956669.0,23 956 669
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2015,2015,2015,Sex,BTSX,Both sexes,839849.0,839 849
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2002,2002,2002,Sex,BTSX,Both sexes,381.7466329,381.75 [296.16-485.34]
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2018,2018,2018,Sex,BTSX,Both sexes,1428731.0,1 428 731
+MALARIA_SUSPECTS,Number of suspected malaria cases,2019,2019,2019,Sex,BTSX,Both sexes,29489245.0,29 489 245
+MALARIA_PRES_CASES,Number of presumed malaria cases,2017,2017,2017,Sex,BTSX,Both sexes,7131390.0,7 131 390
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2016,2016,2016,Sex,BTSX,Both sexes,12979919.0,12 979 919
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2023,2023,2023,Sex,BTSX,Both sexes,21649680.0,21 649 680
+MALARIA_SUSPECTS,Number of suspected malaria cases,2021,2021,2021,Sex,BTSX,Both sexes,30202722.0,30 202 722
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2021,2021,2021,Sex,BTSX,Both sexes,299.2711055,299.27 [217.44-407.25]
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2019,2019,2019,Sex,BTSX,Both sexes,3298156.0,3 298 156
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2015,2015,2015,Sex,BTSX,Both sexes,7511712.0,7 511 712
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2023,2023,2023,Sex,BTSX,Both sexes,81.04555609,81.05 [59.15-115.82]
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2017,2017,2017,Sex,BTSX,Both sexes,20219268.0,20 219 268
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2012,2012,2012,Sex,BTSX,Both sexes,316.2204182,316.22 [255.24-389.01]
+MALARIA_SUSPECTS,Number of suspected malaria cases,2020,2020,2020,Sex,BTSX,Both sexes,27370935.0,27 370 935
+MALARIA_SUSPECTS,Number of suspected malaria cases,2015,2015,2015,Sex,BTSX,Both sexes,20243915.0,20 243 915
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2000,2000,2000,Sex,BTSX,Both sexes,401.7883996,401.79 [312.41-508.80]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2008,2008,2008,Sex,BTSX,Both sexes,402.0148632,402.01 [328.56-486.99]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2020,2020,2020,Sex,BTSX,Both sexes,304.3687915,304.37 [218.69-414.28]
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2021,2021,2021,Sex,BTSX,Both sexes,23608797.0,23 608 797
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2023,2023,2023,Sex,BTSX,Both sexes,26411359.0,26 411 359
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2017,2017,2017,Sex,BTSX,Both sexes,13087878.0,13 087 878
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2023,2023,2023,Sex,BTSX,Both sexes,24098323.0,24 098 323
+MALARIA_SUSPECTS,Number of suspected malaria cases,2022,2022,2022,Sex,BTSX,Both sexes,32983459.0,32 983 459
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2012,2012,2012,Sex,BTSX,Both sexes,97.62280978,97.62 [88.72-107.68]
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2003,2003,2003,Sex,BTSX,Both sexes,149.9774305,149.98 [141.18-159.18]
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2021,2021,2021,Sex,BTSX,Both sexes,3405012.0,3 405 012
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2022,2022,2022,Sex,BTSX,Both sexes,23050405.0,23 050 405
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2022,2022,2022,Sex,BTSX,Both sexes,24968466.0,24 968 466
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2022,2022,2022,Sex,BTSX,Both sexes,84.1099024,84.11 [62.99-116.97]
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2004,2004,2004,Sex,BTSX,Both sexes,160.4521065,160.45 [150.74-170.59]
+MALARIA_SUSPECTS,Number of suspected malaria cases,2016,2016,2016,Sex,BTSX,Both sexes,29113322.0,29 113 322
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2022,2022,2022,Sex,BTSX,Both sexes,20672565.0,20 672 565
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2006,2006,2006,Sex,BTSX,Both sexes,159.7144215,159.71 [149.50-170.31]
+MALARIA_INDIG,Number of indigenous malaria cases,2015,2015,2015,Sex,BTSX,Both sexes,8068583.0,8 068 583
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2019,2019,2019,Sex,BTSX,Both sexes,19806915.0,19 806 915
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2020,2020,2020,Sex,BTSX,Both sexes,93.57970739,93.58 [72.02-125.44]
+MALARIA_PRES_CASES,Number of presumed malaria cases,2019,2019,2019,Sex,BTSX,Both sexes,3569878.0,3 569 878
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2019,2019,2019,Sex,BTSX,Both sexes,17330401.0,17 330 401
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2021,2021,2021,Sex,BTSX,Both sexes,87.29310542,87.29 [66.95-117.93]
+MALARIA_PRES_CASES,Number of presumed malaria cases,2020,2020,2020,Sex,BTSX,Both sexes,3254815.0,3 254 815
+MALARIA_INDIG,Number of indigenous malaria cases,2022,2022,2022,Sex,BTSX,Both sexes,23050405.0,23 050 405
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2021,2021,2021,Sex,BTSX,Both sexes,21325186.0,21 325 186
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2016,2016,2016,Sex,BTSX,Both sexes,901141.0,901 141
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2008,2008,2008,Sex,BTSX,Both sexes,140.1757545,140.18 [130.56-150.17]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2022,2022,2022,Sex,BTSX,Both sexes,298.9976008,299.00 [215.48-402.85]
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2020,2020,2020,Sex,BTSX,Both sexes,21580055.0,21 580 055
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2013,2013,2013,Sex,BTSX,Both sexes,90.50953004,90.51 [81.53-101.04]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2005,2005,2005,Sex,BTSX,Both sexes,395.897142,395.90 [318.82-487.01]
+MALARIA_SUSPECTS,Number of suspected malaria cases,2018,2018,2018,Sex,BTSX,Both sexes,25381459.0,25 381 459
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2020,2020,2020,Sex,BTSX,Both sexes,3086039.0,3 086 039
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2017,2017,2017,Sex,BTSX,Both sexes,749118.0,749 118
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2019,2019,2019,Sex,BTSX,Both sexes,292.9999532,293.00 [226.46-376.22]
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2020,2020,2020,Sex,BTSX,Both sexes,16013077.0,16 013 077
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2020,2020,2020,Sex,BTSX,Both sexes,2312163.0,2 312 163
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2007,2007,2007,Sex,BTSX,Both sexes,400.6095535,400.61 [324.03-489.82]
+MALARIA_PRES_CASES,Number of presumed malaria cases,2018,2018,2018,Sex,BTSX,Both sexes,5934356.0,5 934 356
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2015,2015,2015,Sex,BTSX,Both sexes,88.66121306,88.66 [77.62-102.50]
+MALARIA_SUSPECTS,Number of suspected malaria cases,2023,2023,2023,Sex,BTSX,Both sexes,35179110.0,35 179 110
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2018,2018,2018,Sex,BTSX,Both sexes,14548024.0,14 548 024
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2011,2011,2011,Sex,BTSX,Both sexes,107.2286335,107.23 [98.18-117.11]
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2018,2018,2018,Sex,BTSX,Both sexes,1023273.0,1 023 273
+MALARIA_PRES_CASES,Number of presumed malaria cases,2023,2023,2023,Sex,BTSX,Both sexes,2313036.0,2 313 036
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2015,2015,2015,Sex,BTSX,Both sexes,556871.0,556 871
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2017,2017,2017,Sex,BTSX,Both sexes,1055444.0,1 055 444
+MALARIA_PRES_CASES,Number of presumed malaria cases,2022,2022,2022,Sex,BTSX,Both sexes,1918061.0,1 918 061
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2002,2002,2002,Sex,BTSX,Both sexes,172.5215931,172.52 [162.53-182.85]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2010,2010,2010,Sex,BTSX,Both sexes,363.3581836,363.36 [294.24-443.45]
+MALARIA_INDIG,Number of indigenous malaria cases,2021,2021,2021,Sex,BTSX,Both sexes,21325186.0,21 325 186
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2018,2018,2018,Sex,BTSX,Both sexes,88.36542453,88.37 [72.84-109.45]
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2018,2018,2018,Sex,BTSX,Both sexes,13524751.0,13 524 751
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2013,2013,2013,Sex,BTSX,Both sexes,297.8264948,297.83 [239.60-366.29]
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2014,2014,2014,Sex,BTSX,Both sexes,89.23547763,89.24 [79.36-101.30]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2016,2016,2016,Sex,BTSX,Both sexes,13598282.0,13 598 282
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2017,2017,2017,Sex,BTSX,Both sexes,88.47538057,88.48 [74.72-107.06]
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2015,2015,2015,Sex,BTSX,Both sexes,8068583.0,8 068 583
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2022,2022,2022,Sex,BTSX,Both sexes,3186224.0,3 186 224
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2014,2014,2014,Sex,BTSX,Both sexes,287.7049251,287.70 [230.31-354.64]
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2016,2016,2016,Sex,BTSX,Both sexes,618363.0,618 363
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2001,2001,2001,Sex,BTSX,Both sexes,174.3334959,174.33 [164.38-184.67]
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2020,2020,2020,Sex,BTSX,Both sexes,18325240.0,18 325 240
+MALARIA_INDIG,Number of indigenous malaria cases,2018,2018,2018,Sex,BTSX,Both sexes,14548024.0,14 548 024
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2018,2018,2018,Sex,BTSX,Both sexes,20482380.0,20 482 380
+MALARIA_INDIG,Number of indigenous malaria cases,2023,2023,2023,Sex,BTSX,Both sexes,24098323.0,24 098 323
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2018,2018,2018,Sex,BTSX,Both sexes,291.073537,291.07 [228.98-367.07]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2015,2015,2015,Sex,BTSX,Both sexes,283.812818,283.81 [227.07-351.95]
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2001,2001,2001,Sex,BTSX,Both sexes,394.491681,394.49 [306.73-501.43]
+MALARIA_INDIG,Number of indigenous malaria cases,2019,2019,2019,Sex,BTSX,Both sexes,19806915.0,19 806 915
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2006,2006,2006,Sex,BTSX,Both sexes,398.5742219,398.57 [321.34-488.27]
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2019,2019,2019,Sex,BTSX,Both sexes,23376793.0,23 376 793
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2023,2023,2023,Sex,BTSX,Both sexes,2448643.0,2 448 643
+MALARIA_INDIG,Number of indigenous malaria cases,2020,2020,2020,Sex,BTSX,Both sexes,18325240.0,18 325 240
+MALARIA_PRES_CASES,Number of presumed malaria cases,2015,2015,2015,Sex,BTSX,Both sexes,8633678.0,8 633 678
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2021,2021,2021,Sex,BTSX,Both sexes,21325186.0,21 325 186
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2004,2004,2004,Sex,BTSX,Both sexes,390.1169701,390.12 [309.71-483.20]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2019,2019,2019,Sex,BTSX,Both sexes,19806915.0,19 806 915
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2009,2009,2009,Sex,BTSX,Both sexes,134.8335222,134.83 [125.08-145.15]
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2022,2022,2022,Sex,BTSX,Both sexes,2377840.0,2 377 840
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2023,2023,2023,Sex,BTSX,Both sexes,298.9976001,299.00 [215.62-406.20]
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2021,2021,2021,Sex,BTSX,Both sexes,18765444.0,18 765 444
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2023,2023,2023,Sex,BTSX,Both sexes,3200671.0,3 200 671
+MALARIA_PRES_CASES,Number of presumed malaria cases,2021,2021,2021,Sex,BTSX,Both sexes,2283611.0,2 283 611
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2019,2019,2019,Sex,BTSX,Both sexes,86.66942476,86.67 [69.87-110.38]
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2023,2023,2023,Sex,BTSX,Both sexes,24098323.0,24 098 323
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2016,2016,2016,Sex,BTSX,Both sexes,87.91636671,87.92 [75.66-103.81]
