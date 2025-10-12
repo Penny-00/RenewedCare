@@ -1,0 +1,513 @@
+gho_code,gho_display,year_display,startyear,endyear,region_code,region_display,country_code,country_display,dimension_type,dimension_code,dimension_name,numeric,value
+#indicator+code,#indicator+name,,,,#region+code,#region+name,#country+code,#country+name,#dimension+type,#dimension+code,#dimension+name,,
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,40.0,40.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_43,Pertussis - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,23800.0,23800.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,43.0,43.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,74.0,74.0
+WHS3_62,Measles - number of reported cases,1997,1997,1997,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,21385.0,21385.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,43.0,43.0
+WHS3_50,Yellow fever - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,47.0,47.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,33.0,33.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,51.0,51.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS3_62,Measles - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,162106.0,162106.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,66.0,66.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10.0,10.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34.0,34.0
+WHS3_49,Poliomyelitis - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,392.0,392.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS3_57,Rubella - number of reported cases,2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,306.0,306.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,48.0,48.0
+WHS3_49,Poliomyelitis - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,202.0,202.0
+WHS3_43,Pertussis - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,25057.0,25057.0
+WHS3_41,Diphtheria - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1930.0,1930.0
+WHS3_41,Diphtheria - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2849.0,2849.0
+WHS3_43,Pertussis - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,11894.0,11894.0
+WHS3_57,Rubella - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,239.0,239.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,5067.0,5067.0
+WHS3_43,Pertussis - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,33555.0,33555.0
+WHS3_62,Measles - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,161768.0,161768.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10595.0,10595.0
+WHS3_49,Poliomyelitis - number of reported cases,1997,1997,1997,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,383.0,383.0
+WHS3_43,Pertussis - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,48996.0,48996.0
+WHS3_62,Measles - number of reported cases,2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,110927.0,110927.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,63.0,63.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,312.0,312.0
+WHS3_49,Poliomyelitis - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,543.0,543.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,33.0,33.0
+WHS3_50,Yellow fever - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_46,Total tetanus - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2924.0,2924.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,44.0,44.0
+WHS3_49,Poliomyelitis - number of reported cases,1999,1999,1999,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,981.0,981.0
+WHS3_46,Total tetanus - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1643.0,1643.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_46,Total tetanus - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2679.0,2679.0
+WHS3_56,Neonatal tetanus - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1871.0,1871.0
+WHS3_43,Pertussis - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,8530.0,8530.0
+WHS3_43,Pertussis - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42193.0,42193.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_57,Rubella - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,422.0,422.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_43,Pertussis - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,4244.0,4244.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_46,Total tetanus - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,40.0,40.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS3_56,Neonatal tetanus - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,176.0,176.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+WHS3_46,Total tetanus - number of reported cases,2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,39.0,39.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62.0,62.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,44.0,44.0
+WHS3_46,Total tetanus - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3976.0,3976.0
+WHS3_46,Total tetanus - number of reported cases,2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,41.0,41.0
+WHS3_41,Diphtheria - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2016.0,2016.0
+WHS3_57,Rubella - number of reported cases,2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,892.0,892.0
+WHS3_41,Diphtheria - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1768.0,1768.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62.0,62.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+WHS3_41,Diphtheria - number of reported cases,1976,1976,1976,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,333.0,333.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+IMMUNIZATION_VACCINATIONCARDSSEEN,Proportion of vaccination cards seen (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+WHS3_46,Total tetanus - number of reported cases,2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_62,Measles - number of reported cases,1999,1999,1999,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,217151.0,217151.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,18.0,18.0
+WHS3_62,Measles - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,17136.0,17136.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_49,Poliomyelitis - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,356.0,356.0
+WHS3_62,Measles - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,136778.0,136778.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,75908.0,75908.0
+WHS3_50,Yellow fever - number of reported cases,1974,1974,1974,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,7.0,7.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,8.0,8.0
+WHS3_56,Neonatal tetanus - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,39.0,39.0
+WHS3_57,Rubella - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1644.0,1644.0
+WHS3_62,Measles - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,28094.0,28094.0
+WHS3_46,Total tetanus - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,112.0,112.0
+WHS3_43,Pertussis - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10997.0,10997.0
+WHS3_50,Yellow fever - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1227.0,1227.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,75.0,75.0
+WHS3_50,Yellow fever - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,154.0,154.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_43,Pertussis - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,92266.0,92266.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_56,Neonatal tetanus - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,752.0,752.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,66.0,66.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,71.0,71.0
+WHS3_49,Poliomyelitis - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,959.0,959.0
+WHS3_50,Yellow fever - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,22.0,22.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,66.0,66.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,41.0,41.0
+WHS3_56,Neonatal tetanus - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34.0,34.0
+WHS3_62,Measles - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,8491.0,8491.0
+WHS3_43,Pertussis - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,51316.0,51316.0
+WHS3_57,Rubella - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,102.0,102.0
+WHS3_43,Pertussis - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,11281.0,11281.0
+WHS3_46,Total tetanus - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,208.0,208.0
+WHS3_62,Measles - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,115743.0,115743.0
+WHS3_50,Yellow fever - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2676.0,2676.0
+WHS3_43,Pertussis - number of reported cases,2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10976.0,10976.0
+WHS3_62,Measles - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,12423.0,12423.0
+WHS3_49,Poliomyelitis - number of reported cases,2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,782.0,782.0
+SDGHPVRECEIVED,HPV immunization coverage estimates among primary target cohort (9-14 years old girls) (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,SEX,SEX_FMLE,Female,60.0,60.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,152.0,152.0
+WHS3_49,Poliomyelitis - number of reported cases,1982,1982,1982,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,395.0,395.0
+WHS3_56,Neonatal tetanus - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1667.0,1667.0
+WHS3_43,Pertussis - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,65.0,65.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_56,Neonatal tetanus - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1117.0,1117.0
+WHS3_43,Pertussis - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,18685.0,18685.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,64.0,64.0
+WHS3_43,Pertussis - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,6592.0,6592.0
+WHS3_49,Poliomyelitis - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,36.0,36.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,58.0,58.0
+WHS3_43,Pertussis - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,22275.0,22275.0
+WHS3_41,Diphtheria - number of reported cases,1979,1979,1979,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,274.0,274.0
+WHS3_56,Neonatal tetanus - number of reported cases,2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_49,Poliomyelitis - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1083.0,1083.0
+WHS3_50,Yellow fever - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,5.0,5.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,35.0,35.0
+WHS3_49,Poliomyelitis - number of reported cases,1981,1981,1981,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,335.0,335.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,38.0,38.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_56,Neonatal tetanus - number of reported cases,2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,64.0,64.0
+WHS3_46,Total tetanus - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3095.0,3095.0
+WHS3_46,Total tetanus - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,556.0,556.0
+WHS3_62,Measles - number of reported cases,1977,1977,1977,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,282897.0,282897.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_46,Total tetanus - number of reported cases,1982,1982,1982,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3479.0,3479.0
+WHS3_56,Neonatal tetanus - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,130.0,130.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,115682.0,115682.0
+WHS3_50,Yellow fever - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,32.0,32.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+WHS3_49,Poliomyelitis - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,638.0,638.0
+WHS3_41,Diphtheria - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,165.0,165.0
+WHS3_43,Pertussis - number of reported cases,1982,1982,1982,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,77830.0,77830.0
+WHS3_56,Neonatal tetanus - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,90.0,90.0
+WHS3_55,Congenital Rubella Syndrome - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62.0,62.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,49.0,49.0
+WHS3_46,Total tetanus - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1667.0,1667.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,36.0,36.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+WHS3_46,Total tetanus - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3440.0,3440.0
+WHS3_49,Poliomyelitis - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+WHS3_43,Pertussis - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,9559.0,9559.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_49,Poliomyelitis - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1.0,1.0
+WHS3_62,Measles - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,143098.0,143098.0
+WHS3_56,Neonatal tetanus - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,82.0,82.0
+WHS3_50,Yellow fever - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,898.0,898.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,30.0,30.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_56,Neonatal tetanus - number of reported cases,2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1903.0,1903.0
+WHS3_46,Total tetanus - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2015.0,2015.0
+WHS3_46,Total tetanus - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,131.0,131.0
+WHS3_62,Measles - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,7063.0,7063.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,387.0,387.0
+WHS3_41,Diphtheria - number of reported cases,1974,1974,1974,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,129.0,129.0
+WHS3_57,Rubella - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10221.0,10221.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS3_56,Neonatal tetanus - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,104.0,104.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,45.0,45.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,36.0,36.0
+WHS3_41,Diphtheria - number of reported cases,1977,1977,1977,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1050.0,1050.0
+WHS3_43,Pertussis - number of reported cases,1977,1977,1977,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42452.0,42452.0
+WHS3_43,Pertussis - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,38910.0,38910.0
+WHS3_43,Pertussis - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,13240.0,13240.0
+WHS3_56,Neonatal tetanus - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,110.0,110.0
+WHS3_62,Measles - number of reported cases,2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,8877.0,8877.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,69.0,69.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,76.0,76.0
+WHS3_46,Total tetanus - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,187.0,187.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_41,Diphtheria - number of reported cases,1978,1978,1978,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,455.0,455.0
+WHS3_57,Rubella - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,466.0,466.0
+WHS3_49,Poliomyelitis - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,130.0,130.0
+WHS3_57,Rubella - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,543.0,543.0
+WHS3_56,Neonatal tetanus - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,896.0,896.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34.0,34.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS3_43,Pertussis - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,70024.0,70024.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_57,Rubella - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,4772.0,4772.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,41.0,41.0
+WHS3_49,Poliomyelitis - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1873.0,1873.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_43,Pertussis - number of reported cases,2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,15609.0,15609.0
+WHS3_49,Poliomyelitis - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,312.0,312.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_49,Poliomyelitis - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,942.0,942.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS3_57,Rubella - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,503.0,503.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_46,Total tetanus - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,138.0,138.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,43.0,43.0
+WHS3_57,Rubella - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,450.0,450.0
+WHS3_46,Total tetanus - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,114.0,114.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,26.0,26.0
+WHS3_49,Poliomyelitis - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+WHS3_49,Poliomyelitis - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,957.0,957.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,23983.0,23983.0
+WHS3_49,Poliomyelitis - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1144.0,1144.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,69.0,69.0
+WHS3_62,Measles - number of reported cases,2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,6855.0,6855.0
+WHS3_43,Pertussis - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,11628.0,11628.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS3_56,Neonatal tetanus - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,163.0,163.0
+WHS3_57,Rubella - number of reported cases,2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1024.0,1024.0
+WHS3_50,Yellow fever - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,69.0,69.0
+WHS3_56,Neonatal tetanus - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1643.0,1643.0
+WHS3_50,Yellow fever - number of reported cases,2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+WHS3_49,Poliomyelitis - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2014,2014,2014,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,51.0,51.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,71.0,71.0
+WHS3_43,Pertussis - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,7897.0,7897.0
+WHS3_57,Rubella - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,419.0,419.0
+WHS3_62,Measles - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,212183.0,212183.0
+WHS3_41,Diphtheria - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,275.0,275.0
+WHS3_49,Poliomyelitis - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,625.0,625.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_62,Measles - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,6447.0,6447.0
+WHS3_46,Total tetanus - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1083.0,1083.0
+WHS3_46,Total tetanus - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3587.0,3587.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS3_62,Measles - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,85965.0,85965.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,37.0,37.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,30.0,30.0
+WHS3_56,Neonatal tetanus - number of reported cases,1995,1995,1995,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,388.0,388.0
+WHS3_49,Poliomyelitis - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1460.0,1460.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,38.0,38.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_62,Measles - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,14999.0,14999.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,70.0,70.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,1995,1995,1995,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,12393.0,12393.0
+WHS3_41,Diphtheria - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1871.0,1871.0
+WHS3_41,Diphtheria - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,790.0,790.0
+WHS3_62,Measles - number of reported cases,2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,141258.0,141258.0
+WHS3_49,Poliomyelitis - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,453.0,453.0
+WHS3_56,Neonatal tetanus - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,721.0,721.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,45.0,45.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+WHS3_46,Total tetanus - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34.0,34.0
+WHS3_50,Yellow fever - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3270.0,3270.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,66.0,66.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS3_43,Pertussis - number of reported cases,1975,1975,1975,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34362.0,34362.0
+WHS3_49,Poliomyelitis - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,606.0,606.0
+WHS3_56,Neonatal tetanus - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1060.0,1060.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_49,Poliomyelitis - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,5.0,5.0
+WHS3_49,Poliomyelitis - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,842.0,842.0
+WHS3_50,Yellow fever - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,15.0,15.0
+WHS3_62,Measles - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1272.0,1272.0
+WHS3_50,Yellow fever - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2561.0,2561.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,31521.0,31521.0
+WHS3_50,Yellow fever - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,26.0,26.0
+WHS3_50,Yellow fever - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_57,Rubella - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,88.0,88.0
+WHS3_42,Japanese encephalitis - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_62,Measles - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,88675.0,88675.0
+WHS3_50,Yellow fever - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,8.0,8.0
+WHS3_50,Yellow fever - number of reported cases,2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,216.0,216.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56.0,56.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,1975,1975,1975,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,32.0,32.0
+WHS3_62,Measles - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,52852.0,52852.0
+WHS3_50,Yellow fever - number of reported cases,1978,1978,1978,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_62,Measles - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54734.0,54734.0
+WHS3_62,Measles - number of reported cases,1981,1981,1981,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,129671.0,129671.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,65.0,65.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62.0,62.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,9.0,9.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_46,Total tetanus - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3760.0,3760.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_50,Yellow fever - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,1997,1997,1997,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,7.0,7.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,1982,1982,1982,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,139785.0,139785.0
+WHS3_49,Poliomyelitis - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,866.0,866.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_43,Pertussis - number of reported cases,1976,1976,1976,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,37949.0,37949.0
+WHS3_56,Neonatal tetanus - number of reported cases,2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,39.0,39.0
+WHS3_49,Poliomyelitis - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,455.0,455.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,71.0,71.0
+WHS3_41,Diphtheria - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2468.0,2468.0
+WHS3_56,Neonatal tetanus - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,137.0,137.0
+WHS3_49,Poliomyelitis - number of reported cases,1980,1980,1980,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,816.0,816.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_41,Diphtheria - number of reported cases,1981,1981,1981,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,164.0,164.0
+WHS3_43,Pertussis - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34517.0,34517.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,27.0,27.0
+WHS3_50,Yellow fever - number of reported cases,2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,14.0,14.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,63.0,63.0
+WHS3_46,Total tetanus - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2269.0,2269.0
+WHS3_62,Measles - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,77566.0,77566.0
+WHS3_49,Poliomyelitis - number of reported cases,2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,355.0,355.0
+WHS3_50,Yellow fever - number of reported cases,2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,46.0,46.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,704.0,704.0
+WHS3_46,Total tetanus - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2945.0,2945.0
+WHS3_43,Pertussis - number of reported cases,1978,1978,1978,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,45440.0,45440.0
+WHS3_56,Neonatal tetanus - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,498.0,498.0
+WHS3_43,Pertussis - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62751.0,62751.0
+WHS3_62,Measles - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,18843.0,18843.0
+WHS3_43,Pertussis - number of reported cases,1979,1979,1979,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,58719.0,58719.0
+WHS3_46,Total tetanus - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_62,Measles - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,11190.0,11190.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,28.0,28.0
+WHS3_62,Measles - number of reported cases,1974,1974,1974,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,115634.0,115634.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,31.0,31.0
+WHS3_46,Total tetanus - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,199.0,199.0
+WHS3_56,Neonatal tetanus - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1441.0,1441.0
+WHS3_50,Yellow fever - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,4075.0,4075.0
+WHS3_46,Total tetanus - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_41,Diphtheria - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_49,Poliomyelitis - number of reported cases,2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,833.0,833.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_62,Measles - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,106081.0,106081.0
+WHS3_62,Measles - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2613.0,2613.0
+SDGHPVRECEIVED,HPV immunization coverage estimates among primary target cohort (9-14 years old girls) (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,SEX,SEX_FMLE,Female,27.0,27.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_56,Neonatal tetanus - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,57.0,57.0
+WHS3_62,Measles - number of reported cases,2021,2021,2021,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,10649.0,10649.0
+WHS3_50,Yellow fever - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2042.0,2042.0
+WHS3_62,Measles - number of reported cases,1975,1975,1975,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,134976.0,134976.0
+WHS3_46,Total tetanus - number of reported cases,1976,1976,1976,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2416.0,2416.0
+WHS3_46,Total tetanus - number of reported cases,1974,1974,1974,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2773.0,2773.0
+WHS3_46,Total tetanus - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3483.0,3483.0
+WHS3_62,Measles - number of reported cases,2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,168107.0,168107.0
+WHS3_46,Total tetanus - number of reported cases,1977,1977,1977,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3365.0,3365.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,61.0,61.0
+WHS3_50,Yellow fever - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,18.0,18.0
+WHS3_41,Diphtheria - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,5039.0,5039.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2005,2005,2005,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,45.0,45.0
+WHS3_62,Measles - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,9960.0,9960.0
+WHS3_41,Diphtheria - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,733.0,733.0
+WHS3_46,Total tetanus - number of reported cases,1983,1983,1983,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2577.0,2577.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+WHS3_62,Measles - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,44026.0,44026.0
+WHS3_49,Poliomyelitis - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,502.0,502.0
+WHS3_56,Neonatal tetanus - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_49,Poliomyelitis - number of reported cases,1995,1995,1995,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,439.0,439.0
+WHS3_46,Total tetanus - number of reported cases,1975,1975,1975,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2596.0,2596.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2001,2001,2001,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS3_56,Neonatal tetanus - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,693.0,693.0
+WHS3_56,Neonatal tetanus - number of reported cases,2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,777.0,777.0
+WHS3_43,Pertussis - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42929.0,42929.0
+WHS3_56,Neonatal tetanus - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1103.0,1103.0
+WHS3_57,Rubella - number of reported cases,2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,234.0,234.0
+WHS3_43,Pertussis - number of reported cases,1996,1996,1996,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,24766.0,24766.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2004,2004,2004,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,43.0,43.0
+WHS3_46,Total tetanus - number of reported cases,1990,1990,1990,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2703.0,2703.0
+WHS3_50,Yellow fever - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,43.0,43.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,64.0,64.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS3_62,Measles - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,20143.0,20143.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2022,2022,2022,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_56,Neonatal tetanus - number of reported cases,1993,1993,1993,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1879.0,1879.0
+WHS3_62,Measles - number of reported cases,1989,1989,1989,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,33678.0,33678.0
+WHS3_41,Diphtheria - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2351.0,2351.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,62.0,62.0
+WHS3_46,Total tetanus - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,163.0,163.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,52.0,52.0
+WHS3_41,Diphtheria - number of reported cases,1982,1982,1982,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1170.0,1170.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,41.0,41.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2006,2006,2006,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_57,Rubella - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3691.0,3691.0
+WHS3_49,Poliomyelitis - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34.0,34.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,27.0,27.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,49.0,49.0
+WHS3_46,Total tetanus - number of reported cases,1979,1979,1979,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3370.0,3370.0
+WHS3_50,Yellow fever - number of reported cases,2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_46,Total tetanus - number of reported cases,2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,721.0,721.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_50,Yellow fever - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,6.0,6.0
+WHS3_62,Measles - number of reported cases,1979,1979,1979,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,176468.0,176468.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,48.0,48.0
+WHS3_62,Measles - number of reported cases,2002,2002,2002,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42007.0,42007.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,63.0,63.0
+WHS3_43,Pertussis - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,34920.0,34920.0
+WHS3_43,Pertussis - number of reported cases,2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,12573.0,12573.0
+WHS3_62,Measles - number of reported cases,1976,1976,1976,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,153560.0,153560.0
+WHS3_41,Diphtheria - number of reported cases,2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1870.0,1870.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,60.0,60.0
+WHS3_46,Total tetanus - number of reported cases,1988,1988,1988,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3883.0,3883.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2009,2009,2009,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,64.0,64.0
+WHS3_57,Rubella - number of reported cases,2024,2024,2024,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,730.0,730.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+WHS3_49,Poliomyelitis - number of reported cases,2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,48.0,48.0
+WHS3_50,Yellow fever - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2003,2003,2003,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,42.0,42.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,54.0,54.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,49.0,49.0
+WHS3_43,Pertussis - number of reported cases,1981,1981,1981,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,56913.0,56913.0
+WHS3_62,Measles - number of reported cases,1978,1978,1978,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,188727.0,188727.0
+WHS3_50,Yellow fever - number of reported cases,2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),2018,2018,2018,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,59.0,59.0
+WHS3_41,Diphtheria - number of reported cases,1985,1985,1985,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1996.0,1996.0
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_41,Diphtheria - number of reported cases,1998,1998,1998,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,708.0,708.0
+WHS3_50,Yellow fever - number of reported cases,1986,1986,1986,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,1318.0,1318.0
+WHS3_56,Neonatal tetanus - number of reported cases,2013,2013,2013,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,468.0,468.0
+WHS4_543,BCG immunization coverage among 1-year-olds (%),2008,2008,2008,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,65.0,65.0
+WHS3_41,Diphtheria - number of reported cases,1987,1987,1987,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,715.0,715.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_41,Diphtheria - number of reported cases,1994,1994,1994,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,469.0,469.0
+WHS3_46,Total tetanus - number of reported cases,1978,1978,1978,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3223.0,3223.0
+WHS3_41,Diphtheria - number of reported cases,2019,2019,2019,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,2289.0,2289.0
+WHS3_50,Yellow fever - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,149.0,149.0
+WHS3_62,Measles - number of reported cases,1984,1984,1984,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,182591.0,182591.0
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%),2016,2016,2016,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,53.0,53.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2007,2007,2007,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS3_56,Neonatal tetanus - number of reported cases,1997,1997,1997,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,656.0,656.0
+WHS3_56,Neonatal tetanus - number of reported cases,2017,2017,2017,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,187.0,187.0
+WHS3_53,Mumps - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,67.0,67.0
+WHS3_41,Diphtheria - number of reported cases,2000,2000,2000,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3995.0,3995.0
+WHS3_49,Poliomyelitis - number of reported cases,2011,2011,2011,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,96.0,96.0
+WHS3_46,Total tetanus - number of reported cases,1981,1981,1981,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3035.0,3035.0
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),2015,2015,2015,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,55.0,55.0
+WHS3_41,Diphtheria - number of reported cases,2023,2023,2023,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,14163.0,14163.0
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),2012,2012,2012,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,41.0,41.0
+WHS3_46,Total tetanus - number of reported cases,1991,1991,1991,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,3392.0,3392.0
+WHS3_43,Pertussis - number of reported cases,1992,1992,1992,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,22164.0,22164.0
+WHS3_43,Pertussis - number of reported cases,1974,1974,1974,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,31177.0,31177.0
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),2010,2010,2010,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),2020,2020,2020,AFR,Africa,NGA,Nigeria,Unknown,Unknown,Unknown,0.0,0.0
