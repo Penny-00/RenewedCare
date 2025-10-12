@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from sqlalchemy.orm import Session
-from database.models.disease import Disease
+from database.models.disease_dim import Disease
 from database.models.disease_indicator import DiseaseIndicator
 from database.db_connection import SessionLocal
 
@@ -35,20 +35,40 @@ def load_disease_indicators(csv_path: str, disease_name: str):
 
     new_records = []
     for _, row in df.iterrows():
+         # Normalize cross-dataset fields
+        dimension_type = (
+            row.get("DIMENSION (TYPE)")
+            or row.get("sex_type")
+        )
+        dimension_code = (
+            row.get("DIMENSION (CODE)")
+            or row.get("sex_code")
+        )
+        dimension_name = (
+            row.get("DIMENSION (NAME)")
+            or row.get("sex_name")
+        )
+        indicator_code=(row.get("indicator_code")
+            or row.get("GHO (CODE)")
+        )
+        indicator_name=(row.get("indicator_name")
+            or row.get("GHO (DISPLAY)")
+        ),
         key = (row.get("indicator_code"), row.get("year"))
         if key in existing:
             continue  # skip duplicate rows
 
+
         indicator = DiseaseIndicator(
             disease_id=disease_id,
-            indicator_code=row.get("indicator_code"),
-            indicator_name=row.get("indicator_name"),
+            indicator_code=(indicator_code),
+            indicator_name=(indicator_name),
             year=row.get("year"),
             start_year=row.get("start_year"),
             end_year=row.get("end_year"),
-            sex_type=row.get("sex_type"),
-            sex_code=row.get("sex_code"),
-            sex_name=row.get("sex_name"),
+            dimension_type=( dimension_type),
+            dimension_code=( dimension_code),
+            dimension_name=( dimension_name),
             numeric=row.get("numeric"),
             value=row.get("value"),
         )

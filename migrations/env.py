@@ -5,6 +5,7 @@ import sys
 from sqlalchemy import engine_from_config
 from sqlalchemy import pool
 from alembic import context
+import geoalchemy2
 
 # --- Alembic Config ---
 config = context.config
@@ -18,7 +19,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 # --- Import your SQLAlchemy Base and DB URL ---
 from database.db_connection import Base, DATABASE_URL
-from database.models import disease, disease_indicator, mortality_statistic, outbreak_reports
+from database.models import disease_dim, disease_indicator, mortality_statistic, outbreak_reports, geo_unit, health_facilities
 
 
 # --- Let Alembic know which metadata to use ---
@@ -36,6 +37,7 @@ def run_migrations_offline():
         target_metadata=target_metadata,
         literal_binds=True,
         dialect_opts={"paramstyle": "named"},
+        user_module_prefix="geoalchemy2."
     )
 
     with context.begin_transaction():

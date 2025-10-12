@@ -35,7 +35,7 @@ def load_outbreak_reports(csv_path: str, disease_name: str):
     db.bulk_save_objects(new_records)
     db.commit()
     db.close()
-    print(f"✅ Loaded outbreak reports for {disease_name}")
+    print(f" Loaded outbreak reports for {disease_name}")
 
 
 def load_all_outbreak_files(folder_path: str):
